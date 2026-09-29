@@ -1,0 +1,1126 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Leveling FM — Forgemagie Dofus</title>
+  <style>
+    :root {
+      --bg: #1a1a1a;
+      --panel: #242424;
+      --panel-2: #1f1f1f;
+      --text: #e8e8e8;
+      --muted: #888;
+      --accent: #d4a017;
+      --good: #4ade80;
+      --bad: #f87171;
+      --warn: #fbbf24;
+      --border: #333;
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif; background: var(--bg); color: var(--text); line-height: 1.55; }
+    nav.topnav { background: #111; border-bottom: 1px solid var(--border); padding: 12px 24px; display: flex; gap: 18px; align-items: center; }
+    nav.topnav .brand { color: var(--accent); font-weight: 700; letter-spacing: 0.5px; margin-right: 16px; }
+    nav.topnav a { color: var(--muted); text-decoration: none; padding: 6px 10px; border-radius: 4px; font-size: 14px; }
+    nav.topnav a:hover { color: var(--text); background: #222; }
+    nav.topnav a.active { color: var(--accent); background: rgba(212, 160, 23, 0.1); }
+
+    .container { max-width: 1200px; margin: 0 auto; padding: 24px; }
+    h1 { color: var(--accent); margin-top: 0; }
+    h2 { border-bottom: 1px solid var(--border); padding-bottom: 8px; margin-top: 28px; font-size: 22px; }
+    h3 { color: var(--accent); margin-top: 24px; font-size: 17px; }
+    h4 { color: var(--accent); font-size: 14px; margin-top: 18px; text-transform: uppercase; letter-spacing: 0.5px; }
+
+    .tabs { display: flex; gap: 4px; flex-wrap: wrap; border-bottom: 1px solid var(--border); margin: 18px 0; }
+    .tab { background: transparent; color: var(--muted); border: 1px solid transparent; border-bottom: none; padding: 8px 16px; cursor: pointer; border-radius: 4px 4px 0 0; font-family: inherit; font-size: 14px; }
+    .tab:hover { color: var(--text); }
+    .tab.active { background: var(--panel); color: var(--accent); border-color: var(--border); }
+
+    .panel { background: var(--panel); border: 1px solid var(--border); border-radius: 0 8px 8px 8px; padding: 20px 24px; }
+
+    .level-tabs { display: flex; gap: 4px; margin: 16px 0 12px; flex-wrap: wrap; }
+    .level-tab { background: var(--panel-2); color: var(--muted); border: 1px solid var(--border); padding: 6px 12px; border-radius: 4px; cursor: pointer; font-family: inherit; font-size: 13px; }
+    .level-tab:hover { color: var(--text); border-color: var(--accent); }
+    .level-tab.active { background: var(--accent); color: #000; border-color: var(--accent); font-weight: 600; }
+
+    .phase-block { background: var(--panel-2); border-left: 3px solid var(--accent); border-radius: 4px; padding: 14px 18px; margin: 14px 0; }
+    .phase-block .phase-header { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 8px; flex-wrap: wrap; gap: 8px; }
+    .phase-block .phase-title { color: var(--accent); font-weight: 700; font-size: 15px; }
+    .phase-block .phase-cost { color: var(--muted); font-size: 13px; }
+
+    .action-box { background: rgba(74, 222, 128, 0.08); border-left: 3px solid var(--good); padding: 10px 14px; border-radius: 4px; margin: 10px 0; font-size: 14px; }
+    .action-box strong { color: var(--good); }
+
+    .warning-box { background: rgba(251, 191, 36, 0.1); border-left: 3px solid var(--warn); padding: 10px 14px; border-radius: 4px; margin: 12px 0; font-size: 13px; }
+
+    table { width: 100%; border-collapse: collapse; font-size: 14px; margin: 10px 0; }
+    th, td { padding: 8px 10px; text-align: left; border-bottom: 1px solid var(--border); vertical-align: top; }
+    th { color: var(--muted); font-weight: 600; font-size: 12px; text-transform: uppercase; letter-spacing: 0.5px; }
+
+    .meta { color: var(--muted); font-size: 13px; }
+    code { background: #111; padding: 2px 6px; border-radius: 3px; font-size: 13px; }
+
+    .summary-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 14px 0; }
+    .summary-card { background: var(--panel-2); border: 1px solid var(--border); border-radius: 6px; padding: 12px 14px; }
+    .summary-card .label { color: var(--muted); font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; }
+    .summary-card .value { color: var(--text); font-size: 16px; font-weight: 600; margin-top: 4px; }
+
+    @media (max-width: 800px) { .summary-grid { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+
+<nav class="topnav">
+  <span class="brand">FM Tools — Tylezia</span>
+  <a href="../calc-poids/index.html">Calc poids</a>
+  <a href="../leveling-fm/index.html" class="active">Leveling FM</a>
+</nav>
+
+<div class="container">
+  <h1>Leveling de Forgemagie — Dofus 3 / Unity</h1>
+  <p class="meta">
+    Tous les items sont validés via l'API DofusDB (✓). Niveau et nom = données <strong>Dofus 3 actuel</strong>. Clique sur un item pour voir sa fiche DofusDB.
+  </p>
+
+  <div class="warning-box">
+    <strong>⚠️ Prix HDV indicatifs</strong> — Les coûts sont des ordres de grandeur. Sur Tylezia (mono-compte), les prix runes/items peuvent varier de ×0.5 à ×3. À calibrer après tes premières observations HDV.
+  </div>
+
+  <div class="tabs" id="professionTabs"></div>
+  <div class="panel" id="content"></div>
+</div>
+
+<script>
+// =====================================================================
+// PROTOCOLES DE LEVELING — Items 100% validés via api.dofusdb.fr
+// Données récupérées le 2026-05-18 depuis api.dofusdb.fr/items
+// =====================================================================
+
+const PROFESSIONS = {
+  bijoutomage: {
+    label: "Bijoutomage",
+    icon: "💍",
+    overview: {
+      itemsType: "Amulettes + Anneaux",
+      prerequisite: "Bijoutier niveau 65+",
+      learnPath: "PNJ Bijoutier-Mage à Astrub (Atelier des Bijoutiers)",
+      whyDoIt: "Meilleur métier pour démarrer : petits items = pertes faibles. Bon marché exo PA pour anneaux THL."
+    },
+    levels: {
+      "1-20": {
+        title: "Lvl 1 → 20",
+        goal: "Apprendre l'interface FM avec les anneaux/amulettes lvl 1-15.",
+        budgetTotal: "~50-150k kamas",
+        tips: "Ne touche QUE des Ra à ce stade. Échec = 1 Ra perdu, par design.",
+        phases: [
+          {
+            phaseTitle: "Lvl 1 → 10 — Anneaux & amulettes basiques",
+            items: [
+              { name: "Anneau Rexik", level: 1, id: 787, stats: "Agi 4-5, Malchance 4-5" },
+              { name: "Petit Anneau Magique", level: 1, id: 852, stats: "Int 5-7" },
+              { name: "Petit Anneau du Chanceux", level: 1, id: 853, stats: "Ch 5-7" },
+              { name: "Pendentif du Hibou Chétif", level: 3, id: 786, stats: "Stat basique" }
+            ],
+            runesPerItem: [
+              { name: "Ra Vi / Ra In / Ra Ch / Ra Ag", qty: "1-2" }
+            ],
+            action: "Sur chaque item brut, monter la stat (Vi, In, Ch, ou Ag) de sa valeur actuelle vers le max. 1 Ra suffit si jet base = max-1, 2 Ra sinon.",
+            volume: "30-50 items",
+            phaseCost: "~30-80k k"
+          },
+          {
+            phaseTitle: "Lvl 10 → 20 — Anneaux Piou & Fortifiant",
+            items: [
+              { name: "Anneau Fortifiant", level: 10, id: 785, stats: "Vita + autres" },
+              { name: "Anneau du Piou Rouge", level: 10, id: 8219, stats: "Stat élémentaire + vita" },
+              { name: "Amulette du Piou Bleu", level: 10, id: 8214, stats: "Stat élémentaire + vita" },
+              { name: "Amulette Tétriste", level: 10, id: 12421, stats: "Vita + stats" }
+            ],
+            runesPerItem: [
+              { name: "Ra Vi", qty: "3-5" },
+              { name: "Ra Fo / Ra Ch", qty: "1-2" }
+            ],
+            action: "Maxer vita en priorité (coef 0.2, peu de poids). Puis maxer 1-2 stats élémentaires. Toujours vérifier le poids avec le Calc poids avant de FM.",
+            volume: "20-30 items",
+            phaseCost: "~50-100k k"
+          }
+        ]
+      },
+      "20-50": {
+        title: "Lvl 20 → 50",
+        goal: "Internaliser la gestion poids. Switch sur Pa.",
+        budgetTotal: "~400k-1.2M kamas",
+        tips: "Vise les jets parfaits → revente nette compense ton coût d'XP.",
+        phases: [
+          {
+            phaseTitle: "Lvl 20 → 35 — Anneau du Tofu, Mousse, Bouftou",
+            items: [
+              { name: "Anneau du Tofu", level: 21, id: 8109, stats: "Vita + Chance" },
+              { name: "Amulette du Bouftou", level: 20, id: 2425, stats: "Vita + Force + stats" },
+              { name: "Anneau en Mousse", level: 20, id: 8254, stats: "Stats élémentaires" },
+              { name: "Anneau de Bouze le Clerc", level: 20, id: 2419, stats: "Vita + stats" }
+            ],
+            runesPerItem: [
+              { name: "Pa Vi", qty: "1-2" },
+              { name: "Ra Vi de finition", qty: "1-3" },
+              { name: "Ra Fo / Ra Ch", qty: "2-3" }
+            ],
+            action: "Premier contact Pa Vi. Maxer vita avec 1-2 Pa puis ajuster avec Ra. Échange de stats : retirer une stat parasite, en ajouter une utile.",
+            volume: "15-25 items",
+            phaseCost: "~150-400k k"
+          },
+          {
+            phaseTitle: "Lvl 35 → 50 — Anneau Dhyn, Cristalline, Accord",
+            items: [
+              { name: "L'Anneau Dhyn", level: 36, id: 1495, stats: "Stats variées" },
+              { name: "Bague Cristalline", level: 37, id: 9452, stats: "Stats variées" },
+              { name: "Amulette de Silicate", level: 37, id: 916, stats: "Sa + stats" },
+              { name: "Accord", level: 38, id: 1480, stats: "Stats variées" }
+            ],
+            runesPerItem: [
+              { name: "Pa Vi", qty: "2-3" },
+              { name: "Pa Fo / Pa Ch", qty: "1-2" },
+              { name: "Ra Sa", qty: "1-3" }
+            ],
+            action: "FM blanche complète. Premier exercice de FM en puits (retirer une stat pour en ajouter une autre via rune puits).",
+            volume: "10-20 items",
+            phaseCost: "~250-800k k"
+          }
+        ]
+      },
+      "50-100": {
+        title: "Lvl 50 → 100",
+        goal: "Pwa accessibles. FM rentable.",
+        budgetTotal: "~2-5M kamas",
+        tips: "À lvl 80+ tu peux commencer à vendre tes services FM (anneaux clean).",
+        phases: [
+          {
+            phaseTitle: "Lvl 50 → 75 — Zocomial, Logram, Amublop",
+            items: [
+              { name: "Anneau Zocomial", level: 50, id: 7121, stats: "Stats variées" },
+              { name: "Anneau de Logram", level: 50, id: 12033, stats: "Stats variées" },
+              { name: "Amublop Coco", level: 50, id: 9151, stats: "Stats Blop" },
+              { name: "Anodindo", level: 50, id: 7555, stats: "Stats variées" }
+            ],
+            runesPerItem: [
+              { name: "Pa Vi", qty: "3-4" },
+              { name: "Pa Sa", qty: "1-2" },
+              { name: "Pa Fo/In/Ch/Ag", qty: "2-3" }
+            ],
+            action: "FM blanche complète. Apprendre les exos théoriques (lis kb/03-exo-pa-playbook.md).",
+            volume: "8-15 items",
+            phaseCost: "~800k-2M k"
+          },
+          {
+            phaseTitle: "Lvl 75 → 100 — Qil Bil, Epis de Farle, Ouroboulos",
+            items: [
+              { name: "Anneau de Qil Bil", level: 75, id: 33566, stats: "Stats variées" },
+              { name: "Epis de Farle", level: 75, id: 6766, stats: "Amulette stats" },
+              { name: "Anneau Ouroboulos", level: 80, id: 18424, stats: "Stats variées" },
+              { name: "Bracelet Magique de Farle", level: 79, id: 6767, stats: "Stats variées" }
+            ],
+            runesPerItem: [
+              { name: "Pwa Vi", qty: "0-1" },
+              { name: "Pa Sa", qty: "2-3" },
+              { name: "Pa élémentaires", qty: "2-3" }
+            ],
+            action: "Toucher Pwa Vi sur items haute vita. Apprendre à dompter le coef sagesse (3).",
+            volume: "6-12 items",
+            phaseCost: "~1-3M k"
+          }
+        ]
+      },
+      "100-150": {
+        title: "Lvl 100 → 150",
+        goal: "FM brisée rentable. Premier exo PA testeur.",
+        budgetTotal: "~5-20M kamas",
+        tips: "FM brisée = acheter cassé → remettre clean → revendre. Marge typique 30-50%.",
+        phases: [
+          {
+            phaseTitle: "Lvl 100 → 125 — Chef Bwork, Dragon Cochon, Rat",
+            items: [
+              { name: "Bracelet du Chef Bwork", level: 100, id: 6805, stats: "Stats variées" },
+              { name: "Amulette du Chef Bwork", level: 100, id: 6804, stats: "Stats variées" },
+              { name: "Anneau du Dragon Cochon", level: 108, id: 8271, stats: "Stats Force + vita" },
+              { name: "Gant du Rat Blanc", level: 101, id: 8454, stats: "Stats variées" }
+            ],
+            runesPerItem: [
+              { name: "Pwa Vi", qty: "1-2" },
+              { name: "Pa Sa", qty: "2-4" }
+            ],
+            action: "FM brisée : acheter Chef Bwork ou Rat Blanc brisés sous-cotés → maxer toutes les stats → revente.",
+            volume: "3-8 cycles",
+            phaseCost: "~1.5-5M k"
+          },
+          {
+            phaseTitle: "Lvl 125 → 150 — Meulou, Dragoeuf, Bouflouth",
+            items: [
+              { name: "Anneau du Meulou", level: 126, id: 8263, stats: "Stats THL" },
+              { name: "Les Casse-noisettes", level: 126, id: 23261, stats: "Stats variées" },
+              { name: "Anneau du Dragoeuf", level: 127, id: 8289, stats: "Stats Dragoeuf set" },
+              { name: "Amulette de Bouflouth", level: 128, id: 32202, stats: "Stats variées" }
+            ],
+            runesPerItem: [
+              { name: "Pwa Vi", qty: "2-3" },
+              { name: "Pwa Sa", qty: "1-2" },
+              { name: "Pa diverses", qty: "3-5" }
+            ],
+            action: "FM blanche premium + premier exo PA testeur sur item pas cher (Anneau Tofu lvl 21 par ex.) pour apprendre.",
+            volume: "5-10 items",
+            phaseCost: "~3-10M k"
+          }
+        ]
+      },
+      "150-200": {
+        title: "Lvl 150 → 200",
+        goal: "Maîtrise. Exo PA en routine sur items premium.",
+        budgetTotal: "Variable — cycles 20-100M",
+        tips: "Tu es rentable. Le métier devient un job.",
+        phases: [
+          {
+            phaseTitle: "Lvl 150 → 175 — Anneau Bhli, Hell, Pwal",
+            items: [
+              { name: "Anneau Bhli", level: 150, id: 8714, stats: "Stats THL" },
+              { name: "Anneau Hell", level: 150, id: 8722, stats: "Stats THL" },
+              { name: "Anneau Pwal", level: 150, id: 8724, stats: "Stats THL" },
+              { name: "Collier du Tanukouï San", level: 152, id: 7221, stats: "Amulette THL" }
+            ],
+            runesPerItem: [
+              { name: "Pwa Vi", qty: "3-4" },
+              { name: "Pwa Sa", qty: "1-3" }
+            ],
+            action: "FM blanche premium. Premier exo PA sur items THL accessibles.",
+            volume: "5-10 items",
+            phaseCost: "~5-15M k"
+          },
+          {
+            phaseTitle: "Lvl 175 → 200 — Korriandre, Guten Tak, YeCh'Ti",
+            items: [
+              { name: "Anneau de Guten Tak", level: 175, id: 12100, stats: "Stats THL" },
+              { name: "Anneau du Korriandre", level: 176, id: 11714, stats: "Stats Korriandre set" },
+              { name: "Amulette de Guten Tak", level: 177, id: 12102, stats: "Stats THL" },
+              { name: "Mitaine du YeCh'Ti", level: 178, id: 32217, stats: "Stats THL" }
+            ],
+            runesPerItem: [
+              { name: "Pwa Vi/Sa", qty: "3-5" },
+              { name: "Pwa Sa pour exo", qty: "20-50 (en surcharge)" }
+            ],
+            action: "Exo PA en routine sur Korriandre/Guten Tak. Marché Tylezia actif sur ces items.",
+            volume: "5-15 cycles exo",
+            phaseCost: "Variable"
+          },
+          {
+            phaseTitle: "Lvl 200 — Items premium",
+            items: [
+              { name: "Anneau du Comte Harebourg", level: 200, id: 14077, stats: "Stats THL premium" },
+              { name: "Alliance Brûlâme", level: 200, id: 19264, stats: "Stats Brûlâme set" },
+              { name: "Alliance du Dark Vlad", level: 200, id: 30943, stats: "Stats Dark Vlad set" },
+              { name: "Alliance du Pandamonium", level: 200, id: 25218, stats: "Stats Pandamonium" }
+            ],
+            runesPerItem: [
+              { name: "Pwa diverses", qty: "selon FM" }
+            ],
+            action: "Services FM premium + arbitrage HDV. Cycles exo 20-100M chacun.",
+            volume: "Continu",
+            phaseCost: "ROI positif"
+          }
+        ]
+      }
+    }
+  },
+
+  cordomage: {
+    label: "Cordomage",
+    icon: "👢",
+    overview: {
+      itemsType: "Ceintures + Bottes",
+      prerequisite: "Cordonnier niveau 65+",
+      learnPath: "PNJ Cordonnier-Mage (Astrub Atelier)",
+      whyDoIt: "Bottes = porte d'entrée pour exo PM. Marché solide sur ceintures THL."
+    },
+    levels: {
+      "1-20": {
+        title: "Lvl 1 → 20",
+        goal: "Apprendre sur bottes/ceintures bas niveau.",
+        budgetTotal: "~50-150k kamas",
+        tips: "Bottes ont souvent moins de stats que les anneaux → gestion poids plus simple.",
+        phases: [
+          {
+            phaseTitle: "Lvl 1 → 10 — Bottes et ceintures basiques",
+            items: [
+              { name: "Bottes de Force", level: 1, id: 861, stats: "Force + vita" },
+              { name: "Ceinture de Chance", level: 1, id: 860, stats: "Chance + vita" },
+              { name: "Bottes Usées d'Hogmeiser", level: 1, id: 911, stats: "Stats basiques" },
+              { name: "Ceinture du Kobeer", level: 1, id: 789, stats: "Stats basiques" }
+            ],
+            runesPerItem: [
+              { name: "Ra Vi / Ra Fo / Ra Ch", qty: "1-3" }
+            ],
+            action: "Sur chaque item, monter la stat principale vers le max avec 1-2 Ra.",
+            volume: "30-50 items",
+            phaseCost: "~30-80k k"
+          },
+          {
+            phaseTitle: "Lvl 10 → 20 — Bottes Piou & Karnaval",
+            items: [
+              { name: "Sandales du Piou Vert", level: 10, id: 8229, stats: "Stat élémentaire" },
+              { name: "Ceinture du Piou Rose", level: 10, id: 8242, stats: "Stat élémentaire" },
+              { name: "Bottes Nō", level: 10, id: 14803, stats: "Stats variées" },
+              { name: "Ceinturong", level: 10, id: 12753, stats: "Stats variées" }
+            ],
+            runesPerItem: [
+              { name: "Ra Vi", qty: "2-4" },
+              { name: "Ra élémentaire", qty: "1-2" }
+            ],
+            action: "Maxer vita + 1 stat élémentaire. Repérer les bottes avec PM de base.",
+            volume: "20-30 items",
+            phaseCost: "~50-100k k"
+          }
+        ]
+      },
+      "20-50": {
+        title: "Lvl 20 → 50",
+        goal: "Pa accessibles. Premier profit.",
+        budgetTotal: "~400k-1.2M kamas",
+        tips: "Sur Tylezia, repère les bottes/ceintures qui ont du marché en parfait.",
+        phases: [
+          {
+            phaseTitle: "Lvl 20 → 35 — Bouftou & Mousse",
+            items: [
+              { name: "Boufbottes", level: 20, id: 2422, stats: "Stats Bouftou" },
+              { name: "Ceinture du Bouftou", level: 20, id: 2428, stats: "Stats Bouftou" },
+              { name: "Bottes en Mousse", level: 20, id: 8256, stats: "Stats variées" },
+              { name: "Ceinture en Mousse", level: 20, id: 8257, stats: "Stats variées" }
+            ],
+            runesPerItem: [
+              { name: "Pa Vi", qty: "1-2" },
+              { name: "Pa Fo", qty: "1-2" },
+              { name: "Ra de finition", qty: "1-3" }
+            ],
+            action: "FM blanche complète. Items Bouftou set bonne XP + revente claire.",
+            volume: "15-25 items",
+            phaseCost: "~150-400k k"
+          },
+          {
+            phaseTitle: "Lvl 35 → 50 — Akwadala, Garde Royal",
+            items: [
+              { name: "Geta Akwadala", level: 35, id: 7242, stats: "Stats Akwadala" },
+              { name: "Bottes Tarsy", level: 38, id: 2374, stats: "Stats variées" },
+              { name: "Bottes du Garde Royal", level: 38, id: 17507, stats: "Stats Garde Royal" },
+              { name: "L'oxolature", level: 37, id: 10191, stats: "Ceinture stats" }
+            ],
+            runesPerItem: [
+              { name: "Pa Vi", qty: "2-3" },
+              { name: "Pa Fo / Pa Ch", qty: "1-2" }
+            ],
+            action: "FM blanche + premier puits. Sortir parfait pour revente nette.",
+            volume: "10-15 items",
+            phaseCost: "~250-800k k"
+          }
+        ]
+      },
+      "50-100": {
+        title: "Lvl 50 → 100",
+        goal: "Pwa. FM brisée. Théorie exo PM.",
+        budgetTotal: "~2-5M kamas",
+        tips: "L'exo PM est typiquement plus accessible que l'exo PA sur bottes.",
+        phases: [
+          {
+            phaseTitle: "Lvl 50 → 75 — Blop, Fulgurante, Kolante",
+            items: [
+              { name: "Botodindo", level: 50, id: 7554, stats: "Stats variées" },
+              { name: "Bloptes Coco", level: 50, id: 9160, stats: "Stats Blop" },
+              { name: "Ceinture Fulgurante", level: 50, id: 968, stats: "Stats variées" },
+              { name: "Ceinture Kolante", level: 50, id: 2688, stats: "Stats Kolante" }
+            ],
+            runesPerItem: [
+              { name: "Pa Vi", qty: "3-4" },
+              { name: "Pa Ag", qty: "1-2" }
+            ],
+            action: "FM blanche + revente. Premier vrai profit sur Kolante/Fulgurante.",
+            volume: "8-15 items",
+            phaseCost: "~800k-2M k"
+          },
+          {
+            phaseTitle: "Lvl 75 → 100 — Hogmeiser, Craqueleur",
+            items: [
+              { name: "Bottes d'Hogmeiser", level: 75, id: 910, stats: "Stats THL début" },
+              { name: "Ceinture du Craqueleur Légendaire", level: 79, id: 8152, stats: "Stats Craqueleur" },
+              { name: "Ceinture de Nelween", level: 78, id: 12072, stats: "Stats variées" }
+            ],
+            runesPerItem: [
+              { name: "Pwa Vi", qty: "1-2" },
+              { name: "Pa Sa", qty: "2-3" }
+            ],
+            action: "Toucher Pwa Vi. Premier exo PM testeur sur bottes lvl 50-60 (item testeur cheap, pas sur Hogmeiser).",
+            volume: "5-10 items",
+            phaseCost: "~1-3M k"
+          }
+        ]
+      },
+      "100-150": {
+        title: "Lvl 100 → 150",
+        goal: "Exo PM en routine sur bottes.",
+        budgetTotal: "~5-20M kamas",
+        tips: "Une paire de bottes exo PM se vend très cher sur Tylezia mono-compte.",
+        phases: [
+          {
+            phaseTitle: "Lvl 100 → 125 — Bottes Antrin/Antouche, Chef Bwork",
+            items: [
+              { name: "Bottes Antrin", level: 100, id: 8663, stats: "Stats variées" },
+              { name: "Bottes Antouche", level: 100, id: 8727, stats: "Stats variées" },
+              { name: "Slip du Chef Bwork", level: 100, id: 6812, stats: "Stats Bwork" },
+              { name: "Ceinture Ding Dong", level: 100, id: 14277, stats: "Stats variées" }
+            ],
+            runesPerItem: [
+              { name: "Pwa Vi", qty: "2-3" },
+              { name: "Pa diverses", qty: "3-5" }
+            ],
+            action: "FM brisée Chef Bwork (set très populaire pour exo PA total). Revente clean.",
+            volume: "3-8 cycles",
+            phaseCost: "~1.5-5M k"
+          },
+          {
+            phaseTitle: "Lvl 125 → 150 — Meulou, Dragoeuf",
+            items: [
+              { name: "Bottes du Meulou", level: 131, id: 8264, stats: "Stats Meulou set" },
+              { name: "Ceinture du Meulou", level: 125, id: 8266, stats: "Stats Meulou set" },
+              { name: "Bottes du Dragoeuf", level: 128, id: 8291, stats: "Stats Dragoeuf" },
+              { name: "Ceinture du Dragoeuf", level: 126, id: 8288, stats: "Stats Dragoeuf" }
+            ],
+            runesPerItem: [
+              { name: "Pwa Vi", qty: "3-4" },
+              { name: "Pa Sa pour exo PM", qty: "20-50 en surcharge" }
+            ],
+            action: "FM blanche + tentative exo PM sur bottes lvl 130-140 (items testeurs avant THL).",
+            volume: "2-5 tentatives exo",
+            phaseCost: "~3-15M k"
+          }
+        ]
+      },
+      "150-200": {
+        title: "Lvl 150 → 200",
+        goal: "Maîtrise. Bottes exo PM premium.",
+        budgetTotal: "Cycles 20-100M+",
+        tips: "Cordomage devient super lucratif à partir de 170+ sur bottes exo PM.",
+        phases: [
+          {
+            phaseTitle: "Lvl 150 → 175 — Phossiles, Grozilla, Hambic",
+            items: [
+              { name: "Bottes Phossiles", level: 151, id: 15198, stats: "Stats THL" },
+              { name: "Bottes de Grozilla", level: 155, id: 12412, stats: "Stats Grozilla" },
+              { name: "Bottes de Cantile", level: 156, id: 12096, stats: "Stats variées" },
+              { name: "Slip Hie", level: 152, id: 11611, stats: "Ceinture stats" }
+            ],
+            runesPerItem: [
+              { name: "Pwa Vi", qty: "3-5" },
+              { name: "Pa Sa pour exo PM", qty: "30-60 en surcharge" }
+            ],
+            action: "Premier vrai exo PM en série sur bottes THL.",
+            volume: "5-10 cycles",
+            phaseCost: "~10-30M k"
+          },
+          {
+            phaseTitle: "Lvl 175 → 200 — XLII, Nécrotiques, Korriandre",
+            items: [
+              { name: "Bottes de XLII", level: 176, id: 15762, stats: "Stats THL" },
+              { name: "Bottes Nécrotiques", level: 177, id: 15500, stats: "Stats Nécrotiques" },
+              { name: "Bottes du K.O.", level: 180, id: 17121, stats: "Stats THL" },
+              { name: "Pagne du Soryo Givrefoux", level: 175, id: 11732, stats: "Ceinture THL" },
+              { name: "Ceinture Mycosine", level: 177, id: 9144, stats: "Stats THL" }
+            ],
+            runesPerItem: [
+              { name: "Pwa diverses", qty: "3-5" },
+              { name: "Pa Sa pour exo", qty: "30-80" }
+            ],
+            action: "Exo PM en routine sur bottes THL. Services FM payants.",
+            volume: "Continu",
+            phaseCost: "ROI positif"
+          }
+        ]
+      }
+    }
+  },
+
+  costumage: {
+    label: "Costumage",
+    icon: "🎩",
+    overview: {
+      itemsType: "Capes + Chapeaux/Coiffes",
+      prerequisite: "Tailleur niveau 65+",
+      learnPath: "PNJ Tailleur-Mage (Astrub Atelier des Tailleurs)",
+      whyDoIt: "Plus lucratif (capes THL exo PA très chères) mais aussi plus risqué : items chers, beaucoup de stats."
+    },
+    levels: {
+      "1-20": {
+        title: "Lvl 1 → 20",
+        goal: "Apprendre la complexité des capes (multi-stats).",
+        budgetTotal: "~80-200k kamas",
+        tips: "Capes ont plus de stats que bijoux → utilise toujours le Calc poids avant FM.",
+        phases: [
+          {
+            phaseTitle: "Lvl 1 → 10 — Capes & coiffes basiques",
+            items: [
+              { name: "Cape du Pirate", level: 1, id: 677, stats: "Stats basiques" },
+              { name: "Cape Bontarienne", level: 1, id: 2119, stats: "Stats basiques" },
+              { name: "Louffeur", level: 1, id: 940, stats: "Chapeau basique" },
+              { name: "Casque des Mercenaires d'Astrub", level: 1, id: 6863, stats: "Chapeau basique" }
+            ],
+            runesPerItem: [
+              { name: "Ra Vi", qty: "3-5" },
+              { name: "Ra Fo / Ra Ch", qty: "1-2" }
+            ],
+            action: "Maxer vita + 1 stat élémentaire. Premier contact avec items multi-stats.",
+            volume: "30-50 items",
+            phaseCost: "~50-100k k"
+          },
+          {
+            phaseTitle: "Lvl 10 → 20 — Capes Piou & Pandawushu",
+            items: [
+              { name: "Cape du Piou Jaune", level: 10, id: 8233, stats: "Stat élémentaire" },
+              { name: "Cape du Piou Rose", level: 11, id: 8235, stats: "Stat élémentaire" },
+              { name: "Cape Pandawushu", level: 11, id: 7174, stats: "Stats variées" },
+              { name: "Chapeau du Piou Violet", level: 10, id: 8245, stats: "Stat élémentaire" }
+            ],
+            runesPerItem: [
+              { name: "Ra Vi", qty: "4-6" },
+              { name: "Ra élémentaire", qty: "2-3" }
+            ],
+            action: "Maxer vita puis stat élémentaire. Apprendre à équilibrer.",
+            volume: "20-30 items",
+            phaseCost: "~80-150k k"
+          }
+        ]
+      },
+      "20-50": {
+        title: "Lvl 20 → 50",
+        goal: "Pa accessibles. Capes Bouftou & Mousse.",
+        budgetTotal: "~500k-1.5M kamas",
+        tips: "Capes Bouftou parfaites se vendent toujours — bon entraînement.",
+        phases: [
+          {
+            phaseTitle: "Lvl 20 → 35 — Bouftou & Mousse",
+            items: [
+              { name: "Cape Bouffante", level: 20, id: 2414, stats: "Stats Bouftou-set" },
+              { name: "Cape de l'Homme Ours", level: 20, id: 6720, stats: "Stats Homme Ours" },
+              { name: "Coiffe du Bouftou", level: 20, id: 2411, stats: "Stats Bouftou" },
+              { name: "Cape en Mousse", level: 20, id: 8258, stats: "Stats variées" }
+            ],
+            runesPerItem: [
+              { name: "Pa Vi", qty: "2-3" },
+              { name: "Pa Fo", qty: "1-2" },
+              { name: "Ra Sa", qty: "2-3" }
+            ],
+            action: "FM blanche complète sur capes Bouftou. Bon volume d'XP par cape.",
+            volume: "15-25 capes",
+            phaseCost: "~300-700k k"
+          },
+          {
+            phaseTitle: "Lvl 35 → 50 — Tofu Fou, Prespic, Maimpa",
+            items: [
+              { name: "Cape du Tofu Fou", level: 36, id: 953, stats: "Stats variées" },
+              { name: "Cape Maimpa", level: 36, id: 2382, stats: "Stats Maimpa" },
+              { name: "Cape du Prespic", level: 37, id: 6927, stats: "Stats Prespic" },
+              { name: "Dora", level: 36, id: 703, stats: "Chapeau stats" }
+            ],
+            runesPerItem: [
+              { name: "Pa Vi", qty: "3-4" },
+              { name: "Pa Sa", qty: "1-2" },
+              { name: "Pa élémentaire", qty: "1-2" }
+            ],
+            action: "FM blanche → revente. Cape Maimpa et Tofu Fou ont bon marché.",
+            volume: "10-15 capes",
+            phaseCost: "~500k-1M k"
+          }
+        ]
+      },
+      "50-100": {
+        title: "Lvl 50 → 100",
+        goal: "Pwa. Maîtrise stats lourdes (dommages, sa).",
+        budgetTotal: "~3-8M kamas",
+        tips: "Coef dommages = 20 (ÉNORME). Une seule erreur peut tout casser.",
+        phases: [
+          {
+            phaseTitle: "Lvl 50 → 75 — Ouginak, Capodindo, Rebelles",
+            items: [
+              { name: "Cape Ouginak", level: 50, id: 1910, stats: "Stats Ouginak set" },
+              { name: "Capodindo", level: 50, id: 7552, stats: "Stats variées" },
+              { name: "Cape des Rebelles", level: 50, id: 27523, stats: "Stats Rebelles" },
+              { name: "Masque Kanniboul", level: 50, id: 1088, stats: "Chapeau stats" }
+            ],
+            runesPerItem: [
+              { name: "Pa Vi", qty: "3-5" },
+              { name: "Pa Sa", qty: "2-3" },
+              { name: "Pa Do", qty: "0-1" }
+            ],
+            action: "Premier contact Pa Do (coef 20). Très prudent avec le poids.",
+            volume: "8-15 capes",
+            phaseCost: "~1-3M k"
+          },
+          {
+            phaseTitle: "Lvl 75 → 100 — Farle, Ouroboulos, Gelax",
+            items: [
+              { name: "Cape de Farle", level: 76, id: 6775, stats: "Stats Farle" },
+              { name: "Cape Ouroboulos", level: 78, id: 18423, stats: "Stats variées" },
+              { name: "Couronne du Roi Gelax", level: 79, id: 7038, stats: "Chapeau premium" },
+              { name: "Cape Aircussion", level: 80, id: 12388, stats: "Stats variées" }
+            ],
+            runesPerItem: [
+              { name: "Pwa Vi", qty: "1-2" },
+              { name: "Pa Sa", qty: "3-4" },
+              { name: "Pa Do", qty: "1-2" }
+            ],
+            action: "FM blanche + premier exo Vi (gros bond) avec Pwa Vi.",
+            volume: "6-12 capes",
+            phaseCost: "~2-5M k"
+          }
+        ]
+      },
+      "100-150": {
+        title: "Lvl 100 → 150",
+        goal: "FM brisée Chef Bwork. Exo PA testeur sur cape pas chère.",
+        budgetTotal: "~10-30M kamas",
+        tips: "Ne tente JAMAIS un exo PA sur cape sans avoir maîtrisé la FM brisée.",
+        phases: [
+          {
+            phaseTitle: "Lvl 100 → 125 — Chef Bwork, Krokilleur, Muloubar",
+            items: [
+              { name: "Cape du Chef Bwork", level: 100, id: 6811, stats: "Stats Bwork set" },
+              { name: "Cape du Muloubar", level: 100, id: 19091, stats: "Stats variées" },
+              { name: "Cape du Krokilleur", level: 101, id: 12413, stats: "Stats variées" },
+              { name: "Casque du Chef Bwork", level: 100, id: 6813, stats: "Stats Bwork set" }
+            ],
+            runesPerItem: [
+              { name: "Pwa Vi", qty: "2-4" },
+              { name: "Pa Sa", qty: "3-5" }
+            ],
+            action: "FM brisée Chef Bwork = très rentable (set populaire). Acheter cassé sous-coté → clean → revendre.",
+            volume: "3-6 cycles",
+            phaseCost: "~3-10M k"
+          },
+          {
+            phaseTitle: "Lvl 125 → 150 — Dragoeuf, Xélomorphe, Royalmouth",
+            items: [
+              { name: "Cape Dragoeuf", level: 125, id: 8286, stats: "Stats Dragoeuf set" },
+              { name: "Cape Xélomorphe", level: 125, id: 15791, stats: "Stats Xélomorphe" },
+              { name: "Cape d'Ali Grothor", level: 126, id: 15523, stats: "Stats variées" },
+              { name: "Coiffe du Royalmouth", level: 125, id: 11571, stats: "Chapeau THL" }
+            ],
+            runesPerItem: [
+              { name: "Pwa Vi", qty: "3-4" },
+              { name: "Pwa Sa", qty: "1-2" },
+              { name: "Pa Do", qty: "2-3" }
+            ],
+            action: "FM blanche premium. Tester exo PA sur Cape Bouffante lvl 20 (testeur 30-60k k).",
+            volume: "5-10 capes + 2-5 tentatives exo testeur",
+            phaseCost: "~5-15M k"
+          }
+        ]
+      },
+      "150-200": {
+        title: "Lvl 150 → 200",
+        goal: "Exo PA sur capes premium. Profit-machine.",
+        budgetTotal: "Cycles 20-100M+",
+        tips: "Costumage = le plus lucratif si tu maîtrises. Sois patient sur les exos.",
+        phases: [
+          {
+            phaseTitle: "Lvl 150 → 175 — Souveraine, Cantile, Augilol",
+            items: [
+              { name: "Cape Souveraine du Roissingue", level: 152, id: 8818, stats: "Stats Roissingue" },
+              { name: "Cape de Cantile", level: 153, id: 12093, stats: "Stats variées" },
+              { name: "Pèlerine d'Augilol", level: 151, id: 14001, stats: "Stats variées" },
+              { name: "Barbe de Zatoïshwan", level: 154, id: 17098, stats: "Chapeau THL" }
+            ],
+            runesPerItem: [
+              { name: "Pwa Vi", qty: "3-5" },
+              { name: "Pwa Sa", qty: "2-3" },
+              { name: "Pa Do", qty: "2-3" }
+            ],
+            action: "FM blanche premium + exo PA en routine sur Cape Souveraine.",
+            volume: "5-10 cycles",
+            phaseCost: "~10-30M k"
+          },
+          {
+            phaseTitle: "Lvl 175 → 200 — Korriandre, Tengu, Voile d'encre",
+            items: [
+              { name: "Voile d'encre", level: 191, id: 8876, stats: "Vita 350 + Fo 70 + In 70 + Sa 40 + Dom 10 + Rés", hilite: true },
+              { name: "Cape du Korriandre", level: 179, id: 11712, stats: "Stats Korriandre set" },
+              { name: "Cape de Tengu Givrefoux", level: 177, id: 11708, stats: "Stats THL" },
+              { name: "Cape Surde", level: 176, id: 11726, stats: "Stats variées" }
+            ],
+            runesPerItem: [
+              { name: "Pwa Sa pour exo", qty: "30-100 (en surcharge)" },
+              { name: "Pa réparation Vi/Fo/In/Do", qty: "20-40" }
+            ],
+            action: "Exo PA sur Voile d'encre & Cape Korriandre = top du marché Tylezia. Cf. kb/03-exo-pa-playbook.md.",
+            volume: "Continu",
+            phaseCost: "Cycles 20-50M chacun, success ~20-30%"
+          }
+        ]
+      }
+    }
+  },
+
+  armes: {
+    label: "Forgemagie d'armes",
+    icon: "⚔️",
+    overview: {
+      itemsType: "Épées (114), Marteaux (96), Dagues (78), Pelles, Baguettes, Bâtons, Arcs, Haches, Faux",
+      prerequisite: "Forgeron/Sculpteur de l'arme correspondante niveau 65+",
+      learnPath: "PNJ Mage de l'arme correspondante (Atelier d'Astrub)",
+      whyDoIt: "Coef Dommages = 20 (le plus lourd). XP énorme par FM. Marché très porteur pour exo Dommages et exo PA sur armes premium."
+    },
+    levels: {
+      "1-20": {
+        title: "Lvl 1 → 20",
+        goal: "Apprendre sur armes basiques. Découvrir le coef Dommages (20).",
+        budgetTotal: "~100-300k kamas",
+        tips: "Le coef Dommages = 20 est le plus élevé hors exos. Maîtrise la gestion poids dès le départ.",
+        phases: [
+          {
+            phaseTitle: "Lvl 1 → 10 — Armes basiques",
+            items: [
+              { name: "Marteau Martel", level: 1, id: 9961, stats: "Stats basiques" },
+              { name: "Couteau de Chasse", level: 1, id: 1934, stats: "Dague basique" },
+              { name: "Marteau de Boisaille", level: 6, id: 147, stats: "Stats basiques" },
+              { name: "Épée de Boisaille", level: 7, id: 44, stats: "Stats basiques" }
+            ],
+            runesPerItem: [
+              { name: "Ra Vi", qty: "1-2" },
+              { name: "Ra Do", qty: "1-2", unitPrice: "300-800 k" }
+            ],
+            action: "Ra Do plus chères que Ra basiques. Sur chaque arme, monter vita et dommages d'1-2 points avec des Ra. Observer le poids consommé par le dommages (20/u).",
+            volume: "30-40 armes",
+            phaseCost: "~80-200k k"
+          },
+          {
+            phaseTitle: "Lvl 10 → 20 — Armes de l'initié",
+            items: [
+              { name: "Épée de l'initié", level: 12, id: 6780, stats: "Vita + dommages basique" },
+              { name: "Marteau de l'initié", level: 12, id: 6785, stats: "Vita + dommages basique" },
+              { name: "Dagues de l'initié", level: 12, id: 6784, stats: "Stats variées" },
+              { name: "La Queue", level: 13, id: 357, stats: "Épée variée" }
+            ],
+            runesPerItem: [
+              { name: "Ra Vi", qty: "2-3" },
+              { name: "Ra Do", qty: "2-3" }
+            ],
+            action: "Maxer dommages avec Ra Do. Premier vrai contact avec coef 20 — chaque +1 dommages coûte 20 poids.",
+            volume: "20-30 armes",
+            phaseCost: "~80-150k k"
+          }
+        ]
+      },
+      "20-50": {
+        title: "Lvl 20 → 50",
+        goal: "Pa Do. Échange stats vs dommages.",
+        budgetTotal: "~500k-1.5M kamas",
+        tips: "Spécialise-toi sur 1 type d'arme (épée par ex.). FM identique mais marchés différents.",
+        phases: [
+          {
+            phaseTitle: "Lvl 20 → 35 — Bouftou, Chevalier de Glace",
+            items: [
+              { name: "Marteau du Bouftou", level: 20, id: 2416, stats: "Vita + dommages + stats" },
+              { name: "Épée du Chevalier de Glace", level: 20, id: 7102, stats: "Stats variées" },
+              { name: "L'Ergot Mina", level: 20, id: 1370, stats: "Dague stats" },
+              { name: "La Triste Lame", level: 21, id: 58, stats: "Stats variées" }
+            ],
+            runesPerItem: [
+              { name: "Pa Vi", qty: "1-2" },
+              { name: "Pa Do", qty: "1-2", unitPrice: "5-15k k" }
+            ],
+            action: "Première utilisation Pa Do. Très chère mais grosse XP. Toujours vérifier le poids avant.",
+            volume: "15-20 armes",
+            phaseCost: "~200-500k k"
+          },
+          {
+            phaseTitle: "Lvl 35 → 50 — Griffe, Scrounnchhh, Goultard",
+            items: [
+              { name: "La Griffe", level: 35, id: 2637, stats: "Stats variées" },
+              { name: "Le Scrounnchhh", level: 35, id: 1379, stats: "Marteau stats" },
+              { name: "Goultard", level: 40, id: 65, stats: "Épée variée" },
+              { name: "Dagues Eulasse", level: 40, id: 1371, stats: "Dagues stats" }
+            ],
+            runesPerItem: [
+              { name: "Pa Vi", qty: "2-3" },
+              { name: "Pa Do", qty: "2-3" },
+              { name: "Ra Sa", qty: "2-3" }
+            ],
+            action: "FM blanche complète. Goultard et Scrounnchhh = items iconiques.",
+            volume: "10-15 armes",
+            phaseCost: "~300-800k k"
+          }
+        ]
+      },
+      "50-100": {
+        title: "Lvl 50 → 100",
+        goal: "Pwa Do. Maîtrise dommages élémentaires.",
+        budgetTotal: "~3-8M kamas",
+        tips: "Pwa Do = item de luxe. Acheter en lot pour économie d'échelle.",
+        phases: [
+          {
+            phaseTitle: "Lvl 50 → 75 — Razielle, Pinambour, Aerdala",
+            items: [
+              { name: "Razielle", level: 52, id: 202, stats: "Épée variée" },
+              { name: "Marteau Pinambour", level: 50, id: 6508, stats: "Marteau stats" },
+              { name: "Étoile du soir", level: 52, id: 1639, stats: "Épée variée" },
+              { name: "Dagues Aerdala", level: 62, id: 7256, stats: "Stats Akwadala" }
+            ],
+            runesPerItem: [
+              { name: "Pa Do", qty: "3-4" },
+              { name: "Pa Vi", qty: "2-3" }
+            ],
+            action: "FM blanche complète + revente. Razielle = arme populaire.",
+            volume: "8-12 armes",
+            phaseCost: "~1-3M k"
+          },
+          {
+            phaseTitle: "Lvl 75 → 100 — Eventail, Feudala, Qil Bil",
+            items: [
+              { name: "Eventail Tranchant", level: 75, id: 4242, stats: "Stats variées" },
+              { name: "Sabre Feudala", level: 76, id: 7257, stats: "Stats Akwadala" },
+              { name: "Tonfas de Qil Bil", level: 77, id: 33567, stats: "Dague stats" },
+              { name: "Kidorteau", level: 77, id: 8878, stats: "Marteau stats" },
+              { name: "Marteau des Falistos", level: 79, id: 1085, stats: "Marteau stats" }
+            ],
+            runesPerItem: [
+              { name: "Pwa Do", qty: "1-2", unitPrice: "100-300k k" },
+              { name: "Pa Vi", qty: "3-4" }
+            ],
+            action: "Toucher Pwa Do (cher mais XP énorme).",
+            volume: "5-10 armes",
+            phaseCost: "~2-5M k"
+          }
+        ]
+      },
+      "100-150": {
+        title: "Lvl 100 → 150",
+        goal: "Exo Dommages, premier exo PA arme.",
+        budgetTotal: "~10-30M kamas",
+        tips: "Exo Dommages a souvent une meilleure proba que exo PA. Bonne entrée aux exos.",
+        phases: [
+          {
+            phaseTitle: "Lvl 100 → 125 — Chef Bwork, Réhadaure, Patte d'Ecaflip",
+            items: [
+              { name: "Lame du Chef Bwork", level: 100, id: 6799, stats: "Stats Bwork set" },
+              { name: "Marteau Réhadaure", level: 100, id: 6505, stats: "Marteau stats" },
+              { name: "Griffe Rose", level: 100, id: 4241, stats: "Stats variées" },
+              { name: "Patte d'Ecaflip", level: 100, id: 8941, stats: "Stats Ecaflip" }
+            ],
+            runesPerItem: [
+              { name: "Pwa Do", qty: "2-3" },
+              { name: "Pa Do en surcharge (exo Do)", qty: "30-50" }
+            ],
+            action: "FM blanche complète sur Lame du Chef Bwork → revente clean. Premier exo Dommages testeur sur arme bas niveau.",
+            volume: "3-8 cycles",
+            phaseCost: "~3-10M k"
+          },
+          {
+            phaseTitle: "Lvl 125 → 150 — Dark Vlad, Dragoeuf, Hubohu",
+            items: [
+              { name: "Épée du Dark Vlad", level: 126, id: 7193, stats: "Stats Dark Vlad" },
+              { name: "Épée du Dragoeuf", level: 127, id: 8292, stats: "Stats Dragoeuf set" },
+              { name: "Marteau Hubohu", level: 126, id: 7153, stats: "Marteau stats" },
+              { name: "Marteau Xiko", level: 129, id: 8097, stats: "Marteau stats" }
+            ],
+            runesPerItem: [
+              { name: "Pwa Do", qty: "3-4" },
+              { name: "Pa Sa pour exo PA", qty: "30-60 en surcharge" }
+            ],
+            action: "Tentatives exo PA testeur. Épée du Dark Vlad = item populaire pour exo.",
+            volume: "3-6 tentatives",
+            phaseCost: "~5-15M k"
+          }
+        ]
+      },
+      "150-200": {
+        title: "Lvl 150 → 200",
+        goal: "Armes premium. Cumul exo PA + exo Dommages.",
+        budgetTotal: "Cycles 30-100M+",
+        tips: "Une arme exo PA + exo Dommages = item le plus cher du jeu sur Tylezia.",
+        phases: [
+          {
+            phaseTitle: "Lvl 150 → 175 — Ben le Ripate, Spiritueur, Juge Lou",
+            items: [
+              { name: "Sabre de Ben le Ripate", level: 152, id: 11586, stats: "Épée THL" },
+              { name: "Katana de Spiritueur", level: 157, id: 23627, stats: "Épée THL" },
+              { name: "Karnak", level: 158, id: 7195, stats: "Épée stats" },
+              { name: "Marteau du Juge Lou", level: 151, id: 14519, stats: "Marteau THL" },
+              { name: "Marteau Racle", level: 173, id: 11745, stats: "Marteau THL" }
+            ],
+            runesPerItem: [
+              { name: "Pwa Do", qty: "3-5" },
+              { name: "Pwa Sa", qty: "2-3" }
+            ],
+            action: "FM blanche premium. Exo Dommages en routine sur Karnak / Marteau Racle.",
+            volume: "5-10 cycles",
+            phaseCost: "~10-30M k"
+          },
+          {
+            phaseTitle: "Lvl 175 → 200 — Nice, Kadille, Marteau Reine",
+            items: [
+              { name: "L'Épée Nice", level: 177, id: 8695, stats: "Épée premium" },
+              { name: "Épée Kadille", level: 177, id: 11742, stats: "Épée Korriandre" },
+              { name: "Marteau Reine", level: 187, id: 11746, stats: "Marteau Korriandre" },
+              { name: "Marteau Aigri", level: 190, id: 27540, stats: "Marteau premium" },
+              { name: "Marteau Minokers", level: 178, id: 8616, stats: "Marteau THL" }
+            ],
+            runesPerItem: [
+              { name: "Pwa Do pour exo Do", qty: "30-60" },
+              { name: "Pa Sa pour exo PA", qty: "30-80 en surcharge" }
+            ],
+            action: "Exo PA + exo Dommages sur armes premium. Marché Tylezia très porteur (PvP demande).",
+            volume: "Continu",
+            phaseCost: "ROI très positif si exécuté"
+          }
+        ]
+      }
+    }
+  }
+};
+
+// =====================================================================
+// RENDU
+// =====================================================================
+
+let currentProfession = null;
+let currentLevel = null;
+
+function renderTabs() {
+  const container = document.getElementById('professionTabs');
+  container.innerHTML = '';
+  Object.entries(PROFESSIONS).forEach(([key, prof]) => {
+    const btn = document.createElement('button');
+    btn.className = 'tab' + (currentProfession === key ? ' active' : '');
+    btn.innerHTML = `${prof.icon} ${prof.label}`;
+    btn.onclick = () => selectProfession(key);
+    container.appendChild(btn);
+  });
+}
+
+function selectProfession(key) {
+  currentProfession = key;
+  currentLevel = Object.keys(PROFESSIONS[key].levels)[0];
+  renderTabs();
+  renderContent();
+}
+
+function selectLevel(level) {
+  currentLevel = level;
+  renderContent();
+}
+
+function renderPhase(phase) {
+  let itemsHtml = '';
+  phase.items.forEach(it => {
+    const link = it.id
+      ? `<a href="https://dofusdb.fr/fr/database/item/${it.id}" target="_blank" style="color: var(--accent); text-decoration: none;">${it.name}</a> <span style="font-size: 10px; color: var(--good);">✓ API</span>`
+      : it.name;
+    const hilite = it.hilite ? 'style="background: rgba(212, 160, 23, 0.08);"' : '';
+    itemsHtml += `
+      <tr ${hilite}>
+        <td><strong>${link}</strong></td>
+        <td><span class="meta">lvl ${it.level}</span></td>
+        <td class="meta">${it.stats}</td>
+      </tr>
+    `;
+  });
+
+  let runesHtml = '';
+  phase.runesPerItem.forEach(r => {
+    runesHtml += `
+      <tr>
+        <td><strong>${r.name}</strong></td>
+        <td>${r.qty}</td>
+        <td class="meta">${r.unitPrice || '—'}</td>
+      </tr>
+    `;
+  });
+
+  return `
+    <div class="phase-block">
+      <div class="phase-header">
+        <span class="phase-title">${phase.phaseTitle}</span>
+        <span class="phase-cost">${phase.phaseCost || ''}</span>
+      </div>
+
+      <h4>Items à acheter</h4>
+      <table>
+        <tr><th>Item</th><th>Niveau</th><th>Stats brut</th></tr>
+        ${itemsHtml}
+      </table>
+
+      <h4>Runes nécessaires (PAR item)</h4>
+      <table>
+        <tr><th>Rune</th><th>Qté</th><th>Prix unit. indic.</th></tr>
+        ${runesHtml}
+      </table>
+
+      <h4>Action FM</h4>
+      <div class="action-box">${phase.action}</div>
+
+      <h4>Volume</h4>
+      <p>${phase.volume}</p>
+    </div>
+  `;
+}
+
+function renderContent() {
+  const content = document.getElementById('content');
+  if (!currentProfession) {
+    content.innerHTML = '<p class="meta">Sélectionne un métier ci-dessus.</p>';
+    return;
+  }
+  const prof = PROFESSIONS[currentProfession];
+
+  let html = `
+    <h2>${prof.icon} ${prof.label}</h2>
+    <table>
+      <tr><th>Items concernés</th><td>${prof.overview.itemsType}</td></tr>
+      <tr><th>Prérequis</th><td>${prof.overview.prerequisite}</td></tr>
+      <tr><th>Apprentissage</th><td>${prof.overview.learnPath}</td></tr>
+      <tr><th>Pourquoi</th><td>${prof.overview.whyDoIt}</td></tr>
+    </table>
+  `;
+
+  html += '<div class="level-tabs">';
+  Object.entries(prof.levels).forEach(([lvl, data]) => {
+    html += `<button class="level-tab ${currentLevel === lvl ? 'active' : ''}" onclick="selectLevel('${lvl}')">${data.title}</button>`;
+  });
+  html += '</div>';
+
+  const lvl = prof.levels[currentLevel];
+  if (lvl) {
+    html += `
+      <h3>${lvl.title}</h3>
+      <p><strong>Objectif :</strong> ${lvl.goal}</p>
+
+      <div class="summary-grid">
+        <div class="summary-card">
+          <div class="label">Budget total</div>
+          <div class="value">${lvl.budgetTotal}</div>
+        </div>
+        <div class="summary-card">
+          <div class="label">Phases</div>
+          <div class="value">${lvl.phases.length}</div>
+        </div>
+        <div class="summary-card">
+          <div class="label">Astuce clé</div>
+          <div class="value" style="font-size: 13px; font-weight: 400;">${lvl.tips}</div>
+        </div>
+      </div>
+    `;
+
+    lvl.phases.forEach(phase => {
+      html += renderPhase(phase);
+    });
+  }
+
+  content.innerHTML = html;
+}
+
+renderTabs();
+selectProfession('bijoutomage');
+</script>
+
+</body>
+</html>

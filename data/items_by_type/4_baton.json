@@ -1,0 +1,821 @@
+{
+  "_meta": {
+    "typeId": 4,
+    "typeLabel": "baton",
+    "total": 94,
+    "totalSaleable": 90,
+    "fetchedAt": "2026-05-18T23:13:33.197974"
+  },
+  "items": [
+    {
+      "id": 188,
+      "name": "Bâton Kouyu",
+      "level": 8,
+      "slug": "baton-kouyu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 140,
+      "name": "Bâton de Boisaille",
+      "level": 9,
+      "slug": "baton-de-boisaille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 183,
+      "name": "Bâton Feuillu",
+      "level": 12,
+      "slug": "baton-feuillu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1366,
+      "name": "Bâton de Bouftier",
+      "level": 12,
+      "slug": "baton-de-bouftier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6782,
+      "name": "Bâton de l'initié",
+      "level": 12,
+      "slug": "baton-de-l-initie",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6792,
+      "name": "La Plantouze des Champs",
+      "level": 15,
+      "slug": "la-plantouze-des-champs",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 194,
+      "name": "Bâton Spirituel",
+      "level": 16,
+      "slug": "baton-spirituel",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6725,
+      "name": "Bâton de l'Homme Ours",
+      "level": 20,
+      "slug": "baton-de-l-homme-ours",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1365,
+      "name": "La Canne Hête",
+      "level": 20,
+      "slug": "la-canne-hete",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 742,
+      "name": "Bâton Cornu",
+      "level": 29,
+      "slug": "baton-cornu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2640,
+      "name": "Bâton Carnivore",
+      "level": 30,
+      "slug": "baton-carnivore",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1364,
+      "name": "Bâton d'Oubli",
+      "level": 30,
+      "slug": "baton-d-oubli",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 436,
+      "name": "Bâton en Racine d'Abraknyde",
+      "level": 30,
+      "slug": "baton-en-racine-d-abraknyde",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 336,
+      "name": "Bâton du Grand Pa Wabbit",
+      "level": 32,
+      "slug": "baton-du-grand-pa-wabbit",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 791,
+      "name": "Abraknydi Vivitus",
+      "level": 34,
+      "slug": "abraknydi-vivitus",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 658,
+      "name": "Bâton du Maître des Tabis",
+      "level": 34,
+      "slug": "baton-du-maitre-des-tabis",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1147,
+      "name": "Bâton de fausse magie",
+      "level": 35,
+      "slug": "baton-de-fausse-magie",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1151,
+      "name": "Bâton Dakn",
+      "level": 37,
+      "slug": "baton-dakn",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1363,
+      "name": "Bâton Tont'Ata",
+      "level": 40,
+      "slug": "baton-tont-ata",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1367,
+      "name": "Bâton de Dina, dit 'le Mythe'",
+      "level": 40,
+      "slug": "baton-de-dina-dit-le-mythe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 320,
+      "name": "Bâton du Tabi",
+      "level": 40,
+      "slug": "baton-du-tabi",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7254,
+      "name": "Bâton Akwadala",
+      "level": 43,
+      "slug": "baton-akwadala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2417,
+      "name": "Abraton",
+      "level": 45,
+      "slug": "abraton",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7204,
+      "name": "Bâton du Shodanwa",
+      "level": 46,
+      "slug": "baton-du-shodanwa",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11983,
+      "name": "Sceptre du Kanniboul Ebil",
+      "level": 47,
+      "slug": "sceptre-du-kanniboul-ebil",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1157,
+      "name": "Bâton-Boule de Voyante",
+      "level": 50,
+      "slug": "baton-boule-de-voyante",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6524,
+      "name": "Racine Sauvageonne",
+      "level": 54,
+      "slug": "racine-sauvageonne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 201,
+      "name": "Hook",
+      "level": 55,
+      "slug": "hook",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 657,
+      "name": "Bâton du Maître des Tofus",
+      "level": 56,
+      "slug": "baton-du-maitre-des-tofus",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 335,
+      "name": "Bâton du Bwork Mage",
+      "level": 58,
+      "slug": "baton-du-bwork-mage",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1162,
+      "name": "Bâton des Rois",
+      "level": 60,
+      "slug": "baton-des-rois",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 970,
+      "name": "Bâton du Wa Wabbit",
+      "level": 60,
+      "slug": "baton-du-wa-wabbit",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 20848,
+      "name": "Sceptre Zor",
+      "level": 61,
+      "slug": "sceptre-zor",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7205,
+      "name": "Bâton du Nidanwa",
+      "level": 62,
+      "slug": "baton-du-nidanwa",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 200,
+      "name": "God Rod",
+      "level": 67,
+      "slug": "god-rod",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 204,
+      "name": "Kryst O'Boul",
+      "level": 68,
+      "slug": "kryst-o-boul",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7890,
+      "name": "Bâton du Koulosse",
+      "level": 73,
+      "slug": "baton-du-koulosse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7206,
+      "name": "Bâton du Sandanwa",
+      "level": 77,
+      "slug": "baton-du-sandanwa",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 619,
+      "name": "Bâton du Maître des Bouftous",
+      "level": 85,
+      "slug": "baton-du-maitre-des-bouftous",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8608,
+      "name": "La Bastonneuze",
+      "level": 85,
+      "slug": "la-bastonneuze",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7184,
+      "name": "Racine Histre",
+      "level": 86,
+      "slug": "racine-histre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7178,
+      "name": "Racine Horodon",
+      "level": 86,
+      "slug": "racine-horodon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6454,
+      "name": "Abraton Sombre",
+      "level": 87,
+      "slug": "abraton-sombre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12677,
+      "name": "Bâton de Daïgoro",
+      "level": 88,
+      "slug": "baton-de-daigoro",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7183,
+      "name": "Racine Huzohide",
+      "level": 88,
+      "slug": "racine-huzohide",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7207,
+      "name": "Bâton du Yondanwa",
+      "level": 93,
+      "slug": "baton-du-yondanwa",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6525,
+      "name": "Bâton du Féca",
+      "level": 94,
+      "slug": "baton-du-feca",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7037,
+      "name": "Canne de Mamie Bonbon",
+      "level": 98,
+      "slug": "canne-de-mamie-bonbon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7185,
+      "name": "Racine Hécure",
+      "level": 101,
+      "slug": "racine-hecure",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7182,
+      "name": "Racine Hécouanone",
+      "level": 103,
+      "slug": "racine-hecouanone",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7181,
+      "name": "Racine Sémilla",
+      "level": 106,
+      "slug": "racine-semilla",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8607,
+      "name": "Le Bâton Cloutay",
+      "level": 107,
+      "slug": "le-baton-cloutay",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 3652,
+      "name": "Bâton de Marie Aigue",
+      "level": 109,
+      "slug": "baton-de-marie-aigue",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8090,
+      "name": "Bâton des Caraïbes",
+      "level": 114,
+      "slug": "baton-des-caraibes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6522,
+      "name": "La Racine Cinati",
+      "level": 116,
+      "slug": "la-racine-cinati",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8836,
+      "name": "Tige du Brouture",
+      "level": 119,
+      "slug": "tige-du-brouture",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7022,
+      "name": "Bâton de Sangroku",
+      "level": 120,
+      "slug": "baton-de-sangroku",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6523,
+      "name": "La Racine Hagogue",
+      "level": 120,
+      "slug": "la-racine-hagogue",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8297,
+      "name": "Bâton du Dragoeuf",
+      "level": 124,
+      "slug": "baton-du-dragoeuf",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14274,
+      "name": "Bâton Fracass",
+      "level": 126,
+      "slug": "baton-fracass",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23262,
+      "name": "Nun-Charang",
+      "level": 126,
+      "slug": "nun-charang",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6521,
+      "name": "Kelinobranche",
+      "level": 129,
+      "slug": "kelinobranche",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11634,
+      "name": "Bâton du Shamansot",
+      "level": 130,
+      "slug": "baton-du-shamansot",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8091,
+      "name": "La Canne Bière",
+      "level": 133,
+      "slug": "la-canne-biere",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8849,
+      "name": "Racine de Fécorce",
+      "level": 136,
+      "slug": "racine-de-fecorce",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14640,
+      "name": "Kalypsoton",
+      "level": 139,
+      "slug": "kalypsoton",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16169,
+      "name": "Vieille Branche du Chêne Mou",
+      "level": 140,
+      "slug": "vieille-branche-du-chene-mou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23268,
+      "name": "Bâton de Hanshi",
+      "level": 142,
+      "slug": "baton-de-hanshi",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7176,
+      "name": "Racine Cithi",
+      "level": 143,
+      "slug": "racine-cithi",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8850,
+      "name": "Racine de Floribonde",
+      "level": 144,
+      "slug": "racine-de-floribonde",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17100,
+      "name": "Bâton de Zatoïshwan",
+      "level": 150,
+      "slug": "baton-de-zatoishwan",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8275,
+      "name": "Sceptre du Minotot",
+      "level": 151,
+      "slug": "sceptre-du-minotot",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8837,
+      "name": "Bâton du Maître Zoth",
+      "level": 158,
+      "slug": "baton-du-maitre-zoth",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11633,
+      "name": "Bâton K'Tueuh",
+      "level": 161,
+      "slug": "baton-k-tueuh",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8838,
+      "name": "Rhizome du Tynril",
+      "level": 164,
+      "slug": "rhizome-du-tynril",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13245,
+      "name": "Canne Hassukre",
+      "level": 165,
+      "slug": "canne-hassukre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12099,
+      "name": "Bâton des Prophètes",
+      "level": 169,
+      "slug": "baton-des-prophetes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12057,
+      "name": "Le Thanos",
+      "level": 172,
+      "slug": "le-thanos",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11748,
+      "name": "Le Thanos rongé",
+      "level": 172,
+      "slug": "le-thanos-ronge",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7189,
+      "name": "Rod Gerse",
+      "level": 176,
+      "slug": "rod-gerse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11749,
+      "name": "Bâton Brelle",
+      "level": 188,
+      "slug": "baton-brelle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9136,
+      "name": "Bâton Champmanique",
+      "level": 191,
+      "slug": "baton-champmanique",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11514,
+      "name": "Grésilosceptre",
+      "level": 192,
+      "slug": "gresilosceptre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13649,
+      "name": "Rouleau à Pâtisserie d'Aermyne",
+      "level": 194,
+      "slug": "rouleau-a-patisserie-d-aermyne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11750,
+      "name": "Bâton Brageut",
+      "level": 195,
+      "slug": "baton-brageut",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14166,
+      "name": "Bâton Beau",
+      "level": 197,
+      "slug": "baton-beau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13894,
+      "name": "Canne Harr",
+      "level": 197,
+      "slug": "canne-harr",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18010,
+      "name": "Bâthon",
+      "level": 200,
+      "slug": "bathon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17682,
+      "name": "Sceptre du Roi Joueur",
+      "level": 200,
+      "slug": "sceptre-du-roi-joueur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31785,
+      "name": "Znzzktoglazvzbz",
+      "level": 200,
+      "slug": "znzzktoglazvzbz",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    }
+  ]
+}

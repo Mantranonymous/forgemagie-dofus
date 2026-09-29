@@ -1,0 +1,875 @@
+{
+  "_meta": {
+    "typeId": 7,
+    "typeLabel": "marteau",
+    "total": 99,
+    "totalSaleable": 96,
+    "fetchedAt": "2026-05-18T23:13:38.178001"
+  },
+  "items": [
+    {
+      "id": 9961,
+      "name": "Marteau Martel",
+      "level": 1,
+      "slug": "marteau-martel",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9972,
+      "name": "Marteau de Forgeur de Grattoir",
+      "level": 2,
+      "slug": "marteau-de-forgeur-de-grattoir",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 147,
+      "name": "Marteau de Boisaille",
+      "level": 6,
+      "slug": "marteau-de-boisaille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16527,
+      "name": "Marteau de Hargnok",
+      "level": 8,
+      "slug": "marteau-de-hargnok",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6785,
+      "name": "Marteau de l'initié",
+      "level": 12,
+      "slug": "marteau-de-l-initie",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1399,
+      "name": "Maillet Aclou",
+      "level": 15,
+      "slug": "maillet-aclou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 224,
+      "name": "Marteau de Raclage",
+      "level": 15,
+      "slug": "marteau-de-raclage",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 235,
+      "name": "Cerberus",
+      "level": 16,
+      "slug": "cerberus",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 342,
+      "name": "Marteau Pickeur",
+      "level": 18,
+      "slug": "marteau-pickeur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 230,
+      "name": "Marteau d'Ivoire",
+      "level": 19,
+      "slug": "marteau-d-ivoire",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2416,
+      "name": "Marteau du Bouftou",
+      "level": 20,
+      "slug": "marteau-du-bouftou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 271,
+      "name": "Le Marteau du Chafer",
+      "level": 21,
+      "slug": "le-marteau-du-chafer",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 236,
+      "name": "Barabas",
+      "level": 23,
+      "slug": "barabas",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1403,
+      "name": "Marteau Tau",
+      "level": 23,
+      "slug": "marteau-tau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1063,
+      "name": "Masse d'Ha",
+      "level": 24,
+      "slug": "masse-d-ha",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 455,
+      "name": "Marteau de l'Aurore",
+      "level": 26,
+      "slug": "marteau-de-l-aurore",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 237,
+      "name": "Sargasse",
+      "level": 27,
+      "slug": "sargasse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1067,
+      "name": "Marteau R'unique",
+      "level": 30,
+      "slug": "marteau-r-unique",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1379,
+      "name": "Le Scrounnchhh",
+      "level": 35,
+      "slug": "le-scrounnchhh",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1404,
+      "name": "Marteau Toh'Lo",
+      "level": 35,
+      "slug": "marteau-toh-lo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13092,
+      "name": "Marteau du Chafer Draugr",
+      "level": 43,
+      "slug": "marteau-du-chafer-draugr",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1071,
+      "name": "Masse Tmosfer",
+      "level": 43,
+      "slug": "masse-tmosfer",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1479,
+      "name": "Le Twote en Carton",
+      "level": 46,
+      "slug": "le-twote-en-carton",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1075,
+      "name": "Marteau Outar",
+      "level": 48,
+      "slug": "marteau-outar",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 3357,
+      "name": "Marteau Tape Doigts",
+      "level": 49,
+      "slug": "marteau-tape-doigts",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11819,
+      "name": "Marteau de Percimol ramolli",
+      "level": 49,
+      "slug": "marteau-de-percimol-ramolli",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6508,
+      "name": "Marteau Pinambour",
+      "level": 50,
+      "slug": "marteau-pinambour",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1079,
+      "name": "Masse Aj Taye",
+      "level": 51,
+      "slug": "masse-aj-taye",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1393,
+      "name": "Le Matronome",
+      "level": 54,
+      "slug": "le-matronome",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1383,
+      "name": "Marteau Re'Thu",
+      "level": 55,
+      "slug": "marteau-re-thu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6513,
+      "name": "Marteau Réfacteur",
+      "level": 55,
+      "slug": "marteau-refacteur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6503,
+      "name": "Marteau Polpoulette",
+      "level": 57,
+      "slug": "marteau-polpoulette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 234,
+      "name": "Ragnarok",
+      "level": 66,
+      "slug": "ragnarok",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1083,
+      "name": "Marteau Pospodrol",
+      "level": 70,
+      "slug": "marteau-pospodrol",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8878,
+      "name": "Kidorteau",
+      "level": 77,
+      "slug": "kidorteau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1085,
+      "name": "Marteau des Falistos",
+      "level": 79,
+      "slug": "marteau-des-falistos",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18430,
+      "name": "Masse Boulépique",
+      "level": 80,
+      "slug": "masse-boulepique",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6504,
+      "name": "Marteau Fantal",
+      "level": 81,
+      "slug": "marteau-fantal",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8148,
+      "name": "Marteau du Craqueleur Légendaire",
+      "level": 81,
+      "slug": "marteau-du-craqueleur-legendaire",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1084,
+      "name": "Marteau à Torts",
+      "level": 81,
+      "slug": "marteau-a-torts",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6512,
+      "name": "Marteau Nitruhant",
+      "level": 82,
+      "slug": "marteau-nitruhant",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8615,
+      "name": "Marteau Mato",
+      "level": 83,
+      "slug": "marteau-mato",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8833,
+      "name": "Masse du Corailleur",
+      "level": 85,
+      "slug": "masse-du-corailleur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7882,
+      "name": "Marteau du Boufcoul",
+      "level": 88,
+      "slug": "marteau-du-boufcoul",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6507,
+      "name": "Marteau de la Terps",
+      "level": 90,
+      "slug": "marteau-de-la-terps",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33581,
+      "name": "Le Rok Gnorok",
+      "level": 96,
+      "slug": "le-rok-gnorok",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6505,
+      "name": "Marteau Réhadaure",
+      "level": 100,
+      "slug": "marteau-rehadaure",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17092,
+      "name": "Marteau de Moon",
+      "level": 103,
+      "slug": "marteau-de-moon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 233,
+      "name": "Kaiser",
+      "level": 104,
+      "slug": "kaiser",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7156,
+      "name": "Marteau Ronto",
+      "level": 104,
+      "slug": "marteau-ronto",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33590,
+      "name": "Martokipik",
+      "level": 104,
+      "slug": "martokipik",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33585,
+      "name": "Tromblon de Carlita",
+      "level": 106,
+      "slug": "tromblon-de-carlita",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7154,
+      "name": "Marteau M'Pouce",
+      "level": 107,
+      "slug": "marteau-m-pouce",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8413,
+      "name": "Marteau du Mominotor",
+      "level": 112,
+      "slug": "marteau-du-mominotor",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7155,
+      "name": "Marteau Nairedeubrest",
+      "level": 113,
+      "slug": "marteau-nairedeubrest",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6511,
+      "name": "Marteau Ridhe",
+      "level": 114,
+      "slug": "marteau-ridhe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6510,
+      "name": "Marteau Kahr",
+      "level": 117,
+      "slug": "marteau-kahr",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6509,
+      "name": "Marteau R'Ticolis",
+      "level": 120,
+      "slug": "marteau-r-ticolis",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12084,
+      "name": "Mourtheau",
+      "level": 122,
+      "slug": "mourtheau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8294,
+      "name": "Marteau du Dragoeuf",
+      "level": 123,
+      "slug": "marteau-du-dragoeuf",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7157,
+      "name": "Marteau Ksain",
+      "level": 124,
+      "slug": "marteau-ksain",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8825,
+      "name": "Masse du Corailleur Magistral",
+      "level": 125,
+      "slug": "masse-du-corailleur-magistral",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7153,
+      "name": "Marteau Hubohu",
+      "level": 126,
+      "slug": "marteau-hubohu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8097,
+      "name": "Marteau Xiko",
+      "level": 129,
+      "slug": "marteau-xiko",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8826,
+      "name": "Marteau de la Gamine Zoth",
+      "level": 132,
+      "slug": "marteau-de-la-gamine-zoth",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7159,
+      "name": "Marteau Pinière",
+      "level": 135,
+      "slug": "marteau-piniere",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8096,
+      "name": "Marteau Mawoque",
+      "level": 140,
+      "slug": "marteau-mawoque",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7158,
+      "name": "Marteau Lahre",
+      "level": 141,
+      "slug": "marteau-lahre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7197,
+      "name": "Marteau Bleuronne",
+      "level": 148,
+      "slug": "marteau-bleuronne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14519,
+      "name": "Marteau du Juge Lou",
+      "level": 151,
+      "slug": "marteau-du-juge-lou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11631,
+      "name": "Marteau de la Vigie Pirate",
+      "level": 156,
+      "slug": "marteau-de-la-vigie-pirate",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11630,
+      "name": "Marteau R'Gnole",
+      "level": 166,
+      "slug": "marteau-r-gnole",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11745,
+      "name": "Marteau Racle",
+      "level": 173,
+      "slug": "marteau-racle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8616,
+      "name": "Marteau Minokers",
+      "level": 178,
+      "slug": "marteau-minokers",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9117,
+      "name": "Ougarteau",
+      "level": 180,
+      "slug": "ougarteau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11746,
+      "name": "Marteau Reine",
+      "level": 187,
+      "slug": "marteau-reine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27540,
+      "name": "Marteau Aigri",
+      "level": 190,
+      "slug": "marteau-aigri",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13631,
+      "name": "Marteau d'Henual",
+      "level": 193,
+      "slug": "marteau-d-henual",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31860,
+      "name": "Kornzbz Chzazzzbz",
+      "level": 195,
+      "slug": "kornzbz-chzazzzbz",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11747,
+      "name": "Marteau du Glouragan",
+      "level": 195,
+      "slug": "marteau-du-glouragan",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27528,
+      "name": "Masse Clochecuivre",
+      "level": 196,
+      "slug": "masse-clochecuivre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14886,
+      "name": "Marteau des Anciens Steamers",
+      "level": 197,
+      "slug": "marteau-des-anciens-steamers",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14167,
+      "name": "Masse Ossiale",
+      "level": 199,
+      "slug": "masse-ossiale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31790,
+      "name": "Corne de Chasse",
+      "level": 200,
+      "slug": "corne-de-chasse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31787,
+      "name": "Fureur de Gargandyas",
+      "level": 200,
+      "slug": "fureur-de-gargandyas",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 24037,
+      "name": "Maillet Pitaf",
+      "level": 200,
+      "slug": "maillet-pitaf",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15217,
+      "name": "Marteau Phossile",
+      "level": 200,
+      "slug": "marteau-phossile",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 25222,
+      "name": "Marteau Possédé",
+      "level": 200,
+      "slug": "marteau-possede",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18018,
+      "name": "Marteau R'ture",
+      "level": 200,
+      "slug": "marteau-r-ture",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19096,
+      "name": "Marteau de Katrepat",
+      "level": 200,
+      "slug": "marteau-de-katrepat",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15781,
+      "name": "Marteau des égarés",
+      "level": 200,
+      "slug": "marteau-des-egares",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31760,
+      "name": "Masse Osseuse",
+      "level": 200,
+      "slug": "masse-osseuse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32238,
+      "name": "Masse de Glourdorak",
+      "level": 200,
+      "slug": "masse-de-glourdorak",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 30949,
+      "name": "Masse Étacée",
+      "level": 200,
+      "slug": "masse-etacee",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19594,
+      "name": "Massier",
+      "level": 200,
+      "slug": "massier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 30859,
+      "name": "Rouleau de Mama Ayuto",
+      "level": 200,
+      "slug": "rouleau-de-mama-ayuto",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    }
+  ]
+}

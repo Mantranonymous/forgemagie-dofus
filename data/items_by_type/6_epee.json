@@ -1,0 +1,1037 @@
+{
+  "_meta": {
+    "typeId": 6,
+    "typeLabel": "epee",
+    "total": 126,
+    "totalSaleable": 114,
+    "fetchedAt": "2026-05-18T23:13:36.926863"
+  },
+  "items": [
+    {
+      "id": 30828,
+      "name": "Bounihimée",
+      "level": 1,
+      "slug": "bounihimee",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 44,
+      "name": "Épée de Boisaille",
+      "level": 7,
+      "slug": "epee-de-boisaille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6780,
+      "name": "Épée de l'initié",
+      "level": 12,
+      "slug": "epee-de-l-initie",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 357,
+      "name": "La Queue",
+      "level": 13,
+      "slug": "la-queue",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 49,
+      "name": "Épée de Fouraille",
+      "level": 15,
+      "slug": "epee-de-fouraille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 327,
+      "name": "Lame du Gob-Trotteur",
+      "level": 16,
+      "slug": "lame-du-gob-trotteur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 821,
+      "name": "Épée Sacrée",
+      "level": 17,
+      "slug": "epee-sacree",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 62,
+      "name": "Épée d'Ha",
+      "level": 17,
+      "slug": "epee-d-ha",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 328,
+      "name": "Koupe-koupe",
+      "level": 18,
+      "slug": "koupe-koupe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7102,
+      "name": "Épée du Chevalier de Glace",
+      "level": 20,
+      "slug": "epee-du-chevalier-de-glace",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 358,
+      "name": "La Queue Infernale",
+      "level": 21,
+      "slug": "la-queue-infernale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 58,
+      "name": "La Triste Lame",
+      "level": 21,
+      "slug": "la-triste-lame",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 67,
+      "name": "Le Tranchant Infernal",
+      "level": 22,
+      "slug": "le-tranchant-infernal",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 354,
+      "name": "La Klebik",
+      "level": 25,
+      "slug": "la-klebik",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 827,
+      "name": "Lame du Bwork",
+      "level": 26,
+      "slug": "lame-du-bwork",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 55,
+      "name": "Épée d'Alle",
+      "level": 26,
+      "slug": "epee-d-alle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 824,
+      "name": "Épée du Chevalier",
+      "level": 26,
+      "slug": "epee-du-chevalier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 339,
+      "name": "Lame du Chafer",
+      "level": 27,
+      "slug": "lame-du-chafer",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17525,
+      "name": "Bouquet de Roses démoniaques",
+      "level": 30,
+      "slug": "bouquet-de-roses-demoniaques",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2440,
+      "name": "Épée Royale du Bouftou",
+      "level": 30,
+      "slug": "epee-royale-du-bouftou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 66,
+      "name": "La crinière de Badoul",
+      "level": 33,
+      "slug": "la-criniere-de-badoul",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2637,
+      "name": "La Griffe",
+      "level": 35,
+      "slug": "la-griffe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 65,
+      "name": "Goultard",
+      "level": 40,
+      "slug": "goultard",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7200,
+      "name": "Sabre Shodanwa",
+      "level": 40,
+      "slug": "sabre-shodanwa",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2415,
+      "name": "Kwaklame de Flammes",
+      "level": 41,
+      "slug": "kwaklame-de-flammes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6750,
+      "name": "Kwaklame de Glace",
+      "level": 41,
+      "slug": "kwaklame-de-glace",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6751,
+      "name": "Kwaklame de Terre",
+      "level": 41,
+      "slug": "kwaklame-de-terre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6752,
+      "name": "Kwaklame de Vent",
+      "level": 41,
+      "slug": "kwaklame-de-vent",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 928,
+      "name": "Lame d'Ogralimde",
+      "level": 45,
+      "slug": "lame-d-ogralimde",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11306,
+      "name": "Épée Tillante",
+      "level": 49,
+      "slug": "epee-tillante",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 202,
+      "name": "Razielle",
+      "level": 52,
+      "slug": "razielle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1639,
+      "name": "Étoile du soir",
+      "level": 52,
+      "slug": "etoile-du-soir",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12018,
+      "name": "Kwakwalame",
+      "level": 56,
+      "slug": "kwakwalame",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1574,
+      "name": "Découpeuse de Yench",
+      "level": 60,
+      "slug": "decoupeuse-de-yench",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1475,
+      "name": "La Zulie Lame",
+      "level": 60,
+      "slug": "la-zulie-lame",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 620,
+      "name": "Découpeuse de Kralamoure",
+      "level": 61,
+      "slug": "decoupeuse-de-kralamoure",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6957,
+      "name": "Lame du Craqueleur",
+      "level": 64,
+      "slug": "lame-du-craqueleur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1651,
+      "name": "Le Cutter",
+      "level": 64,
+      "slug": "le-cutter",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7201,
+      "name": "Sabre Nidanwa",
+      "level": 66,
+      "slug": "sabre-nidanwa",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2638,
+      "name": "La Griffe Aiguisée",
+      "level": 68,
+      "slug": "la-griffe-aiguisee",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6821,
+      "name": "Lame du Chef Crocodaille",
+      "level": 70,
+      "slug": "lame-du-chef-crocodaille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8605,
+      "name": "Épée Zervatif",
+      "level": 73,
+      "slug": "epee-zervatif",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 4242,
+      "name": "Eventail Tranchant",
+      "level": 75,
+      "slug": "eventail-tranchant",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7257,
+      "name": "Sabre Feudala",
+      "level": 76,
+      "slug": "sabre-feudala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7202,
+      "name": "Sabre Sandanwa",
+      "level": 83,
+      "slug": "sabre-sandanwa",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 4382,
+      "name": "Pic à Glace",
+      "level": 85,
+      "slug": "pic-a-glace",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7203,
+      "name": "Sabre Yondanwa",
+      "level": 92,
+      "slug": "sabre-yondanwa",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2639,
+      "name": "Fausse Griffe de Ceangal",
+      "level": 95,
+      "slug": "fausse-griffe-de-ceangal",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8701,
+      "name": "Épée Choh",
+      "level": 95,
+      "slug": "epee-choh",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8604,
+      "name": "Épée Doncule",
+      "level": 97,
+      "slug": "epee-doncule",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1511,
+      "name": "Neuf Queues",
+      "level": 99,
+      "slug": "neuf-queues",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 4241,
+      "name": "Griffe Rose",
+      "level": 100,
+      "slug": "griffe-rose",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6799,
+      "name": "Lame du Chef Bwork",
+      "level": 100,
+      "slug": "lame-du-chef-bwork",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8941,
+      "name": "Patte d'Ecaflip",
+      "level": 100,
+      "slug": "patte-d-ecaflip",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8956,
+      "name": "Patte d'Ecaflip",
+      "level": 100,
+      "slug": "patte-d-ecaflip",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8957,
+      "name": "Patte d'Ecaflip",
+      "level": 100,
+      "slug": "patte-d-ecaflip",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8958,
+      "name": "Patte d'Ecaflip",
+      "level": 100,
+      "slug": "patte-d-ecaflip",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8959,
+      "name": "Patte d'Ecaflip",
+      "level": 100,
+      "slug": "patte-d-ecaflip",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8960,
+      "name": "Patte d'Ecaflip",
+      "level": 100,
+      "slug": "patte-d-ecaflip",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8961,
+      "name": "Patte d'Ecaflip",
+      "level": 100,
+      "slug": "patte-d-ecaflip",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8962,
+      "name": "Patte d'Ecaflip",
+      "level": 100,
+      "slug": "patte-d-ecaflip",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8963,
+      "name": "Patte d'Ecaflip",
+      "level": 100,
+      "slug": "patte-d-ecaflip",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8964,
+      "name": "Patte d'Ecaflip",
+      "level": 100,
+      "slug": "patte-d-ecaflip",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8965,
+      "name": "Patte d'Ecaflip",
+      "level": 100,
+      "slug": "patte-d-ecaflip",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8966,
+      "name": "Patte d'Ecaflip Parfaite",
+      "level": 100,
+      "slug": "patte-d-ecaflip-parfaite",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7198,
+      "name": "Razoir du Soir",
+      "level": 105,
+      "slug": "razoir-du-soir",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8450,
+      "name": "Rapière du Rat Blanc",
+      "level": 109,
+      "slug": "rapiere-du-rat-blanc",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2544,
+      "name": "Corbalame",
+      "level": 110,
+      "slug": "corbalame",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7192,
+      "name": "Griffe de Grizmine",
+      "level": 111,
+      "slug": "griffe-de-grizmine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23316,
+      "name": "Katana de la Feuille",
+      "level": 120,
+      "slug": "katana-de-la-feuille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23312,
+      "name": "Katana de la Flamme",
+      "level": 120,
+      "slug": "katana-de-la-flamme",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23314,
+      "name": "Katana de la Marée",
+      "level": 120,
+      "slug": "katana-de-la-maree",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23315,
+      "name": "Katana de la Roche",
+      "level": 120,
+      "slug": "katana-de-la-roche",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23313,
+      "name": "Katana de la Tempête",
+      "level": 120,
+      "slug": "katana-de-la-tempete",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7193,
+      "name": "Épée du Dark Vlad",
+      "level": 126,
+      "slug": "epee-du-dark-vlad",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8292,
+      "name": "Épée du Dragoeuf",
+      "level": 127,
+      "slug": "epee-du-dragoeuf",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7199,
+      "name": "Glaive Icération",
+      "level": 130,
+      "slug": "glaive-iceration",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18438,
+      "name": "Maracassabre",
+      "level": 130,
+      "slug": "maracassabre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33597,
+      "name": "Épée des Demoël",
+      "level": 139,
+      "slug": "epee-des-demoel",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8095,
+      "name": "Le Sabre Ayassalama",
+      "level": 143,
+      "slug": "le-sabre-ayassalama",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11624,
+      "name": "Sabre Heutelle",
+      "level": 144,
+      "slug": "sabre-heutelle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8596,
+      "name": "Griffe Pourpre",
+      "level": 145,
+      "slug": "griffe-pourpre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33600,
+      "name": "Épée de Fojumo",
+      "level": 146,
+      "slug": "epee-de-fojumo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11586,
+      "name": "Sabre de Ben le Ripate",
+      "level": 152,
+      "slug": "sabre-de-ben-le-ripate",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23627,
+      "name": "Katana de Spiritueur",
+      "level": 157,
+      "slug": "katana-de-spiritueur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7195,
+      "name": "Karnak",
+      "level": 158,
+      "slug": "karnak",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23590,
+      "name": "Musamune",
+      "level": 160,
+      "slug": "musamune",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17095,
+      "name": "Épée du Bretteur Céleste",
+      "level": 160,
+      "slug": "epee-du-bretteur-celeste",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8930,
+      "name": "Fuschia",
+      "level": 163,
+      "slug": "fuschia",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17589,
+      "name": "Épée de Ush",
+      "level": 165,
+      "slug": "epee-de-ush",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8094,
+      "name": "L'Epée Rilleuse",
+      "level": 169,
+      "slug": "l-epee-rilleuse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8695,
+      "name": "L'Épée Nice",
+      "level": 177,
+      "slug": "l-epee-nice",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11742,
+      "name": "Épée Kadille",
+      "level": 177,
+      "slug": "epee-kadille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8932,
+      "name": "Kukri Kura",
+      "level": 179,
+      "slug": "kukri-kura",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11743,
+      "name": "Épée Kari",
+      "level": 184,
+      "slug": "epee-kari",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9469,
+      "name": "Épée Loponèze",
+      "level": 184,
+      "slug": "epee-loponeze",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8931,
+      "name": "Az'tech",
+      "level": 186,
+      "slug": "az-tech",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11744,
+      "name": "Épée Toche",
+      "level": 196,
+      "slug": "epee-toche",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13119,
+      "name": "Épée d'Otomaï",
+      "level": 196,
+      "slug": "epee-d-otomai",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14156,
+      "name": "Rapière aux Glyphes",
+      "level": 197,
+      "slug": "rapiere-aux-glyphes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12115,
+      "name": "Épée Gloursonne",
+      "level": 199,
+      "slug": "epee-gloursonne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27510,
+      "name": "Claymomore",
+      "level": 200,
+      "slug": "claymomore",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 20353,
+      "name": "Crocobur",
+      "level": 200,
+      "slug": "crocobur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": true
+    },
+    {
+      "id": 32163,
+      "name": "Ferveur d'Amayiro",
+      "level": 200,
+      "slug": "ferveur-d-amayiro",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 30861,
+      "name": "Flamberge du Dark Vlad",
+      "level": 200,
+      "slug": "flamberge-du-dark-vlad",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31786,
+      "name": "Griffe de Gargandyas",
+      "level": 200,
+      "slug": "griffe-de-gargandyas",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32232,
+      "name": "Lame givrée du Chevalier de Glace",
+      "level": 200,
+      "slug": "lame-givree-du-chevalier-de-glace",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17586,
+      "name": "Sabres d'Atcham",
+      "level": 200,
+      "slug": "sabres-d-atcham",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18015,
+      "name": "Épouvante",
+      "level": 200,
+      "slug": "epouvante",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19269,
+      "name": "Épée Brûlâme",
+      "level": 200,
+      "slug": "epee-brulame",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 26010,
+      "name": "Épée Diablotine",
+      "level": 200,
+      "slug": "epee-diablotine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8993,
+      "name": "Épée Maudite du Saigneur Guerrier",
+      "level": 200,
+      "slug": "epee-maudite-du-saigneur-guerrier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15496,
+      "name": "Épée de la Reine des Voleurs",
+      "level": 200,
+      "slug": "epee-de-la-reine-des-voleurs",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14084,
+      "name": "Épée du Granduk",
+      "level": 200,
+      "slug": "epee-du-granduk",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    }
+  ]
+}

@@ -1,0 +1,3323 @@
+{
+  "_meta": {
+    "typeId": 16,
+    "typeLabel": "chapeau",
+    "total": 380,
+    "totalSaleable": 368,
+    "fetchedAt": "2026-05-18T21:08:27.618984"
+  },
+  "items": [
+    {
+      "id": 6863,
+      "name": "Casque des Mercenaires d'Astrub",
+      "level": 1,
+      "slug": "casque-des-mercenaires-d-astrub",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18145,
+      "name": "Chapeau Transparent",
+      "level": 1,
+      "slug": "chapeau-transparent",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6662,
+      "name": "Chapeau de la Mariée",
+      "level": 1,
+      "slug": "chapeau-de-la-mariee",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6660,
+      "name": "Chapeau du Marié",
+      "level": 1,
+      "slug": "chapeau-du-marie",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8533,
+      "name": "Le Floude",
+      "level": 1,
+      "slug": "le-floude",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 940,
+      "name": "Louffeur",
+      "level": 1,
+      "slug": "louffeur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8162,
+      "name": "Tête de Citwouille",
+      "level": 1,
+      "slug": "tete-de-citwouille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 942,
+      "name": "Lisseur",
+      "level": 2,
+      "slug": "lisseur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 941,
+      "name": "Bandeau Komintot",
+      "level": 3,
+      "slug": "bandeau-komintot",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 949,
+      "name": "Bandeau de Vitalité",
+      "level": 3,
+      "slug": "bandeau-de-vitalite",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7177,
+      "name": "Bandeau Pandawushu",
+      "level": 4,
+      "slug": "bandeau-pandawushu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 697,
+      "name": "Makroute",
+      "level": 6,
+      "slug": "makroute",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8247,
+      "name": "Chapeau du Piou Vert",
+      "level": 7,
+      "slug": "chapeau-du-piou-vert",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 700,
+      "name": "Pandawa",
+      "level": 7,
+      "slug": "pandawa",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8246,
+      "name": "Chapeau du Piou Jaune",
+      "level": 8,
+      "slug": "chapeau-du-piou-jaune",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16503,
+      "name": "Coiffe Antôme",
+      "level": 8,
+      "slug": "coiffe-antome",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2474,
+      "name": "Chapeau de l'Aventurier",
+      "level": 9,
+      "slug": "chapeau-de-l-aventurier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8248,
+      "name": "Chapeau du Piou Rose",
+      "level": 9,
+      "slug": "chapeau-du-piou-rose",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23248,
+      "name": "Bandeau d'apprenti Pandawushuka",
+      "level": 10,
+      "slug": "bandeau-d-apprenti-pandawushuka",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8245,
+      "name": "Chapeau du Piou Violet",
+      "level": 10,
+      "slug": "chapeau-du-piou-violet",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10834,
+      "name": "Coiffe Wouaf",
+      "level": 10,
+      "slug": "coiffe-wouaf",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15794,
+      "name": "Coiffe de Fouduglen",
+      "level": 10,
+      "slug": "coiffe-de-fouduglen",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6913,
+      "name": "L'Araknacoiffe",
+      "level": 10,
+      "slug": "l-araknacoiffe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8244,
+      "name": "Chapeau du Piou Bleu",
+      "level": 11,
+      "slug": "chapeau-du-piou-bleu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16500,
+      "name": "Casque de Kardorim",
+      "level": 12,
+      "slug": "casque-de-kardorim",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6921,
+      "name": "Champcoiffe",
+      "level": 12,
+      "slug": "champcoiffe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8243,
+      "name": "Chapeau du Piou Rouge",
+      "level": 12,
+      "slug": "chapeau-du-piou-rouge",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6797,
+      "name": "Coiffe Champêtre",
+      "level": 14,
+      "slug": "coiffe-champetre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6917,
+      "name": "Moskitogalurette",
+      "level": 15,
+      "slug": "moskitogalurette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 710,
+      "name": "Korko Klako",
+      "level": 17,
+      "slug": "korko-klako",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8125,
+      "name": "Bob du Paysan",
+      "level": 19,
+      "slug": "bob-du-paysan",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1019,
+      "name": "Casque",
+      "level": 20,
+      "slug": "casque",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 976,
+      "name": "Citwouille",
+      "level": 20,
+      "slug": "citwouille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16172,
+      "name": "Coiffe Invisible",
+      "level": 20,
+      "slug": "coiffe-invisible",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6719,
+      "name": "Coiffe de l'Homme Ours",
+      "level": 20,
+      "slug": "coiffe-de-l-homme-ours",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2411,
+      "name": "Coiffe du Bouftou",
+      "level": 20,
+      "slug": "coiffe-du-bouftou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8259,
+      "name": "Coiffe en Mousse",
+      "level": 20,
+      "slug": "coiffe-en-mousse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 696,
+      "name": "La Coiffe du Ploukosse",
+      "level": 20,
+      "slug": "la-coiffe-du-ploukosse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 629,
+      "name": "Chapeau Pointu",
+      "level": 21,
+      "slug": "chapeau-pointu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8334,
+      "name": "Chapeau du Papa Nowel",
+      "level": 22,
+      "slug": "chapeau-du-papa-nowel",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 701,
+      "name": "Le Oiram",
+      "level": 22,
+      "slug": "le-oiram",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 699,
+      "name": "Le Troma",
+      "level": 22,
+      "slug": "le-troma",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8114,
+      "name": "Kaskofu",
+      "level": 23,
+      "slug": "kaskofu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12849,
+      "name": "Bonnet du Glutin",
+      "level": 25,
+      "slug": "bonnet-du-glutin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 711,
+      "name": "Jouik Krampe",
+      "level": 26,
+      "slug": "jouik-krampe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15524,
+      "name": "Masque de Frakacia",
+      "level": 28,
+      "slug": "masque-de-frakacia",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10828,
+      "name": "Casque de Boufbowl",
+      "level": 29,
+      "slug": "casque-de-boufbowl",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8918,
+      "name": "Casque amélioré",
+      "level": 30,
+      "slug": "casque-ameliore",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 708,
+      "name": "Houde",
+      "level": 30,
+      "slug": "houde",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 702,
+      "name": "Kritter",
+      "level": 30,
+      "slug": "kritter",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2641,
+      "name": "Toady",
+      "level": 30,
+      "slug": "toady",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2438,
+      "name": "Boufcoiffe Royale",
+      "level": 32,
+      "slug": "boufcoiffe-royale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 712,
+      "name": "Gulliver",
+      "level": 32,
+      "slug": "gulliver",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 698,
+      "name": "Choipo Podlard",
+      "level": 33,
+      "slug": "choipo-podlard",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7109,
+      "name": "Larvacoiffe",
+      "level": 34,
+      "slug": "larvacoiffe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2070,
+      "name": "Shako",
+      "level": 34,
+      "slug": "shako",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2095,
+      "name": "Le Ours",
+      "level": 35,
+      "slug": "le-ours",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6926,
+      "name": "Coiffe du Prespic",
+      "level": 36,
+      "slug": "coiffe-du-prespic",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 704,
+      "name": "Dantgoule",
+      "level": 36,
+      "slug": "dantgoule",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 703,
+      "name": "Dora",
+      "level": 36,
+      "slug": "dora",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2096,
+      "name": "Dora Sombre de Brave",
+      "level": 37,
+      "slug": "dora-sombre-de-brave",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 709,
+      "name": "Lorko Kasko",
+      "level": 37,
+      "slug": "lorko-kasko",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8630,
+      "name": "Bonnet Nufar",
+      "level": 40,
+      "slug": "bonnet-nufar",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8633,
+      "name": "Bonnet Spairance",
+      "level": 40,
+      "slug": "bonnet-spairance",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8637,
+      "name": "Bonnet Toual",
+      "level": 40,
+      "slug": "bonnet-toual",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8634,
+      "name": "Capuche Apin",
+      "level": 40,
+      "slug": "capuche-apin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8619,
+      "name": "Casque Keutumedi",
+      "level": 40,
+      "slug": "casque-keutumedi",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15994,
+      "name": "Casque Noix",
+      "level": 40,
+      "slug": "casque-noix",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18621,
+      "name": "Chapeau Devin",
+      "level": 40,
+      "slug": "chapeau-devin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8629,
+      "name": "Chapeau Grave",
+      "level": 40,
+      "slug": "chapeau-grave",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8628,
+      "name": "Chapeau Leufère",
+      "level": 40,
+      "slug": "chapeau-leufere",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8635,
+      "name": "Chapeau Lithique",
+      "level": 40,
+      "slug": "chapeau-lithique",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8638,
+      "name": "Chapeau Taufeu",
+      "level": 40,
+      "slug": "chapeau-taufeu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8632,
+      "name": "Chapeau Tyron",
+      "level": 40,
+      "slug": "chapeau-tyron",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 26336,
+      "name": "Chapeau du Directeur Grunob",
+      "level": 40,
+      "slug": "chapeau-du-directeur-grunob",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12385,
+      "name": "Coiffe Ainte",
+      "level": 40,
+      "slug": "coiffe-ainte",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8631,
+      "name": "Coiffe Fère",
+      "level": 40,
+      "slug": "coiffe-fere",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17448,
+      "name": "Coiffe Ondamentale",
+      "level": 40,
+      "slug": "coiffe-ondamentale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8636,
+      "name": "Coiffe de Robbie Capuche",
+      "level": 40,
+      "slug": "coiffe-de-robbie-capuche",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27551,
+      "name": "Heaume Erik",
+      "level": 40,
+      "slug": "heaume-erik",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12386,
+      "name": "Masque Arpone",
+      "level": 40,
+      "slug": "masque-arpone",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16140,
+      "name": "Masque Rosmique",
+      "level": 40,
+      "slug": "masque-rosmique",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13261,
+      "name": "Scaphandre Ojine",
+      "level": 40,
+      "slug": "scaphandre-ojine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2485,
+      "name": "Végacoiffe",
+      "level": 40,
+      "slug": "vegacoiffe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2409,
+      "name": "Kwakoiffe de Flammes",
+      "level": 41,
+      "slug": "kwakoiffe-de-flammes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2535,
+      "name": "Kwakoiffe de Glace",
+      "level": 41,
+      "slug": "kwakoiffe-de-glace",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6760,
+      "name": "Kwakoiffe de Terre",
+      "level": 41,
+      "slug": "kwakoiffe-de-terre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6761,
+      "name": "Kwakoiffe de Vent",
+      "level": 41,
+      "slug": "kwakoiffe-de-vent",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15015,
+      "name": "Chaponion",
+      "level": 42,
+      "slug": "chaponion",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10102,
+      "name": "Masque du Vampyre",
+      "level": 42,
+      "slug": "masque-du-vampyre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2097,
+      "name": "Champo",
+      "level": 43,
+      "slug": "champo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7226,
+      "name": "Chapeau Akwadala",
+      "level": 43,
+      "slug": "chapeau-akwadala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13091,
+      "name": "Kabuto du Chafer Rōnin",
+      "level": 44,
+      "slug": "kabuto-du-chafer-ronin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6938,
+      "name": "Scaracoiffe Blanche",
+      "level": 44,
+      "slug": "scaracoiffe-blanche",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6939,
+      "name": "Scaracoiffe Bleue",
+      "level": 44,
+      "slug": "scaracoiffe-bleue",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6937,
+      "name": "Scaracoiffe Rouge",
+      "level": 44,
+      "slug": "scaracoiffe-rouge",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6936,
+      "name": "Scaracoiffe Verte",
+      "level": 44,
+      "slug": "scaracoiffe-verte",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2410,
+      "name": "Abracaska",
+      "level": 45,
+      "slug": "abracaska",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6991,
+      "name": "Goyave",
+      "level": 46,
+      "slug": "goyave",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11982,
+      "name": "Masque du Kanniboul Ebil",
+      "level": 46,
+      "slug": "masque-du-kanniboul-ebil",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 705,
+      "name": "Masque Tromatisant",
+      "level": 47,
+      "slug": "masque-tromatisant",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27527,
+      "name": "Casquette de Rakoopeur",
+      "level": 48,
+      "slug": "casquette-de-rakoopeur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2104,
+      "name": "Kraignosse",
+      "level": 48,
+      "slug": "kraignosse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1908,
+      "name": "Casque du Chafer",
+      "level": 49,
+      "slug": "casque-du-chafer",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7553,
+      "name": "Chapodindo",
+      "level": 50,
+      "slug": "chapodindo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2094,
+      "name": "Makroute Sombre",
+      "level": 50,
+      "slug": "makroute-sombre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1088,
+      "name": "Masque Kanniboul",
+      "level": 50,
+      "slug": "masque-kanniboul",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10685,
+      "name": "Casque du Roks Or",
+      "level": 52,
+      "slug": "casque-du-roks-or",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12417,
+      "name": "Chapeau du Vulkain",
+      "level": 52,
+      "slug": "chapeau-du-vulkain",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8133,
+      "name": "Scaracoiffe Noire",
+      "level": 53,
+      "slug": "scaracoiffe-noire",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12021,
+      "name": "Kwakwaffe",
+      "level": 54,
+      "slug": "kwakwaffe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13136,
+      "name": "Caskoffre",
+      "level": 55,
+      "slug": "caskoffre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 34252,
+      "name": "Chapomuldo",
+      "level": 55,
+      "slug": "chapomuldo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6992,
+      "name": "Kannipiou",
+      "level": 55,
+      "slug": "kannipiou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8116,
+      "name": "Scaracoiffe Dorée",
+      "level": 58,
+      "slug": "scaracoiffe-doree",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6500,
+      "name": "Oreilles de Wabbits",
+      "level": 59,
+      "slug": "oreilles-de-wabbits",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2531,
+      "name": "Caracoiffe",
+      "level": 60,
+      "slug": "caracoiffe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8009,
+      "name": "Coiffe du Koalak",
+      "level": 60,
+      "slug": "coiffe-du-koalak",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 969,
+      "name": "Couronne du Wa Wabbit",
+      "level": 60,
+      "slug": "couronne-du-wa-wabbit",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2447,
+      "name": "Gelocoiffe",
+      "level": 60,
+      "slug": "gelocoiffe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7339,
+      "name": "Coiffe du Kitsou",
+      "level": 61,
+      "slug": "coiffe-du-kitsou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6952,
+      "name": "Coiffe du Mulou",
+      "level": 61,
+      "slug": "coiffe-du-mulou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6930,
+      "name": "Casque du Craqueleur",
+      "level": 62,
+      "slug": "casque-du-craqueleur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33562,
+      "name": "Oreilles de Marzwel",
+      "level": 62,
+      "slug": "oreilles-de-marzwel",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6473,
+      "name": "Dragocoiffe Ardoise",
+      "level": 63,
+      "slug": "dragocoiffe-ardoise",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6472,
+      "name": "Dragocoiffe Argile",
+      "level": 63,
+      "slug": "dragocoiffe-argile",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1904,
+      "name": "Dragocoiffe Calcaire",
+      "level": 63,
+      "slug": "dragocoiffe-calcaire",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6474,
+      "name": "Dragocoiffe Charbon",
+      "level": 63,
+      "slug": "dragocoiffe-charbon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7229,
+      "name": "Chapeau Aerdala",
+      "level": 64,
+      "slug": "chapeau-aerdala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14506,
+      "name": "Perruque de Iop",
+      "level": 66,
+      "slug": "perruque-de-iop",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19081,
+      "name": "Casque du Scorbute",
+      "level": 68,
+      "slug": "casque-du-scorbute",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6834,
+      "name": "Coiffe du Chef Crocodaille",
+      "level": 70,
+      "slug": "coiffe-du-chef-crocodaille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 706,
+      "name": "Crystal O'Boul",
+      "level": 72,
+      "slug": "crystal-o-boul",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33565,
+      "name": "Casque de Qil Bil",
+      "level": 73,
+      "slug": "casque-de-qil-bil",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6482,
+      "name": "Korko Kousto",
+      "level": 73,
+      "slug": "korko-kousto",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8829,
+      "name": "Chapeau de Barbroussa",
+      "level": 74,
+      "slug": "chapeau-de-barbroussa",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7227,
+      "name": "Chapeau Terrdala",
+      "level": 75,
+      "slug": "chapeau-terrdala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7058,
+      "name": "Octovius",
+      "level": 77,
+      "slug": "octovius",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6778,
+      "name": "Farlacoiffe",
+      "level": 78,
+      "slug": "farlacoiffe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7038,
+      "name": "Couronne du Roi Gelax",
+      "level": 79,
+      "slug": "couronne-du-roi-gelax",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8147,
+      "name": "Casque du Craqueleur Légendaire",
+      "level": 80,
+      "slug": "casque-du-craqueleur-legendaire",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14491,
+      "name": "Couronne du Wa Wobot",
+      "level": 80,
+      "slug": "couronne-du-wa-wobot",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8304,
+      "name": "Shikacoiffe",
+      "level": 80,
+      "slug": "shikacoiffe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33568,
+      "name": "Capuche de Tyranne",
+      "level": 81,
+      "slug": "capuche-de-tyranne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7146,
+      "name": "La Bertheuze",
+      "level": 81,
+      "slug": "la-bertheuze",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14494,
+      "name": "Casque du Blanc Pa Wabbit",
+      "level": 82,
+      "slug": "casque-du-blanc-pa-wabbit",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7887,
+      "name": "Coiffe du Koulosse",
+      "level": 82,
+      "slug": "coiffe-du-koulosse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18427,
+      "name": "Coiffennex",
+      "level": 82,
+      "slug": "coiffennex",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33574,
+      "name": "Capuche de Musha",
+      "level": 83,
+      "slug": "capuche-de-musha",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12674,
+      "name": "Coiffe de Daïgoro",
+      "level": 83,
+      "slug": "coiffe-de-daigoro",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12857,
+      "name": "Coiffe de Redolphe",
+      "level": 85,
+      "slug": "coiffe-de-redolphe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19086,
+      "name": "Masque de Choudini",
+      "level": 88,
+      "slug": "masque-de-choudini",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7886,
+      "name": "Coiffe du Boufcoul",
+      "level": 89,
+      "slug": "coiffe-du-boufcoul",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16175,
+      "name": "Coiffe de la Néfileuse",
+      "level": 90,
+      "slug": "coiffe-de-la-nefileuse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19087,
+      "name": "Masque Riktus",
+      "level": 92,
+      "slug": "masque-riktus",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17110,
+      "name": "Chapeau du Capitaine Pirate",
+      "level": 93,
+      "slug": "chapeau-du-capitaine-pirate",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8285,
+      "name": "Coiffe du Dragon Cochon",
+      "level": 96,
+      "slug": "coiffe-du-dragon-cochon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7034,
+      "name": "Casque de Maître Nabur",
+      "level": 97,
+      "slug": "casque-de-maitre-nabur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7228,
+      "name": "Chapeau Feudala",
+      "level": 98,
+      "slug": "chapeau-feudala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8441,
+      "name": "Billréole",
+      "level": 100,
+      "slug": "billreole",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6813,
+      "name": "Casque du Chef Bwork",
+      "level": 100,
+      "slug": "casque-du-chef-bwork",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6764,
+      "name": "Fourbacoiffe",
+      "level": 100,
+      "slug": "fourbacoiffe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8163,
+      "name": "Kabuto",
+      "level": 101,
+      "slug": "kabuto",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33583,
+      "name": "Bandeau de Carlita",
+      "level": 102,
+      "slug": "bandeau-de-carlita",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33589,
+      "name": "Chapokipik",
+      "level": 102,
+      "slug": "chapokipik",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14579,
+      "name": "Masque Iproquo",
+      "level": 102,
+      "slug": "masque-iproquo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8442,
+      "name": "Masque du Rat Noir",
+      "level": 102,
+      "slug": "masque-du-rat-noir",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14583,
+      "name": "Scaramouchapeau",
+      "level": 102,
+      "slug": "scaramouchapeau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6477,
+      "name": "Chapeau du Mineur Sombre",
+      "level": 103,
+      "slug": "chapeau-du-mineur-sombre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19090,
+      "name": "Coiffe du Muloubar",
+      "level": 103,
+      "slug": "coiffe-du-muloubar",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8845,
+      "name": "Capuche de la Ouassingue",
+      "level": 104,
+      "slug": "capuche-de-la-ouassingue",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13326,
+      "name": "Chapitrouille",
+      "level": 104,
+      "slug": "chapitrouille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15212,
+      "name": "Casque du Berserkoffre",
+      "level": 105,
+      "slug": "casque-du-berserkoffre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8451,
+      "name": "Couvre-chef du Rat Blanc",
+      "level": 105,
+      "slug": "couvre-chef-du-rat-blanc",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13480,
+      "name": "Araknacoiffe Velue",
+      "level": 106,
+      "slug": "araknacoiffe-velue",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7145,
+      "name": "Coiffe du Gaddie",
+      "level": 106,
+      "slug": "coiffe-du-gaddie",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2546,
+      "name": "Corbacoiffe",
+      "level": 106,
+      "slug": "corbacoiffe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7144,
+      "name": "Blémiche",
+      "level": 108,
+      "slug": "blemiche",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8331,
+      "name": "Coiffe de la Dragueuse",
+      "level": 109,
+      "slug": "coiffe-de-la-dragueuse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8330,
+      "name": "Coiffe du Draguaindrop",
+      "level": 109,
+      "slug": "coiffe-du-draguaindrop",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15012,
+      "name": "Casque de Flèche Mauve",
+      "level": 110,
+      "slug": "casque-de-fleche-mauve",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7516,
+      "name": "Coiffe du Bimd'Oule",
+      "level": 110,
+      "slug": "coiffe-du-bimd-oule",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8325,
+      "name": "Coiffe du Mominotor",
+      "level": 110,
+      "slug": "coiffe-du-mominotor",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 707,
+      "name": "Minotokorno",
+      "level": 110,
+      "slug": "minotokorno",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7150,
+      "name": "La Bekille",
+      "level": 111,
+      "slug": "la-bekille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6990,
+      "name": "Phalène",
+      "level": 113,
+      "slug": "phalene",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8463,
+      "name": "Abracaska Ancestral",
+      "level": 114,
+      "slug": "abracaska-ancestral",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7152,
+      "name": "Kanistère",
+      "level": 115,
+      "slug": "kanistere",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7151,
+      "name": "Koloss",
+      "level": 116,
+      "slug": "koloss",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6989,
+      "name": "Krokop",
+      "level": 117,
+      "slug": "krokop",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17595,
+      "name": "Scalp du Pounicheur",
+      "level": 117,
+      "slug": "scalp-du-pounicheur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7143,
+      "name": "Solomonk",
+      "level": 118,
+      "slug": "solomonk",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6481,
+      "name": "Dora Bora",
+      "level": 120,
+      "slug": "dora-bora",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7141,
+      "name": "Holoune",
+      "level": 122,
+      "slug": "holoune",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8824,
+      "name": "Kaskargo",
+      "level": 123,
+      "slug": "kaskargo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15778,
+      "name": "Coiffe de Fraktale",
+      "level": 124,
+      "slug": "coiffe-de-fraktale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11571,
+      "name": "Coiffe du Royalmouth",
+      "level": 125,
+      "slug": "coiffe-du-royalmouth",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33592,
+      "name": "Nénuphar de Nenufor",
+      "level": 125,
+      "slug": "nenuphar-de-nenufor",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8823,
+      "name": "Masque de l'Abrakleur sombre",
+      "level": 126,
+      "slug": "masque-de-l-abrakleur-sombre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11598,
+      "name": "Casque de l'Écumouth",
+      "level": 127,
+      "slug": "casque-de-l-ecumouth",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23263,
+      "name": "Chapeau Kassé",
+      "level": 128,
+      "slug": "chapeau-kasse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8846,
+      "name": "Chapeau de la Gamine Zoth",
+      "level": 128,
+      "slug": "chapeau-de-la-gamine-zoth",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8821,
+      "name": "Coiffe du Disciple Zoth",
+      "level": 128,
+      "slug": "coiffe-du-disciple-zoth",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7921,
+      "name": "Couronne du Tofu Royal",
+      "level": 128,
+      "slug": "couronne-du-tofu-royal",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 20981,
+      "name": "Croquasque",
+      "level": 128,
+      "slug": "croquasque",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23255,
+      "name": "Kwaflaque",
+      "level": 128,
+      "slug": "kwaflaque",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18434,
+      "name": "Sombrero d'El Piko",
+      "level": 128,
+      "slug": "sombrero-d-el-piko",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8287,
+      "name": "Casque Dragoeuf",
+      "level": 129,
+      "slug": "casque-dragoeuf",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8569,
+      "name": "Doro le Blak",
+      "level": 129,
+      "slug": "doro-le-blak",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11599,
+      "name": "Coiffe du Fricochère",
+      "level": 130,
+      "slug": "coiffe-du-fricochere",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18432,
+      "name": "Cascterre",
+      "level": 131,
+      "slug": "cascterre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15514,
+      "name": "Casque d'Ali Grothor",
+      "level": 132,
+      "slug": "casque-d-ali-grothor",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32201,
+      "name": "Coiffe de Bouflouth",
+      "level": 132,
+      "slug": "coiffe-de-bouflouth",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8260,
+      "name": "Bandeau Kaliptus",
+      "level": 133,
+      "slug": "bandeau-kaliptus",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15356,
+      "name": "Chapeau Truche",
+      "level": 133,
+      "slug": "chapeau-truche",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8457,
+      "name": "Coiffe Cérémoniale du Seigneur des Rats",
+      "level": 133,
+      "slug": "coiffe-ceremoniale-du-seigneur-des-rats",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15999,
+      "name": "Masque de Pantèroz",
+      "level": 133,
+      "slug": "masque-de-panteroz",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8820,
+      "name": "Masque du Sergent Zoth",
+      "level": 133,
+      "slug": "masque-du-sergent-zoth",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8847,
+      "name": "Casque du Guerrier Zoth",
+      "level": 134,
+      "slug": "casque-du-guerrier-zoth",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8822,
+      "name": "Masque de l'Abrakleur clair",
+      "level": 134,
+      "slug": "masque-de-l-abrakleur-clair",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11572,
+      "name": "Couronne du Mansot Royal",
+      "level": 136,
+      "slug": "couronne-du-mansot-royal",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14637,
+      "name": "Coiffe Médusoïde",
+      "level": 138,
+      "slug": "coiffe-medusoide",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8267,
+      "name": "Coiffe du Meulou",
+      "level": 141,
+      "slug": "coiffe-du-meulou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33598,
+      "name": "Masque de Fojumo",
+      "level": 142,
+      "slug": "masque-de-fojumo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8828,
+      "name": "Perruque du Poolay",
+      "level": 142,
+      "slug": "perruque-du-poolay",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6483,
+      "name": "Casque du Bwork de Bronze",
+      "level": 144,
+      "slug": "casque-du-bwork-de-bronze",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8474,
+      "name": "Coiffe du Chêne Mou",
+      "level": 145,
+      "slug": "coiffe-du-chene-mou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7142,
+      "name": "Piruk",
+      "level": 145,
+      "slug": "piruk",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7056,
+      "name": "Krépite",
+      "level": 149,
+      "slug": "krepite",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12853,
+      "name": "Masque du Nowel Cauchemardesque",
+      "level": 150,
+      "slug": "masque-du-nowel-cauchemardesque",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14000,
+      "name": "Bonnet Ko",
+      "level": 151,
+      "slug": "bonnet-ko",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8530,
+      "name": "Ruskauffe",
+      "level": 151,
+      "slug": "ruskauffe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9394,
+      "name": "Chapblopignon",
+      "level": 152,
+      "slug": "chapblopignon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17098,
+      "name": "Barbe de Zatoïshwan",
+      "level": 154,
+      "slug": "barbe-de-zatoishwan",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8989,
+      "name": "Casque du Bitouf Aérien",
+      "level": 154,
+      "slug": "casque-du-bitouf-aerien",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11573,
+      "name": "Chapeau de Ben le Ripate",
+      "level": 154,
+      "slug": "chapeau-de-ben-le-ripate",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12418,
+      "name": "Coiffe de Grozilla",
+      "level": 154,
+      "slug": "coiffe-de-grozilla",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23626,
+      "name": "Bandeau de Spiritueur",
+      "level": 155,
+      "slug": "bandeau-de-spiritueur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11601,
+      "name": "Masque du Harpirate",
+      "level": 155,
+      "slug": "masque-du-harpirate",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8848,
+      "name": "Coiffe du Maître Zoth",
+      "level": 156,
+      "slug": "coiffe-du-maitre-zoth",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11600,
+      "name": "Fantômasque",
+      "level": 156,
+      "slug": "fantomasque",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13850,
+      "name": "Masque du Frelon Noir",
+      "level": 156,
+      "slug": "masque-du-frelon-noir",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8284,
+      "name": "Coiffe du Minotot",
+      "level": 157,
+      "slug": "coiffe-du-minotot",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8842,
+      "name": "Masque Vaudou Ark",
+      "level": 158,
+      "slug": "masque-vaudou-ark",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8839,
+      "name": "Masque Vaudou Eth",
+      "level": 158,
+      "slug": "masque-vaudou-eth",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8840,
+      "name": "Masque Vaudou Jav",
+      "level": 158,
+      "slug": "masque-vaudou-jav",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8841,
+      "name": "Masque Vaudou Sarbak",
+      "level": 158,
+      "slug": "masque-vaudou-sarbak",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17079,
+      "name": "Masque Vaudou Tam",
+      "level": 158,
+      "slug": "masque-vaudou-tam",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8704,
+      "name": "Le Nahitse",
+      "level": 159,
+      "slug": "le-nahitse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13135,
+      "name": "Casque de Metag Robill",
+      "level": 160,
+      "slug": "casque-de-metag-robill",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15062,
+      "name": "Coiffe de l'Orfélin",
+      "level": 160,
+      "slug": "coiffe-de-l-orfelin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9395,
+      "name": "Blopronne Royale",
+      "level": 161,
+      "slug": "blopronne-royale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13064,
+      "name": "Katar Strophe",
+      "level": 162,
+      "slug": "katar-strophe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8699,
+      "name": "Coiffe du Tynril",
+      "level": 164,
+      "slug": "coiffe-du-tynril",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11574,
+      "name": "Casque de l'Obsidiantre",
+      "level": 166,
+      "slug": "casque-de-l-obsidiantre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6988,
+      "name": "Sulik",
+      "level": 167,
+      "slug": "sulik",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8844,
+      "name": "Capuche Souveraine du Roissingue",
+      "level": 168,
+      "slug": "capuche-souveraine-du-roissingue",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11604,
+      "name": "Chapeau Stapokaliptik",
+      "level": 169,
+      "slug": "chapeau-stapokaliptik",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14809,
+      "name": "Koinkoiffe Rose",
+      "level": 170,
+      "slug": "koinkoiffe-rose",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23625,
+      "name": "Masque de Kaonashi",
+      "level": 170,
+      "slug": "masque-de-kaonashi",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32213,
+      "name": "Masque de Vengeuse Masquée",
+      "level": 170,
+      "slug": "masque-de-vengeuse-masquee",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18584,
+      "name": "Casquoporth",
+      "level": 171,
+      "slug": "casquoporth",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11723,
+      "name": "Chapeau Lichinelle",
+      "level": 172,
+      "slug": "chapeau-lichinelle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15773,
+      "name": "Coiffe de Soissanth",
+      "level": 173,
+      "slug": "coiffe-de-soissanth",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11602,
+      "name": "Chapeau Pourih",
+      "level": 174,
+      "slug": "chapeau-pourih",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11706,
+      "name": "Chapeau Tiche",
+      "level": 174,
+      "slug": "chapeau-tiche",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11603,
+      "name": "Chapeau Tiche troué",
+      "level": 174,
+      "slug": "chapeau-tiche-troue",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11707,
+      "name": "Coiffe de Tengu Givrefoux",
+      "level": 175,
+      "slug": "coiffe-de-tengu-givrefoux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15503,
+      "name": "Chapeau de Dremoan",
+      "level": 176,
+      "slug": "chapeau-de-dremoan",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7680,
+      "name": "Ougalurette",
+      "level": 178,
+      "slug": "ougalurette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31749,
+      "name": "Casque du Supervizœuf",
+      "level": 180,
+      "slug": "casque-du-supervizuf",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8843,
+      "name": "Chapeau de Crocodaille Dandi",
+      "level": 180,
+      "slug": "chapeau-de-crocodaille-dandi",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9147,
+      "name": "Chapignon",
+      "level": 183,
+      "slug": "chapignon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11724,
+      "name": "Chapeau Lisson",
+      "level": 184,
+      "slug": "chapeau-lisson",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12106,
+      "name": "Coiffe de Boréale",
+      "level": 187,
+      "slug": "coiffe-de-boreale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11474,
+      "name": "Frimacoiffe",
+      "level": 188,
+      "slug": "frimacoiffe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9181,
+      "name": "Casque Harnage",
+      "level": 189,
+      "slug": "casque-harnage",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27541,
+      "name": "Grelots de Barbéryl",
+      "level": 190,
+      "slug": "grelots-de-barberyl",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33604,
+      "name": "Perruque de Predagob",
+      "level": 190,
+      "slug": "perruque-de-predagob",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32225,
+      "name": "Lunettes du Docteur Eggob",
+      "level": 191,
+      "slug": "lunettes-du-docteur-eggob",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14286,
+      "name": "Binocle Airvoyant",
+      "level": 192,
+      "slug": "binocle-airvoyant",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13130,
+      "name": "Coiffe d'Ogivol",
+      "level": 193,
+      "slug": "coiffe-d-ogivol",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11715,
+      "name": "Coiffe de Kolosso",
+      "level": 193,
+      "slug": "coiffe-de-kolosso",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14934,
+      "name": "Casqnoar",
+      "level": 195,
+      "slug": "casqnoar",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11725,
+      "name": "Chapeau Lochon",
+      "level": 195,
+      "slug": "chapeau-lochon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12118,
+      "name": "Coiffe de la Fuji Givrefoux",
+      "level": 195,
+      "slug": "coiffe-de-la-fuji-givrefoux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12116,
+      "name": "Coiffe du Glourséleste",
+      "level": 195,
+      "slug": "coiffe-du-glourseleste",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14285,
+      "name": "Calotte Spot",
+      "level": 196,
+      "slug": "calotte-spot",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14070,
+      "name": "Capuche de Sylargh",
+      "level": 196,
+      "slug": "capuche-de-sylargh",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14060,
+      "name": "Casque de Missiz Frizz",
+      "level": 196,
+      "slug": "casque-de-missiz-frizz",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14880,
+      "name": "Casquipik",
+      "level": 196,
+      "slug": "casquipik",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13120,
+      "name": "Coiffe de Danathor",
+      "level": 196,
+      "slug": "coiffe-de-danathor",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13123,
+      "name": "Couronne d'Allister",
+      "level": 196,
+      "slug": "couronne-d-allister",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9461,
+      "name": "Le Kim",
+      "level": 196,
+      "slug": "le-kim",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14050,
+      "name": "Masque de Klime",
+      "level": 196,
+      "slug": "masque-de-klime",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14053,
+      "name": "Bonnet Vicieux",
+      "level": 197,
+      "slug": "bonnet-vicieux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31768,
+      "name": "Capuche des Voyageurs",
+      "level": 197,
+      "slug": "capuche-des-voyageurs",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18776,
+      "name": "Chapeau du Comte Razof",
+      "level": 197,
+      "slug": "chapeau-du-comte-razof",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14073,
+      "name": "Coiffe du Kanimate",
+      "level": 197,
+      "slug": "coiffe-du-kanimate",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13647,
+      "name": "Coiffe d'Aermyne",
+      "level": 198,
+      "slug": "coiffe-d-aermyne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13644,
+      "name": "Coiffe d'Hel Munster",
+      "level": 198,
+      "slug": "coiffe-d-hel-munster",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13632,
+      "name": "Coiffe d'Oshimo",
+      "level": 198,
+      "slug": "coiffe-d-oshimo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13641,
+      "name": "Coiffe de Padgref",
+      "level": 198,
+      "slug": "coiffe-de-padgref",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27525,
+      "name": "Heaume Clochecuivre",
+      "level": 198,
+      "slug": "heaume-clochecuivre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31774,
+      "name": "Heaume Tapodas",
+      "level": 198,
+      "slug": "heaume-tapodas",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14883,
+      "name": "Bandeau Culaire",
+      "level": 199,
+      "slug": "bandeau-culaire",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13194,
+      "name": "Chapeau Potin",
+      "level": 199,
+      "slug": "chapeau-potin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11718,
+      "name": "Masque du Glourséleste",
+      "level": 199,
+      "slug": "masque-du-glourseleste",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32114,
+      "name": "Ardeur d'Oto Mustam",
+      "level": 200,
+      "slug": "ardeur-d-oto-mustam",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": true
+    },
+    {
+      "id": 30860,
+      "name": "Bandana de Mama Ayuto",
+      "level": 200,
+      "slug": "bandana-de-mama-ayuto",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14170,
+      "name": "Bandeau Ktriné",
+      "level": 200,
+      "slug": "bandeau-ktrine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17107,
+      "name": "Boucle d'oreille de Kongoku",
+      "level": 200,
+      "slug": "boucle-d-oreille-de-kongoku",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15745,
+      "name": "Cagoule de Vortex",
+      "level": 200,
+      "slug": "cagoule-de-vortex",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18596,
+      "name": "Capuche de Moum-Ra",
+      "level": 200,
+      "slug": "capuche-de-moum-ra",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19254,
+      "name": "Capuche de l'Œil Attentif",
+      "level": 200,
+      "slug": "capuche-de-l-il-attentif",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19257,
+      "name": "Capuche de l'Œil Putride",
+      "level": 200,
+      "slug": "capuche-de-l-il-putride",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18036,
+      "name": "Casque Cyclopéen",
+      "level": 200,
+      "slug": "casque-cyclopeen",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 24026,
+      "name": "Casque Onsonne",
+      "level": 200,
+      "slug": "casque-onsonne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19982,
+      "name": "Casque Volkorne",
+      "level": 200,
+      "slug": "casque-volkorne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19262,
+      "name": "Casque d'Ilyzaelle",
+      "level": 200,
+      "slug": "casque-d-ilyzaelle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15742,
+      "name": "Casque des égarés",
+      "level": 200,
+      "slug": "casque-des-egares",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17579,
+      "name": "Casque du Chalœil",
+      "level": 200,
+      "slug": "casque-du-chalil",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19978,
+      "name": "Casque en Grithril",
+      "level": 200,
+      "slug": "casque-en-grithril",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18023,
+      "name": "Casquette de Meno",
+      "level": 200,
+      "slug": "casquette-de-meno",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27511,
+      "name": "Chagrin de Cire",
+      "level": 200,
+      "slug": "chagrin-de-cire",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15431,
+      "name": "Chapeau de Gein",
+      "level": 200,
+      "slug": "chapeau-de-gein",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19600,
+      "name": "Chapeau de Tournoyé",
+      "level": 200,
+      "slug": "chapeau-de-tournoye",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15438,
+      "name": "Chapeau des Malveilleurs",
+      "level": 200,
+      "slug": "chapeau-des-malveilleurs",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15738,
+      "name": "Chapibou",
+      "level": 200,
+      "slug": "chapibou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18021,
+      "name": "Chapoulpe",
+      "level": 200,
+      "slug": "chapoulpe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14088,
+      "name": "Coiffe Cryochrone",
+      "level": 200,
+      "slug": "coiffe-cryochrone",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14063,
+      "name": "Coiffe Ranshi",
+      "level": 200,
+      "slug": "coiffe-ranshi",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14079,
+      "name": "Coiffe Séculaire",
+      "level": 200,
+      "slug": "coiffe-seculaire",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15436,
+      "name": "Coiffe de la Reine des Voleurs",
+      "level": 200,
+      "slug": "coiffe-de-la-reine-des-voleurs",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14076,
+      "name": "Coiffe du Comte Harebourg",
+      "level": 200,
+      "slug": "coiffe-du-comte-harebourg",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15192,
+      "name": "Coiffe du Lévitrof",
+      "level": 200,
+      "slug": "coiffe-du-levitrof",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 21235,
+      "name": "Corne de Torkélonia",
+      "level": 200,
+      "slug": "corne-de-torkelonia",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31798,
+      "name": "Cornes du Vénérable Endormi",
+      "level": 200,
+      "slug": "cornes-du-venerable-endormi",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 20359,
+      "name": "Couronne de Brâm Barbe-Monde",
+      "level": 200,
+      "slug": "couronne-de-bram-barbe-monde",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": true
+    },
+    {
+      "id": 15186,
+      "name": "Couronne de Nidas",
+      "level": 200,
+      "slug": "couronne-de-nidas",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17573,
+      "name": "Couronne du Roi Joueur",
+      "level": 200,
+      "slug": "couronne-du-roi-joueur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31756,
+      "name": "Crinière de la Déchireuse",
+      "level": 200,
+      "slug": "criniere-de-la-dechireuse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 20360,
+      "name": "Diadème de Ganymède",
+      "level": 200,
+      "slug": "diademe-de-ganymede",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": true
+    },
+    {
+      "id": 24030,
+      "name": "Diadème de Wulan",
+      "level": 200,
+      "slug": "diademe-de-wulan",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 22202,
+      "name": "Dora de Servitude",
+      "level": 200,
+      "slug": "dora-de-servitude",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14877,
+      "name": "Dorabysses",
+      "level": 200,
+      "slug": "dorabysses",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19595,
+      "name": "Heaume Oplate",
+      "level": 200,
+      "slug": "heaume-oplate",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 22190,
+      "name": "Heaume de Guerre",
+      "level": 200,
+      "slug": "heaume-de-guerre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15694,
+      "name": "Kidibonnet",
+      "level": 200,
+      "slug": "kidibonnet",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18439,
+      "name": "Le Dorado",
+      "level": 200,
+      "slug": "le-dorado",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15695,
+      "name": "Maskrobe",
+      "level": 200,
+      "slug": "maskrobe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19586,
+      "name": "Masque Ardent",
+      "level": 200,
+      "slug": "masque-ardent",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19266,
+      "name": "Masque Brûlâme",
+      "level": 200,
+      "slug": "masque-brulame",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 20465,
+      "name": "Masque Paztek",
+      "level": 200,
+      "slug": "masque-paztek",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18031,
+      "name": "Masque Trithon",
+      "level": 200,
+      "slug": "masque-trithon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19075,
+      "name": "Masque d'Anerice",
+      "level": 200,
+      "slug": "masque-d-anerice",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19604,
+      "name": "Masque de Funespadon",
+      "level": 200,
+      "slug": "masque-de-funespadon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 20956,
+      "name": "Masque de Kao",
+      "level": 200,
+      "slug": "masque-de-kao",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18000,
+      "name": "Masque de Koutoulou",
+      "level": 200,
+      "slug": "masque-de-koutoulou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19252,
+      "name": "Masque de l'Esprit Malsain",
+      "level": 200,
+      "slug": "masque-de-l-esprit-malsain",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19249,
+      "name": "Masque de l'Esprit Salvateur",
+      "level": 200,
+      "slug": "masque-de-l-esprit-salvateur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16007,
+      "name": "Masque des Fonds marins",
+      "level": 200,
+      "slug": "masque-des-fonds-marins",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15183,
+      "name": "Masque du Barbétoal",
+      "level": 200,
+      "slug": "masque-du-barbetoal",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14082,
+      "name": "Masque du Granduk",
+      "level": 200,
+      "slug": "masque-du-granduk",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15442,
+      "name": "Masque du Katcheur",
+      "level": 200,
+      "slug": "masque-du-katcheur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19980,
+      "name": "Masquegel",
+      "level": 200,
+      "slug": "masquegel",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18590,
+      "name": "Némès de Tal Kasha",
+      "level": 200,
+      "slug": "nemes-de-tal-kasha",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 26020,
+      "name": "Portes de Bonta",
+      "level": 200,
+      "slug": "portes-de-bonta",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "_meta": {
+    "description": "Référentiel des coefficients de poids par stat pour la forgemagie Dofus.",
+    "source": "Valeurs consensuelles Dofus 2.x / Unity. À valider contre Inflexible.fr ou wiki Dofus pour Tylezia.",
+    "lastUpdated": "2026-05-18",
+    "todo": [
+      "Valider tacle / esquive PA / esquive PM (coefs incertains)",
+      "Valider pods (coef très approximatif)",
+      "Ajouter renvoi de dommages, % dommages, etc. si pertinent pour les items visés"
+    ]
+  },
+  "stats": {
+    "vitalite": {
+      "label": "Vitalité",
+      "poids": 0.2,
+      "runes": { "ra": "Ra Vi", "pa": "Pa Vi", "pwa": "Pwa Vi" },
+      "validated": true
+    },
+    "initiative": {
+      "label": "Initiative",
+      "poids": 0.1,
+      "runes": { "ra": "Ra Ini", "pa": "Pa Ini" },
+      "validated": true
+    },
+    "pods": {
+      "label": "Pods",
+      "poids": 0.0625,
+      "runes": { "ra": "Ra Pod", "pa": "Pa Pod" },
+      "validated": false
+    },
+    "force": {
+      "label": "Force",
+      "poids": 1,
+      "runes": { "ra": "Ra Fo", "pa": "Pa Fo", "pwa": "Pwa Fo" },
+      "validated": true
+    },
+    "intelligence": {
+      "label": "Intelligence",
+      "poids": 1,
+      "runes": { "ra": "Ra In", "pa": "Pa In", "pwa": "Pwa In" },
+      "validated": true
+    },
+    "chance": {
+      "label": "Chance",
+      "poids": 1,
+      "runes": { "ra": "Ra Ch", "pa": "Pa Ch", "pwa": "Pwa Ch" },
+      "validated": true
+    },
+    "agilite": {
+      "label": "Agilité",
+      "poids": 1,
+      "runes": { "ra": "Ra Ag", "pa": "Pa Ag", "pwa": "Pwa Ag" },
+      "validated": true
+    },
+    "pctCritique": {
+      "label": "% Coups Critiques",
+      "poids": 1,
+      "runes": { "ra": "Ra Cri" },
+      "validated": true
+    },
+    "sagesse": {
+      "label": "Sagesse",
+      "poids": 3,
+      "runes": { "ra": "Ra Sa", "pa": "Pa Sa", "pwa": "Pwa Sa" },
+      "validated": true
+    },
+    "prospection": {
+      "label": "Prospection",
+      "poids": 3,
+      "runes": { "ra": "Ra Pp", "pa": "Pa Pp" },
+      "validated": true
+    },
+    "tacle": {
+      "label": "Tacle",
+      "poids": 4,
+      "runes": { "ra": "Ra Ta" },
+      "validated": false
+    },
+    "esquive": {
+      "label": "Esquive",
+      "poids": 4,
+      "runes": { "ra": "Ra Esq" },
+      "validated": false
+    },
+    "pctResNeutre": {
+      "label": "% Rés Neutre",
+      "poids": 2,
+      "runes": { "ra": "Ra %Rn" },
+      "validated": false
+    },
+    "pctResElem": {
+      "label": "% Rés Élémentaire",
+      "poids": 6,
+      "runes": { "ra": "Ra %Re" },
+      "validated": true
+    },
+    "resFixe": {
+      "label": "Rés Fixe Élémentaire",
+      "poids": 6,
+      "runes": { "ra": "Ra Re" },
+      "validated": true
+    },
+    "dommages": {
+      "label": "Dommages",
+      "poids": 20,
+      "runes": { "ra": "Ra Do", "pa": "Pa Do" },
+      "validated": true
+    },
+    "soins": {
+      "label": "Soins",
+      "poids": 20,
+      "runes": { "ra": "Ra Soi", "pa": "Pa Soi" },
+      "validated": true
+    },
+    "portee": {
+      "label": "Portée",
+      "poids": 51,
+      "runes": { "ra": "Ra Po" },
+      "validated": true,
+      "isExoCandidate": true
+    },
+    "pm": {
+      "label": "PM",
+      "poids": 90,
+      "runes": { "ra": "Ra PM" },
+      "validated": true,
+      "isExoCandidate": true
+    },
+    "pa": {
+      "label": "PA",
+      "poids": 100,
+      "runes": { "ra": "Ra PA" },
+      "validated": true,
+      "isExoCandidate": true
+    }
+  }
+}

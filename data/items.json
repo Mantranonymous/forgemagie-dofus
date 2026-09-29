@@ -1,0 +1,32 @@
+{
+  "_meta": {
+    "description": "Presets d'items pour le calculateur de FM. Le poids max est auto-calculé côté HTML à partir des jets max × coefs poids.",
+    "source": "Récupéré depuis api.dofusdb.fr. Coefs de poids à valider pour Dofus 3 / Unity (Tylezia).",
+    "lastUpdated": "2026-05-18"
+  },
+  "items": {
+    "voile-encre": {
+      "label": "Voile d'encre",
+      "dofusdbId": 8876,
+      "level": 191,
+      "type": "cape",
+      "validateUrl": "https://dofusdb.fr/fr/database/item/8876",
+      "_unverified": false,
+      "jetsMax": {
+        "vitalite": 350,
+        "force": 70,
+        "intelligence": 70,
+        "sagesse": 40,
+        "pctCritique": 3,
+        "portee": -1,
+        "dommages": 10,
+        "pctResFeu": 10,
+        "pctResEau": 10,
+        "pctResAir": 10
+      },
+      "malusNote": [
+        "portee : malus 1→0"
+      ]
+    }
+  }
+}

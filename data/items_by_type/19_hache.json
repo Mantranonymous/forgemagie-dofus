@@ -1,0 +1,695 @@
+{
+  "_meta": {
+    "typeId": 19,
+    "typeLabel": "hache",
+    "total": 76,
+    "totalSaleable": 76,
+    "fetchedAt": "2026-05-18T23:13:40.499156"
+  },
+  "items": [
+    {
+      "id": 2376,
+      "name": "Hache Hémal",
+      "level": 1,
+      "slug": "hache-hemal",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2587,
+      "name": "Hachette de Bûcheron",
+      "level": 1,
+      "slug": "hachette-de-bucheron",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2589,
+      "name": "Hachette Hévlalav",
+      "level": 5,
+      "slug": "hachette-hevlalav",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 673,
+      "name": "Mangeuse de Châtaignier",
+      "level": 8,
+      "slug": "mangeuse-de-chataignier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 771,
+      "name": "Mangeuse de Frêne",
+      "level": 8,
+      "slug": "mangeuse-de-frene",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6914,
+      "name": "La Trancheuse d'Arakne",
+      "level": 11,
+      "slug": "la-trancheuse-d-arakne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2590,
+      "name": "Hache Vôr'Om",
+      "level": 12,
+      "slug": "hache-vor-om",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10818,
+      "name": "Hache de l'initié",
+      "level": 12,
+      "slug": "hache-de-l-initie",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1375,
+      "name": "Hache Térophyle",
+      "level": 15,
+      "slug": "hache-terophyle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 502,
+      "name": "Trancheuse d'If",
+      "level": 17,
+      "slug": "trancheuse-d-if",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 675,
+      "name": "Trancheuse de Noyer",
+      "level": 21,
+      "slug": "trancheuse-de-noyer",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1377,
+      "name": "Hache Huré",
+      "level": 22,
+      "slug": "hache-hure",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 676,
+      "name": "Mangeuse d'Érable",
+      "level": 25,
+      "slug": "mangeuse-d-erable",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7212,
+      "name": "La Trancheuse de Bambou",
+      "level": 26,
+      "slug": "la-trancheuse-de-bambou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 782,
+      "name": "Agride",
+      "level": 27,
+      "slug": "agride",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1378,
+      "name": "Francisque à Brêles",
+      "level": 28,
+      "slug": "francisque-a-breles",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 674,
+      "name": "Fendeuse de Merisier",
+      "level": 32,
+      "slug": "fendeuse-de-merisier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 456,
+      "name": "Tueuse de Chênes",
+      "level": 33,
+      "slug": "tueuse-de-chenes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1376,
+      "name": "Hache Heuvante",
+      "level": 35,
+      "slug": "hache-heuvante",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7208,
+      "name": "Hache du Shodanwa",
+      "level": 36,
+      "slug": "hache-du-shodanwa",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2592,
+      "name": "Coupeuse de Bombu",
+      "level": 39,
+      "slug": "coupeuse-de-bombu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2593,
+      "name": "Elagueuse d'Oliviolet",
+      "level": 42,
+      "slug": "elagueuse-d-oliviolet",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 478,
+      "name": "Élagueuse de Charme",
+      "level": 47,
+      "slug": "elagueuse-de-charme",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2595,
+      "name": "Hache de Pierre",
+      "level": 51,
+      "slug": "hache-de-pierre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2597,
+      "name": "Hache de Brèche",
+      "level": 54,
+      "slug": "hache-de-breche",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8130,
+      "name": "Hache du Mulou",
+      "level": 55,
+      "slug": "hache-du-mulou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2601,
+      "name": "Hache Darsson",
+      "level": 57,
+      "slug": "hache-darsson",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7209,
+      "name": "Hache du Nidanwa",
+      "level": 59,
+      "slug": "hache-du-nidanwa",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 515,
+      "name": "Boulgourde des Clairières",
+      "level": 62,
+      "slug": "boulgourde-des-clairieres",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8617,
+      "name": "Hache Ebbah",
+      "level": 62,
+      "slug": "hache-ebbah",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2600,
+      "name": "Coupeuse de Sifflet",
+      "level": 66,
+      "slug": "coupeuse-de-sifflet",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2603,
+      "name": "Trancheuse de Partie",
+      "level": 66,
+      "slug": "trancheuse-de-partie",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 923,
+      "name": "Fendeuse d'Abraknyde",
+      "level": 74,
+      "slug": "fendeuse-d-abraknyde",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2604,
+      "name": "Bardiche du Milicien",
+      "level": 78,
+      "slug": "bardiche-du-milicien",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8618,
+      "name": "Hache Eulouh",
+      "level": 80,
+      "slug": "hache-eulouh",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18429,
+      "name": "Hache du Mantiscore",
+      "level": 80,
+      "slug": "hache-du-mantiscore",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2606,
+      "name": "Hachette Savante",
+      "level": 81,
+      "slug": "hachette-savante",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7255,
+      "name": "Hache Terrdala",
+      "level": 83,
+      "slug": "hache-terrdala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7210,
+      "name": "Hache du Sandanwa",
+      "level": 83,
+      "slug": "hache-du-sandanwa",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2608,
+      "name": "Francisque Basquaise",
+      "level": 84,
+      "slug": "francisque-basquaise",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2612,
+      "name": "Vouge à Poisson",
+      "level": 87,
+      "slug": "vouge-a-poisson",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2614,
+      "name": "Hache de Dame Oise",
+      "level": 89,
+      "slug": "hache-de-dame-oise",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 927,
+      "name": "Fendeuse d'Abraknyde Ancestral",
+      "level": 93,
+      "slug": "fendeuse-d-abraknyde-ancestral",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2615,
+      "name": "Hache de Lookabeer",
+      "level": 96,
+      "slug": "hache-de-lookabeer",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7211,
+      "name": "Hache du Yondanwa",
+      "level": 98,
+      "slug": "hache-du-yondanwa",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2616,
+      "name": "Halle de Barde",
+      "level": 99,
+      "slug": "halle-de-barde",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8274,
+      "name": "Hache du Minotoror",
+      "level": 109,
+      "slug": "hache-du-minotoror",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8100,
+      "name": "La Hache Ticot",
+      "level": 110,
+      "slug": "la-hache-ticot",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8099,
+      "name": "La Hache Menbien",
+      "level": 116,
+      "slug": "la-hache-menbien",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8293,
+      "name": "Hache du Dragoeuf",
+      "level": 126,
+      "slug": "hache-du-dragoeuf",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8101,
+      "name": "Le Fendoir Tichaud",
+      "level": 128,
+      "slug": "le-fendoir-tichaud",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23257,
+      "name": "Kwache",
+      "level": 130,
+      "slug": "kwache",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8868,
+      "name": "Poolache",
+      "level": 137,
+      "slug": "poolache",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8827,
+      "name": "Hache du Guerrier Zoth",
+      "level": 139,
+      "slug": "hache-du-guerrier-zoth",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11626,
+      "name": "Hache du Fancrôme",
+      "level": 153,
+      "slug": "hache-du-fancrome",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11625,
+      "name": "Hache Haimenu",
+      "level": 154,
+      "slug": "hache-haimenu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9138,
+      "name": "Hache à Lamelles",
+      "level": 157,
+      "slug": "hache-a-lamelles",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8934,
+      "name": "Hache Harnée",
+      "level": 158,
+      "slug": "hache-harnee",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8933,
+      "name": "Hache Sueur Rance",
+      "level": 162,
+      "slug": "hache-sueur-rance",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11760,
+      "name": "Hache Achinecride",
+      "level": 170,
+      "slug": "hache-achinecride",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11947,
+      "name": "Hache Hélème",
+      "level": 185,
+      "slug": "hache-heleme",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11711,
+      "name": "Hache du Korriandre",
+      "level": 188,
+      "slug": "hache-du-korriandre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14289,
+      "name": "Hache Rot",
+      "level": 192,
+      "slug": "hache-rot",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11761,
+      "name": "Hache Téroïde",
+      "level": 194,
+      "slug": "hache-teroide",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14133,
+      "name": "Hache Euvale",
+      "level": 200,
+      "slug": "hache-euvale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17683,
+      "name": "Hache du Chalœil",
+      "level": 200,
+      "slug": "hache-du-chalil",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13896,
+      "name": "Hache Ériphe",
+      "level": 200,
+      "slug": "hache-eriphe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 22368,
+      "name": "Hachebarde de Guerre",
+      "level": 200,
+      "slug": "hachebarde-de-guerre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": true
+    },
+    {
+      "id": 26008,
+      "name": "Hachoir de Ravageur",
+      "level": 200,
+      "slug": "hachoir-de-ravageur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31758,
+      "name": "Hachoir de la Déchireuse",
+      "level": 200,
+      "slug": "hachoir-de-la-dechireuse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18604,
+      "name": "Héqache",
+      "level": 200,
+      "slug": "heqache",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8098,
+      "name": "Lame Usicke",
+      "level": 200,
+      "slug": "lame-usicke",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19593,
+      "name": "Lav'Hache",
+      "level": 200,
+      "slug": "lav-hache",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18014,
+      "name": "Manthache",
+      "level": 200,
+      "slug": "manthache",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15782,
+      "name": "Plumeau Bil",
+      "level": 200,
+      "slug": "plumeau-bil",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27545,
+      "name": "Potence d'Ephedrya",
+      "level": 200,
+      "slug": "potence-d-ephedrya",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    }
+  ]
+}

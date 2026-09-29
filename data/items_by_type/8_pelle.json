@@ -1,0 +1,560 @@
+{
+  "_meta": {
+    "typeId": 8,
+    "typeLabel": "pelle",
+    "total": 61,
+    "totalSaleable": 61,
+    "fetchedAt": "2026-05-18T23:13:39.339476"
+  },
+  "items": [
+    {
+      "id": 153,
+      "name": "Pelle de Boisaille",
+      "level": 6,
+      "slug": "pelle-de-boisaille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6786,
+      "name": "Pelle de l'initié",
+      "level": 12,
+      "slug": "pelle-de-l-initie",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1059,
+      "name": "Pelle des Champs",
+      "level": 15,
+      "slug": "pelle-des-champs",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 241,
+      "name": "Pelle de Crapouille",
+      "level": 17,
+      "slug": "pelle-de-crapouille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 247,
+      "name": "Pelle de Rapage",
+      "level": 19,
+      "slug": "pelle-de-rapage",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 251,
+      "name": "Barbe Grise",
+      "level": 20,
+      "slug": "barbe-grise",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8255,
+      "name": "Pelle en Mousse",
+      "level": 20,
+      "slug": "pelle-en-mousse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1432,
+      "name": "Pelle Houze",
+      "level": 21,
+      "slug": "pelle-houze",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1426,
+      "name": "Pelle à Thart'",
+      "level": 24,
+      "slug": "pelle-a-thart",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 296,
+      "name": "Pelle du Craqueleur",
+      "level": 29,
+      "slug": "pelle-du-craqueleur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 484,
+      "name": "Pelle Teuze",
+      "level": 31,
+      "slug": "pelle-teuze",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1058,
+      "name": "Pelle de Koutoulou",
+      "level": 34,
+      "slug": "pelle-de-koutoulou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 347,
+      "name": "Rhizome Doré",
+      "level": 40,
+      "slug": "rhizome-dore",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1045,
+      "name": "Pelle de Bois Dormant",
+      "level": 43,
+      "slug": "pelle-de-bois-dormant",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1436,
+      "name": "Pelle Ikan",
+      "level": 50,
+      "slug": "pelle-ikan",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1049,
+      "name": "Pelle Melle",
+      "level": 50,
+      "slug": "pelle-melle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11857,
+      "name": "Pelle de Stroud émoussée",
+      "level": 50,
+      "slug": "pelle-de-stroud-emoussee",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 3356,
+      "name": "Pelle Doudesque",
+      "level": 52,
+      "slug": "pelle-doudesque",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6527,
+      "name": "Pelle Musicale",
+      "level": 52,
+      "slug": "pelle-musicale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1054,
+      "name": "Cruelle Pelle-Truelle",
+      "level": 53,
+      "slug": "cruelle-pelle-truelle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1427,
+      "name": "Pelle Zébuth",
+      "level": 55,
+      "slug": "pelle-zebuth",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1431,
+      "name": "Pelle Mechba",
+      "level": 60,
+      "slug": "pelle-mechba",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1433,
+      "name": "Pelle Sécutrice",
+      "level": 60,
+      "slug": "pelle-secutrice",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1053,
+      "name": "Pelle Woukuis",
+      "level": 64,
+      "slug": "pelle-woukuis",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8614,
+      "name": "Pelle Ripe",
+      "level": 66,
+      "slug": "pelle-ripe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8613,
+      "name": "Pelle Minstère",
+      "level": 70,
+      "slug": "pelle-minstere",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6539,
+      "name": "Pelle Gicque",
+      "level": 71,
+      "slug": "pelle-gicque",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 250,
+      "name": "Ares",
+      "level": 72,
+      "slug": "ares",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1435,
+      "name": "La Pelle du Large",
+      "level": 80,
+      "slug": "la-pelle-du-large",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6538,
+      "name": "Pelle Vaidaire",
+      "level": 84,
+      "slug": "pelle-vaidaire",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6540,
+      "name": "La Pelle Hélabète",
+      "level": 86,
+      "slug": "la-pelle-helabete",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6537,
+      "name": "Pelle Mairhe",
+      "level": 88,
+      "slug": "pelle-mairhe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6528,
+      "name": "Pelle Rinage",
+      "level": 88,
+      "slug": "pelle-rinage",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6526,
+      "name": "Pelle Hébuse",
+      "level": 94,
+      "slug": "pelle-hebuse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13329,
+      "name": "Râtrouille",
+      "level": 102,
+      "slug": "ratrouille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14585,
+      "name": "Clef à Molette",
+      "level": 106,
+      "slug": "clef-a-molette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8419,
+      "name": "Pelle Moh",
+      "level": 115,
+      "slug": "pelle-moh",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6536,
+      "name": "Pelle du Mineur Sombre",
+      "level": 118,
+      "slug": "pelle-du-mineur-sombre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6535,
+      "name": "Pelle Hikule",
+      "level": 121,
+      "slug": "pelle-hikule",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8420,
+      "name": "Pelle Dragoeuf",
+      "level": 127,
+      "slug": "pelle-dragoeuf",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8417,
+      "name": "Pelle à Gâteau",
+      "level": 131,
+      "slug": "pelle-a-gateau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8936,
+      "name": "Pelle Shattkitou",
+      "level": 136,
+      "slug": "pelle-shattkitou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7213,
+      "name": "Pelle Rhon",
+      "level": 142,
+      "slug": "pelle-rhon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11628,
+      "name": "Pelle Tonedjone",
+      "level": 147,
+      "slug": "pelle-tonedjone",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8937,
+      "name": "Pelle Aigante",
+      "level": 155,
+      "slug": "pelle-aigante",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8935,
+      "name": "La Bêche à Mel",
+      "level": 172,
+      "slug": "la-beche-a-mel",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11762,
+      "name": "Pelle Dorado",
+      "level": 178,
+      "slug": "pelle-dorado",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10223,
+      "name": "Pelle Hectrochoc",
+      "level": 179,
+      "slug": "pelle-hectrochoc",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11820,
+      "name": "Pelle Vétik",
+      "level": 181,
+      "slug": "pelle-vetik",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9468,
+      "name": "Pelle Emélaka",
+      "level": 191,
+      "slug": "pelle-emelaka",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12112,
+      "name": "Pelle du Professeur Xa",
+      "level": 191,
+      "slug": "pelle-du-professeur-xa",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14055,
+      "name": "Bêche Asse",
+      "level": 197,
+      "slug": "beche-asse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11763,
+      "name": "Pelle Fik",
+      "level": 197,
+      "slug": "pelle-fik",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14135,
+      "name": "Pelle Vice",
+      "level": 199,
+      "slug": "pelle-vice",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 22213,
+      "name": "Bêche de Corruption",
+      "level": 200,
+      "slug": "beche-de-corruption",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32242,
+      "name": "Bêche de Mekamouth",
+      "level": 200,
+      "slug": "beche-de-mekamouth",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18013,
+      "name": "Harpelle",
+      "level": 200,
+      "slug": "harpelle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19093,
+      "name": "Pelle de Katrepat",
+      "level": 200,
+      "slug": "pelle-de-katrepat",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15218,
+      "name": "Pelle de Nidas",
+      "level": 200,
+      "slug": "pelle-de-nidas",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15494,
+      "name": "Pelle de la Cour Sombre",
+      "level": 200,
+      "slug": "pelle-de-la-cour-sombre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 20935,
+      "name": "Spatule Tranche-Gourmands",
+      "level": 200,
+      "slug": "spatule-tranche-gourmands",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    }
+  ]
+}

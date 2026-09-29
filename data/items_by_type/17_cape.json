@@ -1,0 +1,2738 @@
+{
+  "_meta": {
+    "typeId": 17,
+    "typeLabel": "cape",
+    "total": 310,
+    "totalSaleable": 303,
+    "fetchedAt": "2026-05-18T21:08:31.771599"
+  },
+  "items": [
+    {
+      "id": 2119,
+      "name": "Cape Bontarienne",
+      "level": 1,
+      "slug": "cape-bontarienne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2118,
+      "name": "Cape Brâkmarienne",
+      "level": 1,
+      "slug": "cape-brakmarienne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18146,
+      "name": "Cape Transparente",
+      "level": 1,
+      "slug": "cape-transparente",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6886,
+      "name": "Cape des Mercenaires d'Astrub",
+      "level": 1,
+      "slug": "cape-des-mercenaires-d-astrub",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 677,
+      "name": "Cape du Pirate",
+      "level": 1,
+      "slug": "cape-du-pirate",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8534,
+      "name": "La Cape S'loque",
+      "level": 1,
+      "slug": "la-cape-s-loque",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1697,
+      "name": "Petit Sac en Laine de Boufton",
+      "level": 1,
+      "slug": "petit-sac-en-laine-de-boufton",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 778,
+      "name": "Cape de Mori Arty",
+      "level": 6,
+      "slug": "cape-de-mori-arty",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1698,
+      "name": "Sac du Petit Récolteur",
+      "level": 6,
+      "slug": "sac-du-petit-recolteur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 937,
+      "name": "Cape Bleutée",
+      "level": 7,
+      "slug": "cape-bleutee",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8232,
+      "name": "Cape du Piou Bleu",
+      "level": 7,
+      "slug": "cape-du-piou-bleu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16504,
+      "name": "Cape Syché",
+      "level": 8,
+      "slug": "cape-syche",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2473,
+      "name": "Cape de l'Aventurier",
+      "level": 8,
+      "slug": "cape-de-l-aventurier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8231,
+      "name": "Cape du Piou Rouge",
+      "level": 8,
+      "slug": "cape-du-piou-rouge",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8236,
+      "name": "Cape du Piou Vert",
+      "level": 9,
+      "slug": "cape-du-piou-vert",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8233,
+      "name": "Cape du Piou Jaune",
+      "level": 10,
+      "slug": "cape-du-piou-jaune",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1699,
+      "name": "Sac du Petit Aventurier",
+      "level": 10,
+      "slug": "sac-du-petit-aventurier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7174,
+      "name": "Cape Pandawushu",
+      "level": 11,
+      "slug": "cape-pandawushu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6922,
+      "name": "Cape du Champ Champ",
+      "level": 11,
+      "slug": "cape-du-champ-champ",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8235,
+      "name": "Cape du Piou Rose",
+      "level": 11,
+      "slug": "cape-du-piou-rose",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16501,
+      "name": "Cape de Kardorim",
+      "level": 12,
+      "slug": "cape-de-kardorim",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8234,
+      "name": "Cape du Piou Violet",
+      "level": 12,
+      "slug": "cape-du-piou-violet",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6795,
+      "name": "Capouze des Champs",
+      "level": 13,
+      "slug": "capouze-des-champs",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 773,
+      "name": "Cape Ellinie",
+      "level": 14,
+      "slug": "cape-ellinie",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 776,
+      "name": "Cape Sulcorpe",
+      "level": 14,
+      "slug": "cape-sulcorpe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 774,
+      "name": "Cape Ulais",
+      "level": 14,
+      "slug": "cape-ulais",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1702,
+      "name": "Sac du Récolteur",
+      "level": 15,
+      "slug": "sac-du-recolteur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 934,
+      "name": "Cape de Rougeur",
+      "level": 16,
+      "slug": "cape-de-rougeur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6916,
+      "name": "Sac du Petit Moskito",
+      "level": 16,
+      "slug": "sac-du-petit-moskito",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 775,
+      "name": "Cape Abilité",
+      "level": 17,
+      "slug": "cape-abilite",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 947,
+      "name": "Cape Sombre",
+      "level": 18,
+      "slug": "cape-sombre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8131,
+      "name": "Sac du Paysan",
+      "level": 18,
+      "slug": "sac-du-paysan",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8333,
+      "name": "Cape du Papa Nowel",
+      "level": 19,
+      "slug": "cape-du-papa-nowel",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1021,
+      "name": "Ailes en bois",
+      "level": 20,
+      "slug": "ailes-en-bois",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2414,
+      "name": "Cape Bouffante",
+      "level": 20,
+      "slug": "cape-bouffante",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16171,
+      "name": "Cape Invisible",
+      "level": 20,
+      "slug": "cape-invisible",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 744,
+      "name": "Cape de Bowisse",
+      "level": 20,
+      "slug": "cape-de-bowisse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6720,
+      "name": "Cape de l'Homme Ours",
+      "level": 20,
+      "slug": "cape-de-l-homme-ours",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8258,
+      "name": "Cape en Mousse",
+      "level": 20,
+      "slug": "cape-en-mousse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1703,
+      "name": "Sac du Grand Récolteur",
+      "level": 20,
+      "slug": "sac-du-grand-recolteur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1704,
+      "name": "Sac du Staca Noviste",
+      "level": 20,
+      "slug": "sac-du-staca-noviste",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10971,
+      "name": "Sac ripant",
+      "level": 20,
+      "slug": "sac-ripant",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 781,
+      "name": "Cape Itou Lascione",
+      "level": 21,
+      "slug": "cape-itou-lascione",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 772,
+      "name": "Cape Edépée",
+      "level": 22,
+      "slug": "cape-edepee",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 954,
+      "name": "La Samoulaille",
+      "level": 22,
+      "slug": "la-samoulaille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 957,
+      "name": "La Boufteuse",
+      "level": 23,
+      "slug": "la-boufteuse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12848,
+      "name": "Manteau du Glutin",
+      "level": 25,
+      "slug": "manteau-du-glutin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8112,
+      "name": "Cape du Tofu",
+      "level": 26,
+      "slug": "cape-du-tofu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7108,
+      "name": "Larvasac",
+      "level": 27,
+      "slug": "larvasac",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10830,
+      "name": "Banana Cape",
+      "level": 28,
+      "slug": "banana-cape",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2445,
+      "name": "Cape Bouffante Royale",
+      "level": 29,
+      "slug": "cape-bouffante-royale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 754,
+      "name": "Cape du Vampire",
+      "level": 29,
+      "slug": "cape-du-vampire",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8919,
+      "name": "Ailes en bois améliorées",
+      "level": 30,
+      "slug": "ailes-en-bois-ameliorees",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 790,
+      "name": "Cape de Bonne Espérance",
+      "level": 30,
+      "slug": "cape-de-bonne-esperance",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 758,
+      "name": "Cape du Justicier",
+      "level": 30,
+      "slug": "cape-du-justicier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 956,
+      "name": "Cape Rice",
+      "level": 32,
+      "slug": "cape-rice",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 952,
+      "name": "Cape du Mulou Fou",
+      "level": 33,
+      "slug": "cape-du-mulou-fou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 759,
+      "name": "Cape du Poolay Chogrelotant",
+      "level": 33,
+      "slug": "cape-du-poolay-chogrelotant",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 955,
+      "name": "Cape Hilère",
+      "level": 34,
+      "slug": "cape-hilere",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 779,
+      "name": "Cape Maj'Hic",
+      "level": 34,
+      "slug": "cape-maj-hic",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2382,
+      "name": "Cape Maimpa",
+      "level": 36,
+      "slug": "cape-maimpa",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 953,
+      "name": "Cape du Tofu Fou",
+      "level": 36,
+      "slug": "cape-du-tofu-fou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6927,
+      "name": "Cape du Prespic",
+      "level": 37,
+      "slug": "cape-du-prespic",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15993,
+      "name": "Cape Lumette",
+      "level": 38,
+      "slug": "cape-lumette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 948,
+      "name": "Abracape",
+      "level": 40,
+      "slug": "abracape",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15016,
+      "name": "Caponion",
+      "level": 40,
+      "slug": "caponion",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1705,
+      "name": "Sac de l'Aventurier",
+      "level": 40,
+      "slug": "sac-de-l-aventurier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7230,
+      "name": "Cape Akwadala",
+      "level": 41,
+      "slug": "cape-akwadala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2380,
+      "name": "Cape de Bou",
+      "level": 41,
+      "slug": "cape-de-bou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11980,
+      "name": "Cape du Boostache",
+      "level": 41,
+      "slug": "cape-du-boostache",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10058,
+      "name": "Cape du Vampyre",
+      "level": 41,
+      "slug": "cape-du-vampyre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2412,
+      "name": "Kwape de Flammes",
+      "level": 41,
+      "slug": "kwape-de-flammes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2534,
+      "name": "Kwape de Glace",
+      "level": 41,
+      "slug": "kwape-de-glace",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6756,
+      "name": "Kwape de Terre",
+      "level": 41,
+      "slug": "kwape-de-terre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6757,
+      "name": "Kwape de Vent",
+      "level": 41,
+      "slug": "kwape-de-vent",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1500,
+      "name": "La Mokette",
+      "level": 43,
+      "slug": "la-mokette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7137,
+      "name": "Cape Huccino",
+      "level": 44,
+      "slug": "cape-huccino",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 777,
+      "name": "Cape du Coq Hû",
+      "level": 44,
+      "slug": "cape-du-coq-hu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2413,
+      "name": "Abracapa",
+      "level": 45,
+      "slug": "abracapa",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2061,
+      "name": "Cape du Corbac",
+      "level": 45,
+      "slug": "cape-du-corbac",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6943,
+      "name": "Scaracape Blanche",
+      "level": 45,
+      "slug": "scaracape-blanche",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6941,
+      "name": "Scaracape Bleue",
+      "level": 45,
+      "slug": "scaracape-bleue",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6942,
+      "name": "Scaracape Rouge",
+      "level": 45,
+      "slug": "scaracape-rouge",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6940,
+      "name": "Scaracape Verte",
+      "level": 45,
+      "slug": "scaracape-verte",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6993,
+      "name": "Cape Ricéfini",
+      "level": 46,
+      "slug": "cape-ricefini",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2383,
+      "name": "Cape Sanguine",
+      "level": 49,
+      "slug": "cape-sanguine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1910,
+      "name": "Cape Ouginak",
+      "level": 50,
+      "slug": "cape-ouginak",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27523,
+      "name": "Cape des Rebelles",
+      "level": 50,
+      "slug": "cape-des-rebelles",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7552,
+      "name": "Capodindo",
+      "level": 50,
+      "slug": "capodindo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27529,
+      "name": "Queue de Rakoopeur",
+      "level": 50,
+      "slug": "queue-de-rakoopeur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12414,
+      "name": "Sac de Voyage du Parfait Petit Vulkain",
+      "level": 50,
+      "slug": "sac-de-voyage-du-parfait-petit-vulkain",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8134,
+      "name": "Scaracape Noire",
+      "level": 51,
+      "slug": "scaracape-noire",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2386,
+      "name": "La Guenille",
+      "level": 53,
+      "slug": "la-guenille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1693,
+      "name": "Cape de Jules Yanos",
+      "level": 54,
+      "slug": "cape-de-jules-yanos",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10686,
+      "name": "Cape du Roks Or",
+      "level": 54,
+      "slug": "cape-du-roks-or",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 967,
+      "name": "Cape Fulgurante",
+      "level": 55,
+      "slug": "cape-fulgurante",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 34254,
+      "name": "Capomuldo",
+      "level": 55,
+      "slug": "capomuldo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6994,
+      "name": "Cape Hôte",
+      "level": 56,
+      "slug": "cape-hote",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2489,
+      "name": "Vegacape",
+      "level": 56,
+      "slug": "vegacape",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8117,
+      "name": "Scaracape Dorée",
+      "level": 58,
+      "slug": "scaracape-doree",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 971,
+      "name": "Cape du Wa Wabbit",
+      "level": 60,
+      "slug": "cape-du-wa-wabbit",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 34256,
+      "name": "Capovolko",
+      "level": 60,
+      "slug": "capovolko",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2532,
+      "name": "Caracape",
+      "level": 60,
+      "slug": "caracape",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2446,
+      "name": "Gelocape",
+      "level": 60,
+      "slug": "gelocape",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1707,
+      "name": "Sac du Grand Aventurier",
+      "level": 60,
+      "slug": "sac-du-grand-aventurier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6501,
+      "name": "Sac-Cawotte",
+      "level": 60,
+      "slug": "sac-cawotte",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2381,
+      "name": "Cape Flotteuse",
+      "level": 61,
+      "slug": "cape-flotteuse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8867,
+      "name": "Cape de la Meupette",
+      "level": 61,
+      "slug": "cape-de-la-meupette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8007,
+      "name": "Cape du Koalak",
+      "level": 61,
+      "slug": "cape-du-koalak",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6931,
+      "name": "Craquelocape",
+      "level": 61,
+      "slug": "craquelocape",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10846,
+      "name": "Phéro-Cape",
+      "level": 61,
+      "slug": "phero-cape",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7340,
+      "name": "Cape du Kitsou",
+      "level": 62,
+      "slug": "cape-du-kitsou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7231,
+      "name": "Cape Terrdala",
+      "level": 63,
+      "slug": "cape-terrdala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2387,
+      "name": "La Poilue",
+      "level": 63,
+      "slug": "la-poilue",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6954,
+      "name": "Cape du Mulou",
+      "level": 64,
+      "slug": "cape-du-mulou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7233,
+      "name": "Cape Aerdala",
+      "level": 65,
+      "slug": "cape-aerdala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7011,
+      "name": "Cape du Désir O'Boul",
+      "level": 67,
+      "slug": "cape-du-desir-o-boul",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7888,
+      "name": "Sac du Koulosse",
+      "level": 69,
+      "slug": "sac-du-koulosse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19082,
+      "name": "Cape du Scorbute",
+      "level": 70,
+      "slug": "cape-du-scorbute",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6830,
+      "name": "Petit sac d'écolier du Chef Crocodaille",
+      "level": 70,
+      "slug": "petit-sac-d-ecolier-du-chef-crocodaille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6712,
+      "name": "Cape Hucine",
+      "level": 71,
+      "slug": "cape-hucine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12070,
+      "name": "Cape de Nelween",
+      "level": 71,
+      "slug": "cape-de-nelween",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6775,
+      "name": "Cape de Farle",
+      "level": 76,
+      "slug": "cape-de-farle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18423,
+      "name": "Cape Ouroboulos",
+      "level": 78,
+      "slug": "cape-ouroboulos",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18426,
+      "name": "Cape du Désert",
+      "level": 79,
+      "slug": "cape-du-desert",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8640,
+      "name": "Cape Aillé",
+      "level": 80,
+      "slug": "cape-aille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12388,
+      "name": "Cape Aircussion",
+      "level": 80,
+      "slug": "cape-aircussion",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27552,
+      "name": "Cape Anthéon",
+      "level": 80,
+      "slug": "cape-antheon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8639,
+      "name": "Cape Aurale",
+      "level": 80,
+      "slug": "cape-aurale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12387,
+      "name": "Cape Endaison",
+      "level": 80,
+      "slug": "cape-endaison",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8649,
+      "name": "Cape Hadosse",
+      "level": 80,
+      "slug": "cape-hadosse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8650,
+      "name": "Cape Haharnum",
+      "level": 80,
+      "slug": "cape-haharnum",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8644,
+      "name": "Cape Hitton",
+      "level": 80,
+      "slug": "cape-hitton",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18617,
+      "name": "Cape Hoile",
+      "level": 80,
+      "slug": "cape-hoile",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8642,
+      "name": "Cape Huchon",
+      "level": 80,
+      "slug": "cape-huchon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8648,
+      "name": "Cape Hulco",
+      "level": 80,
+      "slug": "cape-hulco",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8646,
+      "name": "Cape Lyne",
+      "level": 80,
+      "slug": "cape-lyne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16141,
+      "name": "Cape Ortail",
+      "level": 80,
+      "slug": "cape-ortail",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17449,
+      "name": "Cape Rimordiale",
+      "level": 80,
+      "slug": "cape-rimordiale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8641,
+      "name": "Cape Routh",
+      "level": 80,
+      "slug": "cape-routh",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8643,
+      "name": "Cape Sulhit",
+      "level": 80,
+      "slug": "cape-sulhit",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8647,
+      "name": "Cape Wéra",
+      "level": 80,
+      "slug": "cape-wera",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8645,
+      "name": "Cape Ytale",
+      "level": 80,
+      "slug": "cape-ytale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1695,
+      "name": "Cape d'Elya Wood",
+      "level": 80,
+      "slug": "cape-d-elya-wood",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8302,
+      "name": "Cape de Shika",
+      "level": 80,
+      "slug": "cape-de-shika",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13262,
+      "name": "Sac Rebleux",
+      "level": 80,
+      "slug": "sac-rebleux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14492,
+      "name": "Cape du Wa Wobot",
+      "level": 81,
+      "slug": "cape-du-wa-wobot",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8181,
+      "name": "Craquelocape Légendaire",
+      "level": 84,
+      "slug": "craquelocape-legendaire",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12856,
+      "name": "Sacoche de Redolphe",
+      "level": 85,
+      "slug": "sacoche-de-redolphe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33575,
+      "name": "Voile de Musha",
+      "level": 85,
+      "slug": "voile-de-musha",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2385,
+      "name": "La Brouteuse",
+      "level": 88,
+      "slug": "la-brouteuse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19088,
+      "name": "Cape Riktus",
+      "level": 90,
+      "slug": "cape-riktus",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7884,
+      "name": "Cape du Boufcoul",
+      "level": 90,
+      "slug": "cape-du-boufcoul",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7232,
+      "name": "Cape Feudala",
+      "level": 92,
+      "slug": "cape-feudala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17109,
+      "name": "Cape du Capitaine Pirate",
+      "level": 92,
+      "slug": "cape-du-capitaine-pirate",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16177,
+      "name": "Caparak",
+      "level": 94,
+      "slug": "caparak",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12371,
+      "name": "Cape du Gorgouille",
+      "level": 99,
+      "slug": "cape-du-gorgouille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6811,
+      "name": "Cape du Chef Bwork",
+      "level": 100,
+      "slug": "cape-du-chef-bwork",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19091,
+      "name": "Cape du Muloubar",
+      "level": 100,
+      "slug": "cape-du-muloubar",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12413,
+      "name": "Cape du Krokilleur",
+      "level": 101,
+      "slug": "cape-du-krokilleur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13327,
+      "name": "Capitrouille",
+      "level": 101,
+      "slug": "capitrouille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6763,
+      "name": "Fourbacapa",
+      "level": 101,
+      "slug": "fourbacapa",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8452,
+      "name": "Cape du Rat Blanc",
+      "level": 102,
+      "slug": "cape-du-rat-blanc",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17093,
+      "name": "Cape de Moon",
+      "level": 103,
+      "slug": "cape-de-moon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8819,
+      "name": "Cape de la Ouassingue",
+      "level": 103,
+      "slug": "cape-de-la-ouassingue",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8281,
+      "name": "Cape du Dragon Cochon",
+      "level": 103,
+      "slug": "cape-du-dragon-cochon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15207,
+      "name": "Cape Précieuse",
+      "level": 104,
+      "slug": "cape-precieuse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6995,
+      "name": "Cape Houte",
+      "level": 105,
+      "slug": "cape-houte",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33586,
+      "name": "Cape de Naganita",
+      "level": 105,
+      "slug": "cape-de-naganita",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8443,
+      "name": "Cape du Rat Noir",
+      "level": 105,
+      "slug": "cape-du-rat-noir",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8279,
+      "name": "Cape du Minotoror",
+      "level": 107,
+      "slug": "cape-du-minotoror",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6449,
+      "name": "Corbacape",
+      "level": 108,
+      "slug": "corbacape",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15013,
+      "name": "Cape de Flèche Mauve",
+      "level": 109,
+      "slug": "cape-de-fleche-mauve",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8866,
+      "name": "Puissante Cape Fulgurante",
+      "level": 110,
+      "slug": "puissante-cape-fulgurante",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8416,
+      "name": "Cape du Mominotor",
+      "level": 111,
+      "slug": "cape-du-mominotor",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8464,
+      "name": "Abracapa Ancestrale",
+      "level": 112,
+      "slug": "abracapa-ancestrale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17598,
+      "name": "Cape des Ecaflipuces",
+      "level": 112,
+      "slug": "cape-des-ecaflipuces",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23260,
+      "name": "Capistil",
+      "level": 112,
+      "slug": "capistil",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14501,
+      "name": "Cape du Wabbit Garou",
+      "level": 119,
+      "slug": "cape-du-wabbit-garou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2629,
+      "name": "Caracape Minotoris",
+      "level": 121,
+      "slug": "caracape-minotoris",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12087,
+      "name": "Cape Mouthante",
+      "level": 124,
+      "slug": "cape-mouthante",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8286,
+      "name": "Cape Dragoeuf",
+      "level": 125,
+      "slug": "cape-dragoeuf",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15791,
+      "name": "Cape Xélomorphe",
+      "level": 125,
+      "slug": "cape-xelomorphe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7138,
+      "name": "Ortiz",
+      "level": 125,
+      "slug": "ortiz",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15523,
+      "name": "Cape d'Ali Grothor",
+      "level": 126,
+      "slug": "cape-d-ali-grothor",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23253,
+      "name": "Kwarapace",
+      "level": 126,
+      "slug": "kwarapace",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13584,
+      "name": "Coffresac du Koalak",
+      "level": 127,
+      "slug": "coffresac-du-koalak",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2547,
+      "name": "Corbacape Mastralis",
+      "level": 127,
+      "slug": "corbacape-mastralis",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23264,
+      "name": "Caparavent",
+      "level": 128,
+      "slug": "caparavent",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18431,
+      "name": "Capterre",
+      "level": 129,
+      "slug": "capterre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8458,
+      "name": "Cape Cérémoniale du Seigneur des Rats",
+      "level": 130,
+      "slug": "cape-ceremoniale-du-seigneur-des-rats",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15359,
+      "name": "Gruchape",
+      "level": 130,
+      "slug": "gruchape",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 20983,
+      "name": "Sac à Croquer",
+      "level": 130,
+      "slug": "sac-a-croquer",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11605,
+      "name": "Cape Ricieuse",
+      "level": 131,
+      "slug": "cape-ricieuse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23272,
+      "name": "Crache-feu Firefoux",
+      "level": 132,
+      "slug": "crache-feu-firefoux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8265,
+      "name": "Cape du Meulou",
+      "level": 139,
+      "slug": "cape-du-meulou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23273,
+      "name": "Sac des Firefoux",
+      "level": 140,
+      "slug": "sac-des-firefoux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8472,
+      "name": "Cape Usée du Chêne Mou",
+      "level": 142,
+      "slug": "cape-usee-du-chene-mou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32207,
+      "name": "Cape de Katigrou",
+      "level": 144,
+      "slug": "cape-de-katigrou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11580,
+      "name": "Cape du Mansot Royal",
+      "level": 144,
+      "slug": "cape-du-mansot-royal",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15202,
+      "name": "Cape du Père Phorreur",
+      "level": 146,
+      "slug": "cape-du-pere-phorreur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7515,
+      "name": "Cape Itaineflam",
+      "level": 148,
+      "slug": "cape-itaineflam",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 26313,
+      "name": "Cape d'Hell Mina",
+      "level": 148,
+      "slug": "cape-d-hell-mina",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15200,
+      "name": "Cape Phossile",
+      "level": 149,
+      "slug": "cape-phossile",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12852,
+      "name": "Cape du Nowel Cauchemardesque",
+      "level": 150,
+      "slug": "cape-du-nowel-cauchemardesque",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14001,
+      "name": "Pèlerine d'Augilol",
+      "level": 151,
+      "slug": "pelerine-d-augilol",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8818,
+      "name": "Cape Souveraine du Roissingue",
+      "level": 152,
+      "slug": "cape-souveraine-du-roissingue",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12093,
+      "name": "Cape de Cantile",
+      "level": 153,
+      "slug": "cape-de-cantile",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23618,
+      "name": "Sac mortuaire de Jiangshi-Nobi",
+      "level": 154,
+      "slug": "sac-mortuaire-de-jiangshi-nobi",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32210,
+      "name": "Voile de Fantômayte",
+      "level": 155,
+      "slug": "voile-de-fantomayte",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8280,
+      "name": "Cape du Minotot",
+      "level": 156,
+      "slug": "cape-du-minotot",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23628,
+      "name": "Fût d'Aspiratueur",
+      "level": 159,
+      "slug": "fut-d-aspiratueur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15061,
+      "name": "Cape du Kaniblou",
+      "level": 160,
+      "slug": "cape-du-kaniblou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11606,
+      "name": "Cape Tivante",
+      "level": 161,
+      "slug": "cape-tivante",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17590,
+      "name": "Cape des Matougarous",
+      "level": 162,
+      "slug": "cape-des-matougarous",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17097,
+      "name": "Cape du Bretteur Céleste",
+      "level": 162,
+      "slug": "cape-du-bretteur-celeste",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11581,
+      "name": "Cape de l'Obsidiantre",
+      "level": 163,
+      "slug": "cape-de-l-obsidiantre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8366,
+      "name": "Cape du Petit Chapon Rouge",
+      "level": 171,
+      "slug": "cape-du-petit-chapon-rouge",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18588,
+      "name": "Capikténia",
+      "level": 171,
+      "slug": "capiktenia",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31793,
+      "name": "Panier de zœufs",
+      "level": 172,
+      "slug": "panier-de-zufs",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11726,
+      "name": "Cape Surde",
+      "level": 176,
+      "slug": "cape-surde",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11708,
+      "name": "Cape de Tengu Givrefoux",
+      "level": 177,
+      "slug": "cape-de-tengu-givrefoux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31750,
+      "name": "Carapace ailée du Supervizœuf",
+      "level": 178,
+      "slug": "carapace-ailee-du-supervizuf",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11712,
+      "name": "Cape du Korriandre",
+      "level": 179,
+      "slug": "cape-du-korriandre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23805,
+      "name": "Carapace d'entraînement du Maître Torte Hou",
+      "level": 180,
+      "slug": "carapace-d-entrainement-du-maitre-torte-hou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9141,
+      "name": "Caprin",
+      "level": 181,
+      "slug": "caprin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15501,
+      "name": "Cape Nécrotique",
+      "level": 182,
+      "slug": "cape-necrotique",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11727,
+      "name": "Cape Peupret",
+      "level": 182,
+      "slug": "cape-peupret",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15504,
+      "name": "Cape de Dremoan",
+      "level": 182,
+      "slug": "cape-de-dremoan",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33601,
+      "name": "Cape Debruk'Sayl",
+      "level": 183,
+      "slug": "cape-debruk-sayl",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9180,
+      "name": "Cape Erforée",
+      "level": 185,
+      "slug": "cape-erforee",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13131,
+      "name": "Cape d'Ogivol",
+      "level": 186,
+      "slug": "cape-d-ogivol",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9142,
+      "name": "Capignon",
+      "level": 190,
+      "slug": "capignon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8876,
+      "name": "Voile d'encre",
+      "level": 191,
+      "slug": "voile-d-encre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12117,
+      "name": "Cape de la Fuji Givrefoux",
+      "level": 193,
+      "slug": "cape-de-la-fuji-givrefoux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13645,
+      "name": "Cape d'Hel Munster",
+      "level": 194,
+      "slug": "cape-d-hel-munster",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13127,
+      "name": "Cape de Léthaline",
+      "level": 194,
+      "slug": "cape-de-lethaline",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12108,
+      "name": "Cape du Professeur Xa",
+      "level": 194,
+      "slug": "cape-du-professeur-xa",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11472,
+      "name": "Grésilocape",
+      "level": 194,
+      "slug": "gresilocape",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11728,
+      "name": "Cape Hiculteur",
+      "level": 196,
+      "slug": "cape-hiculteur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13657,
+      "name": "Cape Matelassée",
+      "level": 196,
+      "slug": "cape-matelassee",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13648,
+      "name": "Cape d'Aermyne",
+      "level": 196,
+      "slug": "cape-d-aermyne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13635,
+      "name": "Cape de Nevark",
+      "level": 196,
+      "slug": "cape-de-nevark",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14057,
+      "name": "Cape Glaciale",
+      "level": 197,
+      "slug": "cape-glaciale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14885,
+      "name": "Cape Parition",
+      "level": 197,
+      "slug": "cape-parition",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18777,
+      "name": "Cape Tif",
+      "level": 197,
+      "slug": "cape-tif",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14051,
+      "name": "Cape de Klime",
+      "level": 197,
+      "slug": "cape-de-klime",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11719,
+      "name": "Cape du Glourséleste",
+      "level": 197,
+      "slug": "cape-du-glourseleste",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31769,
+      "name": "Portail des Voyageurs",
+      "level": 197,
+      "slug": "portail-des-voyageurs",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13197,
+      "name": "Cape Reski",
+      "level": 198,
+      "slug": "cape-reski",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14168,
+      "name": "Cape au Logis",
+      "level": 198,
+      "slug": "cape-au-logis",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14064,
+      "name": "Cape de Nileza",
+      "level": 198,
+      "slug": "cape-de-nileza",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14071,
+      "name": "Cape de Sylargh",
+      "level": 198,
+      "slug": "cape-de-sylargh",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13638,
+      "name": "Cape de Théodoran Ax",
+      "level": 198,
+      "slug": "cape-de-theodoran-ax",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14074,
+      "name": "Cape du Kanimate",
+      "level": 198,
+      "slug": "cape-du-kanimate",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32228,
+      "name": "Pot de miel de Viti Glourson",
+      "level": 199,
+      "slug": "pot-de-miel-de-viti-glourson",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 25221,
+      "name": "Ailes du Chaos",
+      "level": 200,
+      "slug": "ailes-du-chaos",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18597,
+      "name": "Ankhape",
+      "level": 200,
+      "slug": "ankhape",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 20361,
+      "name": "Bravoure de Rykke Errel",
+      "level": 200,
+      "slug": "bravoure-de-rykke-errel",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": true
+    },
+    {
+      "id": 15696,
+      "name": "Capchalot",
+      "level": 200,
+      "slug": "capchalot",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19589,
+      "name": "Cape Ardente",
+      "level": 200,
+      "slug": "cape-ardente",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18008,
+      "name": "Cape Indescriptible",
+      "level": 200,
+      "slug": "cape-indescriptible",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14159,
+      "name": "Cape Lati",
+      "level": 200,
+      "slug": "cape-lati",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18034,
+      "name": "Cape Luminescente",
+      "level": 200,
+      "slug": "cape-luminescente",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19979,
+      "name": "Cape Martegel",
+      "level": 200,
+      "slug": "cape-martegel",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 24027,
+      "name": "Cape Ostrophe",
+      "level": 200,
+      "slug": "cape-ostrophe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14161,
+      "name": "Cape Ovri",
+      "level": 200,
+      "slug": "cape-ovri",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 20464,
+      "name": "Cape Paztek",
+      "level": 200,
+      "slug": "cape-paztek",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19607,
+      "name": "Cape Solution",
+      "level": 200,
+      "slug": "cape-solution",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19076,
+      "name": "Cape d'Anerice",
+      "level": 200,
+      "slug": "cape-d-anerice",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17584,
+      "name": "Cape d'Atcham",
+      "level": 200,
+      "slug": "cape-d-atcham",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19601,
+      "name": "Cape de Crânonier",
+      "level": 200,
+      "slug": "cape-de-cranonier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18002,
+      "name": "Cape de Diondin",
+      "level": 200,
+      "slug": "cape-de-diondin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32237,
+      "name": "Cape de Glourdorak",
+      "level": 200,
+      "slug": "cape-de-glourdorak",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17106,
+      "name": "Cape de Kongoku",
+      "level": 200,
+      "slug": "cape-de-kongoku",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18005,
+      "name": "Cape de Mantaze",
+      "level": 200,
+      "slug": "cape-de-mantaze",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18024,
+      "name": "Cape de Meno",
+      "level": 200,
+      "slug": "cape-de-meno",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19253,
+      "name": "Cape de l'Œil Attentif",
+      "level": 200,
+      "slug": "cape-de-l-il-attentif",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19256,
+      "name": "Cape de l'Œil Putride",
+      "level": 200,
+      "slug": "cape-de-l-il-putride",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15430,
+      "name": "Cape de la Cour Sombre",
+      "level": 200,
+      "slug": "cape-de-la-cour-sombre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17577,
+      "name": "Cape de la Dame du Hasard",
+      "level": 200,
+      "slug": "cape-de-la-dame-du-hasard",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14937,
+      "name": "Cape des Justiciers",
+      "level": 200,
+      "slug": "cape-des-justiciers",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15439,
+      "name": "Cape des Malveilleurs",
+      "level": 200,
+      "slug": "cape-des-malveilleurs",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15184,
+      "name": "Cape du Barbétoal",
+      "level": 200,
+      "slug": "cape-du-barbetoal",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17580,
+      "name": "Cape du Chalœil",
+      "level": 200,
+      "slug": "cape-du-chalil",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19246,
+      "name": "Cape du Cœur Saignant",
+      "level": 200,
+      "slug": "cape-du-cur-saignant",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19243,
+      "name": "Cape du Cœur Vaillant",
+      "level": 200,
+      "slug": "cape-du-cur-vaillant",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15197,
+      "name": "Cape du Kamasterisk",
+      "level": 200,
+      "slug": "cape-du-kamasterisk",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14085,
+      "name": "Cape du Sinistrofu",
+      "level": 200,
+      "slug": "cape-du-sinistrofu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17583,
+      "name": "Cape du Valet Veinard",
+      "level": 200,
+      "slug": "cape-du-valet-veinard",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15739,
+      "name": "Capibou",
+      "level": 200,
+      "slug": "capibou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15747,
+      "name": "Capille",
+      "level": 200,
+      "slug": "capille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 21230,
+      "name": "Carapace de Torkélonia",
+      "level": 200,
+      "slug": "carapace-de-torkelonia",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18591,
+      "name": "Chevelure de Tal Kasha",
+      "level": 200,
+      "slug": "chevelure-de-tal-kasha",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 958,
+      "name": "Dofusteuse",
+      "level": 200,
+      "slug": "dofusteuse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 22201,
+      "name": "Manteau de Servitude",
+      "level": 200,
+      "slug": "manteau-de-servitude",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31797,
+      "name": "Manteau du Vénérable Endormi",
+      "level": 200,
+      "slug": "manteau-du-venerable-endormi",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 20362,
+      "name": "Noblesse de Jahash Jurgen",
+      "level": 200,
+      "slug": "noblesse-de-jahash-jurgen",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": true
+    },
+    {
+      "id": 22215,
+      "name": "Parure du Vautour",
+      "level": 200,
+      "slug": "parure-du-vautour",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 22412,
+      "name": "Pestilence de Corruption",
+      "level": 200,
+      "slug": "pestilence-de-corruption",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": true
+    },
+    {
+      "id": 19591,
+      "name": "Sac Volcanique",
+      "level": 200,
+      "slug": "sac-volcanique",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15697,
+      "name": "Voilamibe",
+      "level": 200,
+      "slug": "voilamibe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27512,
+      "name": "Âmes Hurlantes",
+      "level": 200,
+      "slug": "ames-hurlantes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    }
+  ]
+}

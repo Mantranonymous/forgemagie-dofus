@@ -1,0 +1,695 @@
+{
+  "_meta": {
+    "typeId": 2,
+    "typeLabel": "arc",
+    "total": 78,
+    "totalSaleable": 76,
+    "fetchedAt": "2026-05-18T23:13:29.573749"
+  },
+  "items": [
+    {
+      "id": 1942,
+      "name": "Arc de Chasse",
+      "level": 1,
+      "slug": "arc-de-chasse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 829,
+      "name": "Arc Hade",
+      "level": 5,
+      "slug": "arc-hade",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 91,
+      "name": "Arc de Boisaille",
+      "level": 7,
+      "slug": "arc-de-boisaille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 828,
+      "name": "Arc Sifflant",
+      "level": 11,
+      "slug": "arc-sifflant",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6783,
+      "name": "Arc de l'initié",
+      "level": 12,
+      "slug": "arc-de-l-initie",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1350,
+      "name": "Arc Holic",
+      "level": 13,
+      "slug": "arc-holic",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 267,
+      "name": "Arc Déroutant",
+      "level": 19,
+      "slug": "arc-deroutant",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 337,
+      "name": "Arc du Bwork Archer",
+      "level": 20,
+      "slug": "arc-du-bwork-archer",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 331,
+      "name": "Arc Hancihaile",
+      "level": 22,
+      "slug": "arc-hancihaile",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1095,
+      "name": "Arc Buse",
+      "level": 24,
+      "slug": "arc-buse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 462,
+      "name": "Arc en Racine d'Abraknyde",
+      "level": 25,
+      "slug": "arc-en-racine-d-abraknyde",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 329,
+      "name": "Arc de Triomphe",
+      "level": 27,
+      "slug": "arc-de-triomphe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 272,
+      "name": "Nomoon",
+      "level": 28,
+      "slug": "nomoon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 332,
+      "name": "Arc de Jeanne",
+      "level": 30,
+      "slug": "arc-de-jeanne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1351,
+      "name": "Arc du Xueluom",
+      "level": 30,
+      "slug": "arc-du-xueluom",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 273,
+      "name": "La Corde de Yamato",
+      "level": 31,
+      "slug": "la-corde-de-yamato",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1120,
+      "name": "Arc Ecologique",
+      "level": 33,
+      "slug": "arc-ecologique",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 592,
+      "name": "Corde d'Ivan Nowé",
+      "level": 36,
+      "slug": "corde-d-ivan-nowe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1112,
+      "name": "Arc en Corne de Bouftou",
+      "level": 38,
+      "slug": "arc-en-corne-de-bouftou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1620,
+      "name": "Abrarc",
+      "level": 39,
+      "slug": "abrarc",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1355,
+      "name": "Arc Hidsad",
+      "level": 40,
+      "slug": "arc-hidsad",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1353,
+      "name": "Arc à Poulie Sciée",
+      "level": 41,
+      "slug": "arc-a-poulie-sciee",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 640,
+      "name": "Arc des Rivages",
+      "level": 46,
+      "slug": "arc-des-rivages",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1116,
+      "name": "Arc dit Kéha, version standard",
+      "level": 47,
+      "slug": "arc-dit-keha-version-standard",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1354,
+      "name": "L'Arc à Hick",
+      "level": 49,
+      "slug": "l-arc-a-hick",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1352,
+      "name": "Arc de Boo",
+      "level": 52,
+      "slug": "arc-de-boo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7040,
+      "name": "Arc de Kuri",
+      "level": 55,
+      "slug": "arc-de-kuri",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1124,
+      "name": "Arc de Cristal",
+      "level": 56,
+      "slug": "arc-de-cristal",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6491,
+      "name": "Le Tronknydum",
+      "level": 57,
+      "slug": "le-tronknydum",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 270,
+      "name": "Xaveur",
+      "level": 58,
+      "slug": "xaveur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8005,
+      "name": "Arc du Koalak",
+      "level": 61,
+      "slug": "arc-du-koalak",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6453,
+      "name": "Arc du Pêcheur",
+      "level": 70,
+      "slug": "arc-du-pecheur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1128,
+      "name": "Arc du Roi des Borins",
+      "level": 72,
+      "slug": "arc-du-roi-des-borins",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8610,
+      "name": "Le Kikoularc",
+      "level": 79,
+      "slug": "le-kikoularc",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6445,
+      "name": "Arc Boutant",
+      "level": 80,
+      "slug": "arc-boutant",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8609,
+      "name": "Geish'Arc",
+      "level": 81,
+      "slug": "geish-arc",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6451,
+      "name": "Arc Ange",
+      "level": 82,
+      "slug": "arc-ange",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6446,
+      "name": "Arc Chiduc",
+      "level": 87,
+      "slug": "arc-chiduc",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6484,
+      "name": "Arc du Sram Archer",
+      "level": 89,
+      "slug": "arc-du-sram-archer",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7194,
+      "name": "Arc Anum",
+      "level": 96,
+      "slug": "arc-anum",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7161,
+      "name": "Arc Assin",
+      "level": 100,
+      "slug": "arc-assin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14584,
+      "name": "Arc Lequin",
+      "level": 104,
+      "slug": "arc-lequin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15014,
+      "name": "Arc de Flèche Mauve",
+      "level": 107,
+      "slug": "arc-de-fleche-mauve",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6452,
+      "name": "Arc Chitecte",
+      "level": 111,
+      "slug": "arc-chitecte",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6485,
+      "name": "Arc du Chafer Archer",
+      "level": 115,
+      "slug": "arc-du-chafer-archer",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8295,
+      "name": "Arc du Dragoeuf",
+      "level": 118,
+      "slug": "arc-du-dragoeuf",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7160,
+      "name": "Arc Hanne",
+      "level": 120,
+      "slug": "arc-hanne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8103,
+      "name": "Arc Rainier",
+      "level": 121,
+      "slug": "arc-rainier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8864,
+      "name": "Kask'Arc Go",
+      "level": 122,
+      "slug": "kask-arc-go",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7163,
+      "name": "Arc Huledela",
+      "level": 123,
+      "slug": "arc-huledela",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7187,
+      "name": "Jakchir Arc",
+      "level": 124,
+      "slug": "jakchir-arc",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8104,
+      "name": "Arc Chtelion",
+      "level": 129,
+      "slug": "arc-chtelion",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7162,
+      "name": "Arc Lavoine",
+      "level": 130,
+      "slug": "arc-lavoine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7164,
+      "name": "Arc Hisedaisange",
+      "level": 142,
+      "slug": "arc-hisedaisange",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8924,
+      "name": "Arc à Chon",
+      "level": 147,
+      "slug": "arc-a-chon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11627,
+      "name": "Arc Tangente",
+      "level": 167,
+      "slug": "arc-tangente",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12103,
+      "name": "Arc de Guten Tak",
+      "level": 173,
+      "slug": "arc-de-guten-tak",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11754,
+      "name": "Arc Ontanporin",
+      "level": 175,
+      "slug": "arc-ontanporin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9134,
+      "name": "Arc à Lamelles",
+      "level": 183,
+      "slug": "arc-a-lamelles",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11755,
+      "name": "Arc Hétype",
+      "level": 184,
+      "slug": "arc-hetype",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8925,
+      "name": "Arc Oleptik",
+      "level": 185,
+      "slug": "arc-oleptik",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11756,
+      "name": "Arc Ahique",
+      "level": 196,
+      "slug": "arc-ahique",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31773,
+      "name": "Nev'Arc",
+      "level": 197,
+      "slug": "nev-arc",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14164,
+      "name": "Arc Honte",
+      "level": 200,
+      "slug": "arc-honte",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15495,
+      "name": "Arc Nécrotique",
+      "level": 200,
+      "slug": "arc-necrotique",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19986,
+      "name": "Arc Volkorne",
+      "level": 200,
+      "slug": "arc-volkorne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19270,
+      "name": "Arc corrompu",
+      "level": 200,
+      "slug": "arc-corrompu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32235,
+      "name": "Arc de Culbutœuf",
+      "level": 200,
+      "slug": "arc-de-culbutuf",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18012,
+      "name": "Arc de Koutoulou",
+      "level": 200,
+      "slug": "arc-de-koutoulou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 24031,
+      "name": "Arc de Wulan",
+      "level": 200,
+      "slug": "arc-de-wulan",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17681,
+      "name": "Arc du Chalœil",
+      "level": 200,
+      "slug": "arc-du-chalil",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33607,
+      "name": "Arc du Karkanik",
+      "level": 200,
+      "slug": "arc-du-karkanik",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31800,
+      "name": "Arc du Vénérable Endormi",
+      "level": 200,
+      "slug": "arc-du-venerable-endormi",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 24033,
+      "name": "Kanji Jirark",
+      "level": 200,
+      "slug": "kanji-jirark",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 20356,
+      "name": "Plume de Buhorado",
+      "level": 200,
+      "slug": "plume-de-buhorado",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": true
+    },
+    {
+      "id": 27644,
+      "name": "Yaularc",
+      "level": 200,
+      "slug": "yaularc",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    }
+  ]
+}

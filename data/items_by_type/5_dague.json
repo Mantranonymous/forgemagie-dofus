@@ -1,0 +1,713 @@
+{
+  "_meta": {
+    "typeId": 5,
+    "typeLabel": "dague",
+    "total": 79,
+    "totalSaleable": 78,
+    "fetchedAt": "2026-05-18T23:13:35.106115"
+  },
+  "items": [
+    {
+      "id": 1934,
+      "name": "Couteau de Chasse",
+      "level": 1,
+      "slug": "couteau-de-chasse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9974,
+      "name": "Tailladeuse de Manche",
+      "level": 2,
+      "slug": "tailladeuse-de-manche",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 97,
+      "name": "Dagues de Boisaille",
+      "level": 7,
+      "slug": "dagues-de-boisaille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6784,
+      "name": "Dagues de l'initié",
+      "level": 12,
+      "slug": "dagues-de-l-initie",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6924,
+      "name": "Dagues du Bandit",
+      "level": 12,
+      "slug": "dagues-du-bandit",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 340,
+      "name": "Leurnettes",
+      "level": 12,
+      "slug": "leurnettes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 208,
+      "name": "Dagues de Fouraille",
+      "level": 13,
+      "slug": "dagues-de-fouraille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 214,
+      "name": "Dagues de Croclage",
+      "level": 17,
+      "slug": "dagues-de-croclage",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1370,
+      "name": "L'Ergot Mina",
+      "level": 20,
+      "slug": "l-ergot-mina",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1030,
+      "name": "Queues de Chatons",
+      "level": 25,
+      "slug": "queues-de-chatons",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 896,
+      "name": "Dagues Sylvestres",
+      "level": 27,
+      "slug": "dagues-sylvestres",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 218,
+      "name": "Bashers",
+      "level": 29,
+      "slug": "bashers",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1504,
+      "name": "Dagues O'Bert",
+      "level": 30,
+      "slug": "dagues-o-bert",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1374,
+      "name": "Dagues Tylo",
+      "level": 30,
+      "slug": "dagues-tylo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1373,
+      "name": "Le Rasoir Infernal",
+      "level": 30,
+      "slug": "le-rasoir-infernal",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1369,
+      "name": "Les Lames en Table",
+      "level": 33,
+      "slug": "les-lames-en-table",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 919,
+      "name": "Dagues Ancestrales",
+      "level": 34,
+      "slug": "dagues-ancestrales",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1041,
+      "name": "Épée Cassée du Chevalier Malchanceux",
+      "level": 35,
+      "slug": "epee-cassee-du-chevalier-malchanceux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 900,
+      "name": "Dagues Aiguisées",
+      "level": 39,
+      "slug": "dagues-aiguisees",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1031,
+      "name": "Dagues Cruelles d'Elorie Entuwan",
+      "level": 40,
+      "slug": "dagues-cruelles-d-elorie-entuwan",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1371,
+      "name": "Dagues Eulasse",
+      "level": 40,
+      "slug": "dagues-eulasse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8513,
+      "name": "Scalpel de Bworknroll",
+      "level": 40,
+      "slug": "scalpel-de-bworknroll",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1029,
+      "name": "Couteau à Stek",
+      "level": 41,
+      "slug": "couteau-a-stek",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1372,
+      "name": "Dagues Aj'Deh'Là",
+      "level": 44,
+      "slug": "dagues-aj-deh-la",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 341,
+      "name": "Dagues Eurfolles",
+      "level": 46,
+      "slug": "dagues-eurfolles",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6982,
+      "name": "Dagues Honies",
+      "level": 46,
+      "slug": "dagues-honies",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33561,
+      "name": "Dagu'os des Scalarcin",
+      "level": 55,
+      "slug": "dagu-os-des-scalarcin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1035,
+      "name": "Lame de Fon",
+      "level": 56,
+      "slug": "lame-de-fon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7256,
+      "name": "Dagues Aerdala",
+      "level": 62,
+      "slug": "dagues-aerdala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 219,
+      "name": "Blessdags",
+      "level": 64,
+      "slug": "blessdags",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1039,
+      "name": "Dagues Fourbesques",
+      "level": 67,
+      "slug": "dagues-fourbesques",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8598,
+      "name": "Dagues Ruyère",
+      "level": 67,
+      "slug": "dagues-ruyere",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8599,
+      "name": "Griffettes",
+      "level": 69,
+      "slug": "griffettes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 220,
+      "name": "Chakra Style",
+      "level": 73,
+      "slug": "chakra-style",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33567,
+      "name": "Tonfas de Qil Bil",
+      "level": 77,
+      "slug": "tonfas-de-qil-bil",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6517,
+      "name": "Dagues Hischantes",
+      "level": 80,
+      "slug": "dagues-hischantes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1040,
+      "name": "Lames sanglantes d'Ortimus Contrari",
+      "level": 80,
+      "slug": "lames-sanglantes-d-ortimus-contrari",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 3648,
+      "name": "Daguette du Captain Chafer",
+      "level": 83,
+      "slug": "daguette-du-captain-chafer",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 3647,
+      "name": "La Thor-Boyaux",
+      "level": 83,
+      "slug": "la-thor-boyaux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 3651,
+      "name": "Dague Lutination",
+      "level": 90,
+      "slug": "dague-lutination",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 3649,
+      "name": "Dague Rafeuse",
+      "level": 91,
+      "slug": "dague-rafeuse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7190,
+      "name": "Dagues Maydhyn China",
+      "level": 100,
+      "slug": "dagues-maydhyn-china",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8444,
+      "name": "Dagues du Rat Noir",
+      "level": 108,
+      "slug": "dagues-du-rat-noir",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7188,
+      "name": "Dagues Rhumes",
+      "level": 113,
+      "slug": "dagues-rhumes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6984,
+      "name": "Dagues de l'Apprenti Tueur de Bouftons",
+      "level": 113,
+      "slug": "dagues-de-l-apprenti-tueur-de-bouftons",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 3650,
+      "name": "Dague Régah",
+      "level": 119,
+      "slug": "dague-regah",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6516,
+      "name": "Dagues R'Hoh",
+      "level": 121,
+      "slug": "dagues-r-hoh",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13848,
+      "name": "Couteau de Mer",
+      "level": 124,
+      "slug": "couteau-de-mer",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7191,
+      "name": "Sertisseur de Ramougre",
+      "level": 127,
+      "slug": "sertisseur-de-ramougre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8414,
+      "name": "Dagues du Dragoeuf",
+      "level": 128,
+      "slug": "dagues-du-dragoeuf",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18437,
+      "name": "Dagues Cacterre",
+      "level": 130,
+      "slug": "dagues-cacterre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8092,
+      "name": "Les Dagues du Bouwin",
+      "level": 134,
+      "slug": "les-dagues-du-bouwin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23270,
+      "name": "Éventails de Shihan",
+      "level": 142,
+      "slug": "eventails-de-shihan",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6983,
+      "name": "Dagues Réceuses",
+      "level": 143,
+      "slug": "dagues-receuses",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8929,
+      "name": "Kriss Toubal",
+      "level": 149,
+      "slug": "kriss-toubal",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6981,
+      "name": "Dagues Lassay",
+      "level": 150,
+      "slug": "dagues-lassay",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8928,
+      "name": "Dagues Ruik",
+      "level": 158,
+      "slug": "dagues-ruik",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11629,
+      "name": "Youyettes",
+      "level": 164,
+      "slug": "youyettes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31791,
+      "name": "Dagues de Kabombz",
+      "level": 170,
+      "slug": "dagues-de-kabombz",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8927,
+      "name": "Dagues Eudin",
+      "level": 171,
+      "slug": "dagues-eudin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8926,
+      "name": "Dagues Adou",
+      "level": 175,
+      "slug": "dagues-adou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11751,
+      "name": "Dagues Imauve",
+      "level": 176,
+      "slug": "dagues-imauve",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9176,
+      "name": "Lame Assacre",
+      "level": 182,
+      "slug": "lame-assacre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11752,
+      "name": "Dagues Açantes",
+      "level": 183,
+      "slug": "dagues-acantes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9137,
+      "name": "Couteaux à Champignons",
+      "level": 187,
+      "slug": "couteaux-a-champignons",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27543,
+      "name": "Tonfas de Barbéryl",
+      "level": 194,
+      "slug": "tonfas-de-barberyl",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18780,
+      "name": "Hachoirs de Viandargh",
+      "level": 195,
+      "slug": "hachoirs-de-viandargh",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11753,
+      "name": "Dagues Hirr",
+      "level": 197,
+      "slug": "dagues-hirr",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14131,
+      "name": "Dagues Ricol",
+      "level": 198,
+      "slug": "dagues-ricol",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 20354,
+      "name": "Ciseaux du Destin",
+      "level": 200,
+      "slug": "ciseaux-du-destin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": true
+    },
+    {
+      "id": 20391,
+      "name": "Couteaux Sacrificiels",
+      "level": 200,
+      "slug": "couteaux-sacrificiels",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15660,
+      "name": "Couteaux sacrés",
+      "level": 200,
+      "slug": "couteaux-sacres",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18017,
+      "name": "Dagoulinantes",
+      "level": 200,
+      "slug": "dagoulinantes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19268,
+      "name": "Dagues d'Ilyzaelle",
+      "level": 200,
+      "slug": "dagues-d-ilyzaelle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15493,
+      "name": "Dagues de Srambad",
+      "level": 200,
+      "slug": "dagues-de-srambad",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14132,
+      "name": "Dagues Érhy",
+      "level": 200,
+      "slug": "dagues-erhy",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31759,
+      "name": "Griffes de la Déchireuse",
+      "level": 200,
+      "slug": "griffes-de-la-dechireuse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 30855,
+      "name": "Poignards du Captain Chafer",
+      "level": 200,
+      "slug": "poignards-du-captain-chafer",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    }
+  ]
+}

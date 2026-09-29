@@ -1,0 +1,3251 @@
+{
+  "_meta": {
+    "typeId": 10,
+    "typeLabel": "ceinture",
+    "total": 362,
+    "totalSaleable": 360,
+    "fetchedAt": "2026-05-18T21:08:18.092316"
+  },
+  "items": [
+    {
+      "id": 860,
+      "name": "Ceinture de Chance",
+      "level": 1,
+      "slug": "ceinture-de-chance",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 789,
+      "name": "Ceinture du Kobeer",
+      "level": 1,
+      "slug": "ceinture-du-kobeer",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15241,
+      "name": "Kamature",
+      "level": 1,
+      "slug": "kamature",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8536,
+      "name": "La Spamette",
+      "level": 1,
+      "slug": "la-spamette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2477,
+      "name": "Ceinture de l'aventurier",
+      "level": 6,
+      "slug": "ceinture-de-l-aventurier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2803,
+      "name": "Ceinture du Kwabe",
+      "level": 7,
+      "slug": "ceinture-du-kwabe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8237,
+      "name": "Ceinture du Piou Rouge",
+      "level": 7,
+      "slug": "ceinture-du-piou-rouge",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 263,
+      "name": "Ceinture Agilesque",
+      "level": 8,
+      "slug": "ceinture-agilesque",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 259,
+      "name": "Ceinture Forcesque",
+      "level": 8,
+      "slug": "ceinture-forcesque",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8241,
+      "name": "Ceinture du Piou Vert",
+      "level": 8,
+      "slug": "ceinture-du-piou-vert",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 255,
+      "name": "Ceinture Vitalesque",
+      "level": 9,
+      "slug": "ceinture-vitalesque",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8240,
+      "name": "Ceinture du Piou Jaune",
+      "level": 9,
+      "slug": "ceinture-du-piou-jaune",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13423,
+      "name": "Slip de Rechange du Captain Chafer",
+      "level": 9,
+      "slug": "slip-de-rechange-du-captain-chafer",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14589,
+      "name": "Ceintulotté",
+      "level": 10,
+      "slug": "ceintulotte",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12599,
+      "name": "Ceinture de l'Envahisseur",
+      "level": 10,
+      "slug": "ceinture-de-l-envahisseur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8242,
+      "name": "Ceinture du Piou Rose",
+      "level": 10,
+      "slug": "ceinture-du-piou-rose",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14798,
+      "name": "Ceinture du Samouraï",
+      "level": 10,
+      "slug": "ceinture-du-samourai",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12753,
+      "name": "Ceinturong",
+      "level": 10,
+      "slug": "ceinturong",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14629,
+      "name": "Makiture",
+      "level": 10,
+      "slug": "makiture",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17502,
+      "name": "Slip de Khan Karkass",
+      "level": 10,
+      "slug": "slip-de-khan-karkass",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14601,
+      "name": "Slipwaïï",
+      "level": 10,
+      "slug": "slipwaii",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14644,
+      "name": "Soubretture",
+      "level": 10,
+      "slug": "soubretture",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6912,
+      "name": "Araknoture",
+      "level": 11,
+      "slug": "araknoture",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8239,
+      "name": "Ceinture du Piou Violet",
+      "level": 11,
+      "slug": "ceinture-du-piou-violet",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8238,
+      "name": "Ceinture du Piou Bleu",
+      "level": 12,
+      "slug": "ceinture-du-piou-bleu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6796,
+      "name": "Ceinture Fleurie",
+      "level": 13,
+      "slug": "ceinture-fleurie",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1701,
+      "name": "Ceinture de Poche",
+      "level": 13,
+      "slug": "ceinture-de-poche",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6925,
+      "name": "Ceinture du Bandit",
+      "level": 15,
+      "slug": "ceinture-du-bandit",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 734,
+      "name": "Ceinture de Sécurité",
+      "level": 17,
+      "slug": "ceinture-de-securite",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6908,
+      "name": "Sanglature",
+      "level": 18,
+      "slug": "sanglature",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15099,
+      "name": "Ceinture Karnaval",
+      "level": 20,
+      "slug": "ceinture-karnaval",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6724,
+      "name": "Ceinture de l'Homme Ours",
+      "level": 20,
+      "slug": "ceinture-de-l-homme-ours",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2428,
+      "name": "Ceinture du Bouftou",
+      "level": 20,
+      "slug": "ceinture-du-bouftou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8257,
+      "name": "Ceinture en Mousse",
+      "level": 20,
+      "slug": "ceinture-en-mousse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8124,
+      "name": "Ceinturemuda du Paysan",
+      "level": 20,
+      "slug": "ceinturemuda-du-paysan",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8113,
+      "name": "Ceinture du Tofu",
+      "level": 22,
+      "slug": "ceinture-du-tofu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12850,
+      "name": "Caleçon Fourré du Glutin",
+      "level": 25,
+      "slug": "calecon-fourre-du-glutin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2810,
+      "name": "Ceinture Piquante",
+      "level": 26,
+      "slug": "ceinture-piquante",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 356,
+      "name": "Ceinture d'Endurance",
+      "level": 27,
+      "slug": "ceinture-d-endurance",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1700,
+      "name": "Ceinture de Célérité",
+      "level": 27,
+      "slug": "ceinture-de-celerite",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2371,
+      "name": "La Mouthmou",
+      "level": 27,
+      "slug": "la-mouthmou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2233,
+      "name": "La Croqueuse",
+      "level": 28,
+      "slug": "la-croqueuse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2689,
+      "name": "Ceinture Banisation",
+      "level": 29,
+      "slug": "ceinture-banisation",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2444,
+      "name": "Ceinture Royale du Bouftou",
+      "level": 30,
+      "slug": "ceinture-royale-du-bouftou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15548,
+      "name": "Ceinture Verréhor",
+      "level": 30,
+      "slug": "ceinture-verrehor",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10977,
+      "name": "Ceinture de Phong Huss",
+      "level": 30,
+      "slug": "ceinture-de-phong-huss",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17300,
+      "name": "Ceinture des Grocoricos",
+      "level": 30,
+      "slug": "ceinture-des-grocoricos",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17302,
+      "name": "Ceinture des Pamous",
+      "level": 30,
+      "slug": "ceinture-des-pamous",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17303,
+      "name": "Ceinture des Zoblaks",
+      "level": 30,
+      "slug": "ceinture-des-zoblaks",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 156,
+      "name": "Ceinture de Puissance",
+      "level": 31,
+      "slug": "ceinture-de-puissance",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10964,
+      "name": "Ceinture de Rapine",
+      "level": 31,
+      "slug": "ceinture-de-rapine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18639,
+      "name": "Ceinture du Molosse",
+      "level": 31,
+      "slug": "ceinture-du-molosse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2710,
+      "name": "Ceinture Banisation Sauvage",
+      "level": 32,
+      "slug": "ceinture-banisation-sauvage",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10982,
+      "name": "Ceinture d'Hectaupe",
+      "level": 32,
+      "slug": "ceinture-d-hectaupe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9412,
+      "name": "Ceinture du bois de l'est",
+      "level": 32,
+      "slug": "ceinture-du-bois-de-l-est",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6929,
+      "name": "Ceinture du Prespic",
+      "level": 33,
+      "slug": "ceinture-du-prespic",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 203,
+      "name": "Ceinture du Tot",
+      "level": 33,
+      "slug": "ceinture-du-tot",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1720,
+      "name": "Puissance de Crocoburio",
+      "level": 34,
+      "slug": "puissance-de-crocoburio",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10987,
+      "name": "Givrature",
+      "level": 35,
+      "slug": "givrature",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 26343,
+      "name": "Ceinture du Directeur Grunob",
+      "level": 36,
+      "slug": "ceinture-du-directeur-grunob",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2368,
+      "name": "Ramoume l'Eternelle",
+      "level": 36,
+      "slug": "ramoume-l-eternelle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2367,
+      "name": "L'Ami Léhunui",
+      "level": 37,
+      "slug": "l-ami-lehunui",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10191,
+      "name": "L'oxolature",
+      "level": 37,
+      "slug": "l-oxolature",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17506,
+      "name": "Ceinture du Garde Royal",
+      "level": 38,
+      "slug": "ceinture-du-garde-royal",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9922,
+      "name": "Ceinture du Tétounik",
+      "level": 38,
+      "slug": "ceinture-du-tetounik",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9409,
+      "name": "Ceinture Lardière",
+      "level": 39,
+      "slug": "ceinture-lardiere",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11344,
+      "name": "Ceinture de Rapiat",
+      "level": 39,
+      "slug": "ceinture-de-rapiat",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8873,
+      "name": "Krustoture",
+      "level": 39,
+      "slug": "krustoture",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17734,
+      "name": "Ceinture Dragocourse",
+      "level": 40,
+      "slug": "ceinture-dragocourse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11057,
+      "name": "Ceinture Pomdeupin",
+      "level": 40,
+      "slug": "ceinture-pomdeupin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10624,
+      "name": "Ceinture de Grüt",
+      "level": 40,
+      "slug": "ceinture-de-grut",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10640,
+      "name": "Ceinture de Rekto Topi",
+      "level": 40,
+      "slug": "ceinture-de-rekto-topi",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17301,
+      "name": "Ceinture des Redroz",
+      "level": 40,
+      "slug": "ceinture-des-redroz",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17503,
+      "name": "Ceinture du Monarque",
+      "level": 40,
+      "slug": "ceinture-du-monarque",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17012,
+      "name": "Ceinture du chasseur",
+      "level": 40,
+      "slug": "ceinture-du-chasseur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11042,
+      "name": "Cordon Père au gnon",
+      "level": 40,
+      "slug": "cordon-pere-au-gnon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18808,
+      "name": "Magture",
+      "level": 40,
+      "slug": "magture",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12035,
+      "name": "Slip de Kalkanéus",
+      "level": 40,
+      "slug": "slip-de-kalkaneus",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7238,
+      "name": "Ceinture Akwadala",
+      "level": 41,
+      "slug": "ceinture-akwadala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9453,
+      "name": "Ceinture Cristalline",
+      "level": 41,
+      "slug": "ceinture-cristalline",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9929,
+      "name": "Ceinture Siks Won Naïne",
+      "level": 41,
+      "slug": "ceinture-siks-won-naine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10560,
+      "name": "Ceinture de Mounu",
+      "level": 41,
+      "slug": "ceinture-de-mounu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11856,
+      "name": "Ceinture de Stroud",
+      "level": 41,
+      "slug": "ceinture-de-stroud",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10559,
+      "name": "Ceinture de Tolot",
+      "level": 41,
+      "slug": "ceinture-de-tolot",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2427,
+      "name": "Kwakture de Flammes",
+      "level": 41,
+      "slug": "kwakture-de-flammes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2537,
+      "name": "Kwakture de Glace",
+      "level": 41,
+      "slug": "kwakture-de-glace",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6758,
+      "name": "Kwakture de Terre",
+      "level": 41,
+      "slug": "kwakture-de-terre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6759,
+      "name": "Kwakture de Vent",
+      "level": 41,
+      "slug": "kwakture-de-vent",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2370,
+      "name": "La Végète Hâtif",
+      "level": 41,
+      "slug": "la-vegete-hatif",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2678,
+      "name": "Ceinture Kokokette",
+      "level": 42,
+      "slug": "ceinture-kokokette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13304,
+      "name": "Ceinture Teule",
+      "level": 42,
+      "slug": "ceinture-teule",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10632,
+      "name": "Ceinture de Gobeuf",
+      "level": 42,
+      "slug": "ceinture-de-gobeuf",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10629,
+      "name": "Ceinture de Kocksis",
+      "level": 42,
+      "slug": "ceinture-de-kocksis",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11359,
+      "name": "Ceinture de Kubitus",
+      "level": 42,
+      "slug": "ceinture-de-kubitus",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10056,
+      "name": "Ceinture du Vampyre",
+      "level": 42,
+      "slug": "ceinture-du-vampyre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10645,
+      "name": "Ceinture de Grizou",
+      "level": 43,
+      "slug": "ceinture-de-grizou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11356,
+      "name": "Ceinture de Grouillot",
+      "level": 43,
+      "slug": "ceinture-de-grouillot",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12023,
+      "name": "Ceinture de Traçon",
+      "level": 43,
+      "slug": "ceinture-de-tracon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8132,
+      "name": "Scarature Noire",
+      "level": 43,
+      "slug": "scarature-noire",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10157,
+      "name": "Yugure",
+      "level": 43,
+      "slug": "yugure",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2429,
+      "name": "Abrature",
+      "level": 45,
+      "slug": "abrature",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9192,
+      "name": "Beignature",
+      "level": 45,
+      "slug": "beignature",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13303,
+      "name": "Ceinture Nikoti",
+      "level": 45,
+      "slug": "ceinture-nikoti",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11816,
+      "name": "Ceinture de Percimol",
+      "level": 45,
+      "slug": "ceinture-de-percimol",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11981,
+      "name": "Ceinture du Boostache",
+      "level": 45,
+      "slug": "ceinture-du-boostache",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2523,
+      "name": "Mégature",
+      "level": 45,
+      "slug": "megature",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13093,
+      "name": "Pagne du Chafer Rōnin",
+      "level": 45,
+      "slug": "pagne-du-chafer-ronin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2524,
+      "name": "Ceinture Vioutifoule",
+      "level": 46,
+      "slug": "ceinture-vioutifoule",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9575,
+      "name": "Ceinture du Black Wab",
+      "level": 46,
+      "slug": "ceinture-du-black-wab",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12887,
+      "name": "Gladialeçon",
+      "level": 46,
+      "slug": "gladialecon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6949,
+      "name": "Scarature Blanche",
+      "level": 46,
+      "slug": "scarature-blanche",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6951,
+      "name": "Scarature Bleue",
+      "level": 46,
+      "slug": "scarature-bleue",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6950,
+      "name": "Scarature Rouge",
+      "level": 46,
+      "slug": "scarature-rouge",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6948,
+      "name": "Scarature Verte",
+      "level": 46,
+      "slug": "scarature-verte",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7039,
+      "name": "Ceinture Noire de Frank Lee Bruce",
+      "level": 47,
+      "slug": "ceinture-noire-de-frank-lee-bruce",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18529,
+      "name": "Lainture",
+      "level": 47,
+      "slug": "lainture",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9549,
+      "name": "Caleçon à bretelles du Parrain",
+      "level": 48,
+      "slug": "calecon-a-bretelles-du-parrain",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9186,
+      "name": "Ceinture de Flash Gorgone",
+      "level": 48,
+      "slug": "ceinture-de-flash-gorgone",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1487,
+      "name": "L'Adelus",
+      "level": 48,
+      "slug": "l-adelus",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2809,
+      "name": "Ceinture Chafeuse",
+      "level": 49,
+      "slug": "ceinture-chafeuse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11085,
+      "name": "Ceinture de Gadjète",
+      "level": 49,
+      "slug": "ceinture-de-gadjete",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2403,
+      "name": "Chtévu",
+      "level": 49,
+      "slug": "chtevu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6955,
+      "name": "String du Mulou",
+      "level": 49,
+      "slug": "string-du-mulou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9366,
+      "name": "Tutu Rose",
+      "level": 49,
+      "slug": "tutu-rose",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9169,
+      "name": "Blopture Coco",
+      "level": 50,
+      "slug": "blopture-coco",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9167,
+      "name": "Blopture Griotte",
+      "level": 50,
+      "slug": "blopture-griotte",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9170,
+      "name": "Blopture Indigo",
+      "level": 50,
+      "slug": "blopture-indigo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9168,
+      "name": "Blopture Reinette",
+      "level": 50,
+      "slug": "blopture-reinette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 968,
+      "name": "Ceinture Fulgurante",
+      "level": 50,
+      "slug": "ceinture-fulgurante",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2688,
+      "name": "Ceinture Kolante",
+      "level": 50,
+      "slug": "ceinture-kolante",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1667,
+      "name": "Ceinture Luthuthu",
+      "level": 50,
+      "slug": "ceinture-luthuthu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18229,
+      "name": "Ceinturonce",
+      "level": 50,
+      "slug": "ceinturonce",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10849,
+      "name": "Ceinture d'Hulkrap",
+      "level": 51,
+      "slug": "ceinture-d-hulkrap",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13137,
+      "name": "Ceinture de Coffreté",
+      "level": 51,
+      "slug": "ceinture-de-coffrete",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10851,
+      "name": "Ceinture de Kloug",
+      "level": 51,
+      "slug": "ceinture-de-kloug",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8119,
+      "name": "Scarature Dorée",
+      "level": 51,
+      "slug": "scarature-doree",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10850,
+      "name": "Ceinture de Klüme",
+      "level": 52,
+      "slug": "ceinture-de-klume",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27535,
+      "name": "Ceinture de trappeur albueran",
+      "level": 52,
+      "slug": "ceinture-de-trappeur-albueran",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 20851,
+      "name": "Ceinture Amincissante",
+      "level": 53,
+      "slug": "ceinture-amincissante",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 3204,
+      "name": "Ceinture Bontarienne",
+      "level": 53,
+      "slug": "ceinture-bontarienne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 3205,
+      "name": "Ceinture Brâkmarienne",
+      "level": 53,
+      "slug": "ceinture-brakmarienne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12502,
+      "name": "Ceinture de Pandalida",
+      "level": 53,
+      "slug": "ceinture-de-pandalida",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10688,
+      "name": "Ceinture du Roks Or",
+      "level": 53,
+      "slug": "ceinture-du-roks-or",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12671,
+      "name": "Ceinture de Danioule",
+      "level": 54,
+      "slug": "ceinture-de-danioule",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12028,
+      "name": "Ceinture de Mirh",
+      "level": 55,
+      "slug": "ceinture-de-mirh",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1668,
+      "name": "Ceinture du Dodu Trembleur",
+      "level": 55,
+      "slug": "ceinture-du-dodu-trembleur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2404,
+      "name": "Ceinture du Rat",
+      "level": 55,
+      "slug": "ceinture-du-rat",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12040,
+      "name": "Ceinture d'Hichète",
+      "level": 56,
+      "slug": "ceinture-d-hichete",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11363,
+      "name": "Ceinture de Piggy Paupe",
+      "level": 56,
+      "slug": "ceinture-de-piggy-paupe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11347,
+      "name": "Ceinture d'Ougicle",
+      "level": 57,
+      "slug": "ceinture-d-ougicle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12463,
+      "name": "Slip Vert",
+      "level": 57,
+      "slug": "slip-vert",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11396,
+      "name": "Ceintusonnier",
+      "level": 58,
+      "slug": "ceintusonnier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6498,
+      "name": "Slip Kangouwou du Wabbit GM",
+      "level": 59,
+      "slug": "slip-kangouwou-du-wabbit-gm",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2683,
+      "name": "Ceinture Tortue Bleue",
+      "level": 60,
+      "slug": "ceinture-tortue-bleue",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2681,
+      "name": "Ceinture Tortue Jaune",
+      "level": 60,
+      "slug": "ceinture-tortue-jaune",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2687,
+      "name": "Ceinture Tortue Rouge",
+      "level": 60,
+      "slug": "ceinture-tortue-rouge",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2685,
+      "name": "Ceinture Tortue Verte",
+      "level": 60,
+      "slug": "ceinture-tortue-verte",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6935,
+      "name": "Ceinture du Craqueleur",
+      "level": 60,
+      "slug": "ceinture-du-craqueleur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8008,
+      "name": "Ceinture du Koalak",
+      "level": 60,
+      "slug": "ceinture-du-koalak",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13017,
+      "name": "Ceinturoduvet",
+      "level": 60,
+      "slug": "ceinturoduvet",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17214,
+      "name": "Culotte des 1001 Griffes",
+      "level": 60,
+      "slug": "culotte-des-1001-griffes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2471,
+      "name": "Geloture",
+      "level": 60,
+      "slug": "geloture",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11375,
+      "name": "Slipapier",
+      "level": 61,
+      "slug": "slipapier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15997,
+      "name": "Ceinture Anesthésiante",
+      "level": 62,
+      "slug": "ceinture-anesthesiante",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2811,
+      "name": "Ceinture Ouginakale",
+      "level": 65,
+      "slug": "ceinture-ouginakale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6831,
+      "name": "Ceinture du Chef Crocodaille",
+      "level": 66,
+      "slug": "ceinture-du-chef-crocodaille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 3206,
+      "name": "La Xerbo",
+      "level": 67,
+      "slug": "la-xerbo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7241,
+      "name": "Ceinture Aerdala",
+      "level": 70,
+      "slug": "ceinture-aerdala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7902,
+      "name": "Ceinture d'une Femme en Or",
+      "level": 71,
+      "slug": "ceinture-d-une-femme-en-or",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12072,
+      "name": "Ceinture de Nelween",
+      "level": 78,
+      "slug": "ceinture-de-nelween",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8152,
+      "name": "Ceinture du Craqueleur Légendaire",
+      "level": 79,
+      "slug": "ceinture-du-craqueleur-legendaire",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9173,
+      "name": "Blopture Coco Royale",
+      "level": 80,
+      "slug": "blopture-coco-royale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9171,
+      "name": "Blopture Griotte Royale",
+      "level": 80,
+      "slug": "blopture-griotte-royale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9174,
+      "name": "Blopture Indigo Royale",
+      "level": 80,
+      "slug": "blopture-indigo-royale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9172,
+      "name": "Blopture Reinette Royale",
+      "level": 80,
+      "slug": "blopture-reinette-royale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7239,
+      "name": "Ceinture Terrdala",
+      "level": 80,
+      "slug": "ceinture-terrdala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6776,
+      "name": "Farlature",
+      "level": 80,
+      "slug": "farlature",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2369,
+      "name": "Puissante Ceinture Fulgurante",
+      "level": 80,
+      "slug": "puissante-ceinture-fulgurante",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8303,
+      "name": "Shikature",
+      "level": 80,
+      "slug": "shikature",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18428,
+      "name": "String Léolhyène",
+      "level": 80,
+      "slug": "string-leolhyene",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7240,
+      "name": "Ceinture Feudala",
+      "level": 81,
+      "slug": "ceinture-feudala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2804,
+      "name": "Ceinture Mulante",
+      "level": 81,
+      "slug": "ceinture-mulante",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12676,
+      "name": "Pagne de Daïgoro",
+      "level": 82,
+      "slug": "pagne-de-daigoro",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33569,
+      "name": "Ceinture de Tyranne",
+      "level": 83,
+      "slug": "ceinture-de-tyranne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14495,
+      "name": "Ceinture du Blanc Pa Wabbit",
+      "level": 83,
+      "slug": "ceinture-du-blanc-pa-wabbit",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14493,
+      "name": "Ceinture du Wa Wobot",
+      "level": 83,
+      "slug": "ceinture-du-wa-wobot",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1669,
+      "name": "Ceinture des Vents",
+      "level": 84,
+      "slug": "ceinture-des-vents",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33572,
+      "name": "Tablier des Scalptaras",
+      "level": 84,
+      "slug": "tablier-des-scalptaras",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7885,
+      "name": "Ceinture du Boufcoul",
+      "level": 85,
+      "slug": "ceinture-du-boufcoul",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7029,
+      "name": "Ceinture de Sangroku",
+      "level": 86,
+      "slug": "ceinture-de-sangroku",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9175,
+      "name": "Blopture Multicolore Royale",
+      "level": 88,
+      "slug": "blopture-multicolore-royale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16178,
+      "name": "Gaine Nyée",
+      "level": 90,
+      "slug": "gaine-nyee",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2677,
+      "name": "Ceinture Chouqueuse",
+      "level": 96,
+      "slug": "ceinture-chouqueuse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2808,
+      "name": "Ceinture Dracochoune",
+      "level": 96,
+      "slug": "ceinture-dracochoune",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14582,
+      "name": "Brighellanière",
+      "level": 97,
+      "slug": "brighellaniere",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19092,
+      "name": "Pagne du Muloubar",
+      "level": 97,
+      "slug": "pagne-du-muloubar",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14277,
+      "name": "Ceinture Ding Dong",
+      "level": 100,
+      "slug": "ceinture-ding-dong",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15213,
+      "name": "Ceinture du Berserkoffre",
+      "level": 100,
+      "slug": "ceinture-du-berserkoffre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13485,
+      "name": "Krosmangle",
+      "level": 100,
+      "slug": "krosmangle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6812,
+      "name": "Slip du Chef Bwork",
+      "level": 100,
+      "slug": "slip-du-chef-bwork",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14580,
+      "name": "Ceinture Hétorique",
+      "level": 101,
+      "slug": "ceinture-hetorique",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15208,
+      "name": "Ceinture Précieuse",
+      "level": 101,
+      "slug": "ceinture-precieuse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8447,
+      "name": "Ceinture du Rat Noir",
+      "level": 101,
+      "slug": "ceinture-du-rat-noir",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8455,
+      "name": "Ceinture du Rat Blanc",
+      "level": 102,
+      "slug": "ceinture-du-rat-blanc",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6745,
+      "name": "Ceinture Fourbissante",
+      "level": 103,
+      "slug": "ceinture-fourbissante",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12415,
+      "name": "Ceinture du Krokilleur",
+      "level": 104,
+      "slug": "ceinture-du-krokilleur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33584,
+      "name": "Sangle de Carlita",
+      "level": 104,
+      "slug": "sangle-de-carlita",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13328,
+      "name": "Ceintrouille",
+      "level": 106,
+      "slug": "ceintrouille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8282,
+      "name": "Ceinture du Minotoror",
+      "level": 109,
+      "slug": "ceinture-du-minotoror",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8468,
+      "name": "Abrature Ancestrale",
+      "level": 111,
+      "slug": "abrature-ancestrale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8418,
+      "name": "Ceinture du Mominotor",
+      "level": 112,
+      "slug": "ceinture-du-mominotor",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12775,
+      "name": "Ceinture Abdominable",
+      "level": 114,
+      "slug": "ceinture-abdominable",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17594,
+      "name": "Ceinture du Pounicheur",
+      "level": 114,
+      "slug": "ceinture-du-pounicheur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6450,
+      "name": "Ceinture de l'Amant d'Ha",
+      "level": 117,
+      "slug": "ceinture-de-l-amant-d-ha",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2655,
+      "name": "Ceinture Corbaquiale",
+      "level": 120,
+      "slug": "ceinture-corbaquiale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15780,
+      "name": "Ceinture de Fraktale",
+      "level": 122,
+      "slug": "ceinture-de-fraktale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14502,
+      "name": "Ceinture du Wabbit Garou",
+      "level": 123,
+      "slug": "ceinture-du-wabbit-garou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7139,
+      "name": "Ceinture Sula",
+      "level": 125,
+      "slug": "ceinture-sula",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8266,
+      "name": "Ceinture du Meulou",
+      "level": 125,
+      "slug": "ceinture-du-meulou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7140,
+      "name": "Xénature",
+      "level": 125,
+      "slug": "xenature",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8871,
+      "name": "Ceinture Claire en Abrakleur",
+      "level": 126,
+      "slug": "ceinture-claire-en-abrakleur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8288,
+      "name": "Ceinture du Dragoeuf",
+      "level": 126,
+      "slug": "ceinture-du-dragoeuf",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15357,
+      "name": "Ceintruche",
+      "level": 128,
+      "slug": "ceintruche",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15506,
+      "name": "Ceinture du Capitaine Ekarlatte",
+      "level": 128,
+      "slug": "ceinture-du-capitaine-ekarlatte",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8870,
+      "name": "Ceinture sombre en Abrakleur",
+      "level": 128,
+      "slug": "ceinture-sombre-en-abrakleur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16003,
+      "name": "String Fouetteur",
+      "level": 128,
+      "slug": "string-fouetteur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2807,
+      "name": "Ceinture Meulante",
+      "level": 129,
+      "slug": "ceinture-meulante",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27553,
+      "name": "Baudrier Popée",
+      "level": 130,
+      "slug": "baudrier-popee",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16143,
+      "name": "Ceinture Billonnante",
+      "level": 130,
+      "slug": "ceinture-billonnante",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13264,
+      "name": "Ceinture Blot",
+      "level": 130,
+      "slug": "ceinture-blot",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8658,
+      "name": "Ceinture Bodiézèle",
+      "level": 130,
+      "slug": "ceinture-bodiezele",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8652,
+      "name": "Ceinture Buhlent",
+      "level": 130,
+      "slug": "ceinture-buhlent",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8662,
+      "name": "Ceinture Gessant",
+      "level": 130,
+      "slug": "ceinture-gessant",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18622,
+      "name": "Ceinture Leumant",
+      "level": 130,
+      "slug": "ceinture-leumant",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8654,
+      "name": "Ceinture Lupine",
+      "level": 130,
+      "slug": "ceinture-lupine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8656,
+      "name": "Ceinture Luthe",
+      "level": 130,
+      "slug": "ceinture-luthe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23265,
+      "name": "Ceinture Pitude",
+      "level": 130,
+      "slug": "ceinture-pitude",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32203,
+      "name": "Ceinture de Bouflouth",
+      "level": 130,
+      "slug": "ceinture-de-bouflouth",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11584,
+      "name": "Ceinture du Royalmouth",
+      "level": 130,
+      "slug": "ceinture-du-royalmouth",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12392,
+      "name": "Corde Ure",
+      "level": 130,
+      "slug": "corde-ure",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8661,
+      "name": "Gaine Hage",
+      "level": 130,
+      "slug": "gaine-hage",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17451,
+      "name": "L'Élémenture",
+      "level": 130,
+      "slug": "l-elementure",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8660,
+      "name": "Sangle Cible",
+      "level": 130,
+      "slug": "sangle-cible",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8653,
+      "name": "Sangle Glinglin",
+      "level": 130,
+      "slug": "sangle-glinglin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8657,
+      "name": "Sangle Hans",
+      "level": 130,
+      "slug": "sangle-hans",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8655,
+      "name": "Sangle Holon",
+      "level": 130,
+      "slug": "sangle-holon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8659,
+      "name": "Sangle Huée",
+      "level": 130,
+      "slug": "sangle-huee",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8651,
+      "name": "Sangle Hynère",
+      "level": 130,
+      "slug": "sangle-hynere",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12391,
+      "name": "Sangle Hyssérine",
+      "level": 130,
+      "slug": "sangle-hysserine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18433,
+      "name": "Cacture",
+      "level": 133,
+      "slug": "cacture",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8461,
+      "name": "Ceinture Cérémoniale du Seigneur des Rats",
+      "level": 133,
+      "slug": "ceinture-ceremoniale-du-seigneur-des-rats",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33595,
+      "name": "Ceinture des Demoël",
+      "level": 135,
+      "slug": "ceinture-des-demoel",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11686,
+      "name": "Pagniglou",
+      "level": 137,
+      "slug": "pagniglou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23271,
+      "name": "Ceinture d'artifices",
+      "level": 138,
+      "slug": "ceinture-d-artifices",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11610,
+      "name": "Pagniglou défectueux",
+      "level": 138,
+      "slug": "pagniglou-defectueux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12091,
+      "name": "Ceinture de Frigostine",
+      "level": 140,
+      "slug": "ceinture-de-frigostine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32205,
+      "name": "Sangle de Monsieur Pingouin",
+      "level": 140,
+      "slug": "sangle-de-monsieur-pingouin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8473,
+      "name": "String Automnal du Chêne Mou",
+      "level": 141,
+      "slug": "string-automnal-du-chene-mou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14638,
+      "name": "Nageoiture",
+      "level": 144,
+      "slug": "nageoiture",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15199,
+      "name": "Ceinture Phossile",
+      "level": 147,
+      "slug": "ceinture-phossile",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8862,
+      "name": "Ceinture Bitoufale de Prosper Youpla",
+      "level": 148,
+      "slug": "ceinture-bitoufale-de-prosper-youpla",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8283,
+      "name": "Ceinture du Minotot",
+      "level": 149,
+      "slug": "ceinture-du-minotot",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11611,
+      "name": "Slip Hie",
+      "level": 152,
+      "slug": "slip-hie",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17099,
+      "name": "Ceinture de Zatoïshwan",
+      "level": 153,
+      "slug": "ceinture-de-zatoishwan",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13851,
+      "name": "Ceinture du Frelon Noir",
+      "level": 153,
+      "slug": "ceinture-du-frelon-noir",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15201,
+      "name": "Ceinture du Père Phorreur",
+      "level": 154,
+      "slug": "ceinture-du-pere-phorreur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11585,
+      "name": "Ceinture de Ben le Ripate",
+      "level": 157,
+      "slug": "ceinture-de-ben-le-ripate",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12416,
+      "name": "Ceinture de Grozilla",
+      "level": 158,
+      "slug": "ceinture-de-grozilla",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23620,
+      "name": "Ceinture de Tsukinochi",
+      "level": 158,
+      "slug": "ceinture-de-tsukinochi",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15063,
+      "name": "Ceinture de l'Orfélin",
+      "level": 158,
+      "slug": "ceinture-de-l-orfelin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15060,
+      "name": "Ceinture du Kaniblou",
+      "level": 158,
+      "slug": "ceinture-du-kaniblou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17591,
+      "name": "Ceinture des Matougarous",
+      "level": 160,
+      "slug": "ceinture-des-matougarous",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17096,
+      "name": "Ceinture du Bretteur Céleste",
+      "level": 162,
+      "slug": "ceinture-du-bretteur-celeste",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11612,
+      "name": "Slip Noze",
+      "level": 162,
+      "slug": "slip-noze",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12098,
+      "name": "Ceinture des Prophètes",
+      "level": 163,
+      "slug": "ceinture-des-prophetes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7559,
+      "name": "Goldoture",
+      "level": 164,
+      "slug": "goldoture",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23624,
+      "name": "Ceinture d'Onigori",
+      "level": 168,
+      "slug": "ceinture-d-onigori",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15764,
+      "name": "Ceinture de XLII",
+      "level": 170,
+      "slug": "ceinture-de-xlii",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15771,
+      "name": "Ceinture de Soissanth",
+      "level": 171,
+      "slug": "ceinture-de-soissanth",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31792,
+      "name": "Pagne de Kabombz",
+      "level": 171,
+      "slug": "pagne-de-kabombz",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18585,
+      "name": "Ceintrémorse",
+      "level": 173,
+      "slug": "ceintremorse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11732,
+      "name": "Pagne du Soryo Givrefoux",
+      "level": 175,
+      "slug": "pagne-du-soryo-givrefoux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9144,
+      "name": "Ceinture Mycosine",
+      "level": 177,
+      "slug": "ceinture-mycosine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11709,
+      "name": "Ceinture du Tengu Givrefoux",
+      "level": 177,
+      "slug": "ceinture-du-tengu-givrefoux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11850,
+      "name": "Slip Iholo",
+      "level": 178,
+      "slug": "slip-iholo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9145,
+      "name": "Tranche des Sous-bois",
+      "level": 179,
+      "slug": "tranche-des-sous-bois",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9183,
+      "name": "Ceinture Toré",
+      "level": 181,
+      "slug": "ceinture-tore",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8856,
+      "name": "Ceinture Rasboulaire du Rasboul",
+      "level": 182,
+      "slug": "ceinture-rasboulaire-du-rasboul",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12068,
+      "name": "Ceinture Bine",
+      "level": 183,
+      "slug": "ceinture-bine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11733,
+      "name": "Ceinture Bine encrassée",
+      "level": 183,
+      "slug": "ceinture-bine-encrassee",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17119,
+      "name": "Ceinture du K.O.",
+      "level": 183,
+      "slug": "ceinture-du-k-o",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12105,
+      "name": "Ceinture de Boréale",
+      "level": 185,
+      "slug": "ceinture-de-boreale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9146,
+      "name": "Ougature",
+      "level": 185,
+      "slug": "ougature",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11716,
+      "name": "Ceinture de Kolosso",
+      "level": 187,
+      "slug": "ceinture-de-kolosso",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13122,
+      "name": "Ceinture de Danathor",
+      "level": 188,
+      "slug": "ceinture-de-danathor",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9143,
+      "name": "String Tue-Mouche",
+      "level": 192,
+      "slug": "string-tue-mouche",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27542,
+      "name": "Subligar de Barbéryl",
+      "level": 192,
+      "slug": "subligar-de-barberyl",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11734,
+      "name": "Ceinture Hanium",
+      "level": 194,
+      "slug": "ceinture-hanium",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13114,
+      "name": "Ceinture de Brouce",
+      "level": 194,
+      "slug": "ceinture-de-brouce",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13128,
+      "name": "Ceinture de Léthaline",
+      "level": 194,
+      "slug": "ceinture-de-lethaline",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33606,
+      "name": "Pagne de Predagob",
+      "level": 194,
+      "slug": "pagne-de-predagob",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14283,
+      "name": "Ceinture Hyolite",
+      "level": 195,
+      "slug": "ceinture-hyolite",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13132,
+      "name": "Ceinture d'Ogivol",
+      "level": 195,
+      "slug": "ceinture-d-ogivol",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13637,
+      "name": "Ceinture de Nevark",
+      "level": 195,
+      "slug": "ceinture-de-nevark",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18774,
+      "name": "Ceinture du Comte Razof",
+      "level": 195,
+      "slug": "ceinture-du-comte-razof",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11721,
+      "name": "Ceinture du Glourséleste",
+      "level": 195,
+      "slug": "ceinture-du-glourseleste",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14930,
+      "name": "Obscture",
+      "level": 195,
+      "slug": "obscture",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14072,
+      "name": "Sangle de Sylargh",
+      "level": 195,
+      "slug": "sangle-de-sylargh",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14273,
+      "name": "Slip du Roi de Bonta",
+      "level": 195,
+      "slug": "slip-du-roi-de-bonta",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14059,
+      "name": "Ceinture Glaciale",
+      "level": 196,
+      "slug": "ceinture-glaciale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14069,
+      "name": "Ceinture Instable",
+      "level": 196,
+      "slug": "ceinture-instable",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32219,
+      "name": "Ceinture de San Jifu",
+      "level": 196,
+      "slug": "ceinture-de-san-jifu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13630,
+      "name": "Ceinture d'Henual",
+      "level": 197,
+      "slug": "ceinture-d-henual",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31772,
+      "name": "Ceinture des Voyageurs",
+      "level": 197,
+      "slug": "ceinture-des-voyageurs",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11473,
+      "name": "Frimature",
+      "level": 197,
+      "slug": "frimature",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31766,
+      "name": "Zarbaudrier",
+      "level": 197,
+      "slug": "zarbaudrier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14052,
+      "name": "Ceinture de Klime",
+      "level": 198,
+      "slug": "ceinture-de-klime",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15009,
+      "name": "Ceinture du Père Fwetar",
+      "level": 198,
+      "slug": "ceinture-du-pere-fwetar",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32230,
+      "name": "Pagne de Viti Glourson",
+      "level": 198,
+      "slug": "pagne-de-viti-glourson",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 20365,
+      "name": "Audace de Dodge",
+      "level": 200,
+      "slug": "audace-de-dodge",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": true
+    },
+    {
+      "id": 26023,
+      "name": "Bois de la Liche",
+      "level": 200,
+      "slug": "bois-de-la-liche",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15699,
+      "name": "Ceintacé",
+      "level": 200,
+      "slug": "ceintace",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18019,
+      "name": "Ceintouse",
+      "level": 200,
+      "slug": "ceintouse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15750,
+      "name": "Ceintrigue",
+      "level": 200,
+      "slug": "ceintrigue",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19596,
+      "name": "Ceinture Gence",
+      "level": 200,
+      "slug": "ceinture-gence",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18033,
+      "name": "Ceinture Luminescente",
+      "level": 200,
+      "slug": "ceinture-luminescente",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 25216,
+      "name": "Ceinture Possédée",
+      "level": 200,
+      "slug": "ceinture-possedee",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14081,
+      "name": "Ceinture Séculaire",
+      "level": 200,
+      "slug": "ceinture-seculaire",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17104,
+      "name": "Ceinture Voldelor",
+      "level": 200,
+      "slug": "ceinture-voldelor",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19983,
+      "name": "Ceinture Volkorne",
+      "level": 200,
+      "slug": "ceinture-volkorne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15432,
+      "name": "Ceinture de Gein",
+      "level": 200,
+      "slug": "ceinture-de-gein",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17108,
+      "name": "Ceinture de Kongoku",
+      "level": 200,
+      "slug": "ceinture-de-kongoku",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15743,
+      "name": "Ceinture de Vortex",
+      "level": 200,
+      "slug": "ceinture-de-vortex",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19250,
+      "name": "Ceinture de l'Esprit Malsain",
+      "level": 200,
+      "slug": "ceinture-de-l-esprit-malsain",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19247,
+      "name": "Ceinture de l'Esprit Salvateur",
+      "level": 200,
+      "slug": "ceinture-de-l-esprit-salvateur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18026,
+      "name": "Ceinture de l'Indicible",
+      "level": 200,
+      "slug": "ceinture-de-l-indicible",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15429,
+      "name": "Ceinture de la Cour Sombre",
+      "level": 200,
+      "slug": "ceinture-de-la-cour-sombre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15434,
+      "name": "Ceinture de la Reine des Voleurs",
+      "level": 200,
+      "slug": "ceinture-de-la-reine-des-voleurs",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 20925,
+      "name": "Ceinture des Chocomanciens",
+      "level": 200,
+      "slug": "ceinture-des-chocomanciens",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15185,
+      "name": "Ceinture du Barbétoal",
+      "level": 200,
+      "slug": "ceinture-du-barbetoal",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14098,
+      "name": "Ceinture du Nocturlabe",
+      "level": 200,
+      "slug": "ceinture-du-nocturlabe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14095,
+      "name": "Ceinture du Strigide",
+      "level": 200,
+      "slug": "ceinture-du-strigide",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19976,
+      "name": "Ceinture en Grithril",
+      "level": 200,
+      "slug": "ceinture-en-grithril",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 22209,
+      "name": "Ceinturonce de Corruption",
+      "level": 200,
+      "slug": "ceinturonce-de-corruption",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 22188,
+      "name": "Corset de Misère",
+      "level": 200,
+      "slug": "corset-de-misere",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 20366,
+      "name": "Courage de Dame Jhessica",
+      "level": 200,
+      "slug": "courage-de-dame-jhessica",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": true
+    },
+    {
+      "id": 21224,
+      "name": "Croture",
+      "level": 200,
+      "slug": "croture",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19602,
+      "name": "Culotte de Bethel",
+      "level": 200,
+      "slug": "culotte-de-bethel",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18009,
+      "name": "Menoture",
+      "level": 200,
+      "slug": "menoture",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31762,
+      "name": "Pagne Rhoarim",
+      "level": 200,
+      "slug": "pagne-rhoarim",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18598,
+      "name": "Pagne du Rykaon",
+      "level": 200,
+      "slug": "pagne-du-rykaon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18006,
+      "name": "Poulpagne",
+      "level": 200,
+      "slug": "poulpagne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15700,
+      "name": "Protopagne",
+      "level": 200,
+      "slug": "protopagne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14130,
+      "name": "Sangle Aise",
+      "level": 200,
+      "slug": "sangle-aise",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 24023,
+      "name": "Sangle Icisme",
+      "level": 200,
+      "slug": "sangle-icisme",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19599,
+      "name": "Sangle Oriole",
+      "level": 200,
+      "slug": "sangle-oriole",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14162,
+      "name": "Sangle Ouare",
+      "level": 200,
+      "slug": "sangle-ouare",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 30856,
+      "name": "Slip du Captain Chafer",
+      "level": 200,
+      "slug": "slip-du-captain-chafer",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 30862,
+      "name": "Tabard du Dark Vlad",
+      "level": 200,
+      "slug": "tabard-du-dark-vlad",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 22429,
+      "name": "Étreinte de Servitude",
+      "level": 200,
+      "slug": "etreinte-de-servitude",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": true
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "_meta": {
+    "typeId": 22,
+    "typeLabel": "faux",
+    "total": 16,
+    "totalSaleable": 16,
+    "fetchedAt": "2026-05-18T23:13:41.158891"
+  },
+  "items": [
+    {
+      "id": 765,
+      "name": "Faux de Farle Ingalsse",
+      "level": 13,
+      "slug": "faux-de-farle-ingalsse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8127,
+      "name": "Faux usée du Paysan",
+      "level": 17,
+      "slug": "faux-usee-du-paysan",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 26344,
+      "name": "Faux du Directeur Grunob",
+      "level": 38,
+      "slug": "faux-du-directeur-grunob",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27530,
+      "name": "Serpe de Rakoopeur",
+      "level": 52,
+      "slug": "serpe-de-rakoopeur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33594,
+      "name": "Nenufaur",
+      "level": 129,
+      "slug": "nenufaur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 26310,
+      "name": "Faux Enracinée de Malter",
+      "level": 150,
+      "slug": "faux-enracinee-de-malter",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32223,
+      "name": "Flashaux",
+      "level": 190,
+      "slug": "flashaux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27539,
+      "name": "Serpe Aigrie",
+      "level": 190,
+      "slug": "serpe-aigrie",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32221,
+      "name": "Faux de San Jifu",
+      "level": 194,
+      "slug": "faux-de-san-jifu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 26011,
+      "name": "Faux Chaotique",
+      "level": 200,
+      "slug": "faux-chaotique",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8992,
+      "name": "Faux Maudite du Saigneur Guerrier",
+      "level": 200,
+      "slug": "faux-maudite-du-saigneur-guerrier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 24028,
+      "name": "Faux Nème",
+      "level": 200,
+      "slug": "faux-neme",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 24034,
+      "name": "Faux Nétik",
+      "level": 200,
+      "slug": "faux-netik",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 26009,
+      "name": "Faux Séraphine",
+      "level": 200,
+      "slug": "faux-seraphine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31763,
+      "name": "Faux've",
+      "level": 200,
+      "slug": "faux-ve",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32117,
+      "name": "Jugement de Thanatena",
+      "level": 200,
+      "slug": "jugement-de-thanatena",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": true
+    }
+  ]
+}

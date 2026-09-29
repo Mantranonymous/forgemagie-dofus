@@ -1,0 +1,2963 @@
+{
+  "_meta": {
+    "typeId": 1,
+    "typeLabel": "amulette",
+    "total": 333,
+    "totalSaleable": 328,
+    "fetchedAt": "2026-05-18T21:08:13.479005"
+  },
+  "items": [
+    {
+      "id": 6773,
+      "name": "Amulette Tude",
+      "level": 1,
+      "slug": "amulette-tude",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 856,
+      "name": "Grenouillette",
+      "level": 1,
+      "slug": "grenouillette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 766,
+      "name": "Koliet Aclou",
+      "level": 1,
+      "slug": "koliet-aclou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8538,
+      "name": "Le S'Mesme",
+      "level": 1,
+      "slug": "le-s-mesme",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 786,
+      "name": "Pendentif du Hibou Chétif",
+      "level": 3,
+      "slug": "pendentif-du-hibou-chetif",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2478,
+      "name": "Amulette de l'Aventurier",
+      "level": 5,
+      "slug": "amulette-de-l-aventurier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 279,
+      "name": "La Larme du Bouftou",
+      "level": 5,
+      "slug": "la-larme-du-bouftou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8216,
+      "name": "Amulette du Piou Jaune",
+      "level": 7,
+      "slug": "amulette-du-piou-jaune",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 325,
+      "name": "Amulette du Sram",
+      "level": 7,
+      "slug": "amulette-du-sram",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16505,
+      "name": "Animulette",
+      "level": 7,
+      "slug": "animulette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 77,
+      "name": "Amulette de l'Ours",
+      "level": 8,
+      "slug": "amulette-de-l-ours",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 70,
+      "name": "Amulette du Hibou",
+      "level": 8,
+      "slug": "amulette-du-hibou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 84,
+      "name": "Amulette du Mulou",
+      "level": 8,
+      "slug": "amulette-du-mulou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8218,
+      "name": "Amulette du Piou Rose",
+      "level": 8,
+      "slug": "amulette-du-piou-rose",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 324,
+      "name": "Amulette de Krokette",
+      "level": 9,
+      "slug": "amulette-de-krokette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8215,
+      "name": "Amulette du Piou Violet",
+      "level": 9,
+      "slug": "amulette-du-piou-violet",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 280,
+      "name": "Collier de l'Arc en Ciel",
+      "level": 9,
+      "slug": "collier-de-l-arc-en-ciel",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12421,
+      "name": "Amulette Tétriste",
+      "level": 10,
+      "slug": "amulette-tetriste",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15796,
+      "name": "Amulette de Fouduglen",
+      "level": 10,
+      "slug": "amulette-de-fouduglen",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8214,
+      "name": "Amulette du Piou Bleu",
+      "level": 10,
+      "slug": "amulette-du-piou-bleu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12754,
+      "name": "Amulettong",
+      "level": 10,
+      "slug": "amulettong",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17487,
+      "name": "Collier de Khan Karkass",
+      "level": 10,
+      "slug": "collier-de-khan-karkass",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17508,
+      "name": "Collier de Lilotte",
+      "level": 10,
+      "slug": "collier-de-lilotte",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14617,
+      "name": "Ninjamu Blanche",
+      "level": 10,
+      "slug": "ninjamu-blanche",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14621,
+      "name": "Ninjamu Noire",
+      "level": 10,
+      "slug": "ninjamu-noire",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12756,
+      "name": "Pacmamulette",
+      "level": 10,
+      "slug": "pacmamulette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14597,
+      "name": "Shinchamu",
+      "level": 10,
+      "slug": "shinchamu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8213,
+      "name": "Amulette du Piou Rouge",
+      "level": 11,
+      "slug": "amulette-du-piou-rouge",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2399,
+      "name": "La Veaux Doux",
+      "level": 11,
+      "slug": "la-veaux-doux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1484,
+      "name": "Amulette Itby",
+      "level": 12,
+      "slug": "amulette-itby",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8217,
+      "name": "Amulette du Piou Vert",
+      "level": 12,
+      "slug": "amulette-du-piou-vert",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 158,
+      "name": "La Destinée Dorée",
+      "level": 12,
+      "slug": "la-destinee-doree",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1490,
+      "name": "La Chaîne Nhanor Kibrill",
+      "level": 13,
+      "slug": "la-chaine-nhanor-kibrill",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6789,
+      "name": "Amulette des Champs",
+      "level": 15,
+      "slug": "amulette-des-champs",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6918,
+      "name": "Amulette du Moskito",
+      "level": 15,
+      "slug": "amulette-du-moskito",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2396,
+      "name": "La Lou Ptiote",
+      "level": 15,
+      "slug": "la-lou-ptiote",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6923,
+      "name": "Amulette du Bandit",
+      "level": 16,
+      "slug": "amulette-du-bandit",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 157,
+      "name": "La Gougnole",
+      "level": 17,
+      "slug": "la-gougnole",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2393,
+      "name": "Omelette Amulette",
+      "level": 17,
+      "slug": "omelette-amulette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 458,
+      "name": "Amulette du Chafer",
+      "level": 19,
+      "slug": "amulette-du-chafer",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8123,
+      "name": "Amulette Paysanne",
+      "level": 20,
+      "slug": "amulette-paysanne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6723,
+      "name": "Amulette de l'Homme Ours",
+      "level": 20,
+      "slug": "amulette-de-l-homme-ours",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2425,
+      "name": "Amulette du Bouftou",
+      "level": 20,
+      "slug": "amulette-du-bouftou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8253,
+      "name": "Amulette en Mousse",
+      "level": 20,
+      "slug": "amulette-en-mousse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 783,
+      "name": "Amulette du Bûcheron",
+      "level": 22,
+      "slug": "amulette-du-bucheron",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 616,
+      "name": "Amulette du Marin",
+      "level": 22,
+      "slug": "amulette-du-marin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8108,
+      "name": "Amulette du Tofu",
+      "level": 22,
+      "slug": "amulette-du-tofu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1485,
+      "name": "La Reinette",
+      "level": 22,
+      "slug": "la-reinette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1481,
+      "name": "Entente",
+      "level": 23,
+      "slug": "entente",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 610,
+      "name": "Amulette en Crabe",
+      "level": 24,
+      "slug": "amulette-en-crabe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7106,
+      "name": "Larvamulette",
+      "level": 26,
+      "slug": "larvamulette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 161,
+      "name": "La Célébrité",
+      "level": 27,
+      "slug": "la-celebrite",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9454,
+      "name": "Pompamulette",
+      "level": 27,
+      "slug": "pompamulette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2443,
+      "name": "Amulette Royale du Bouftou",
+      "level": 28,
+      "slug": "amulette-royale-du-bouftou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1489,
+      "name": "La Broche Hète",
+      "level": 28,
+      "slug": "la-broche-hete",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6466,
+      "name": "Amulette de Shika",
+      "level": 29,
+      "slug": "amulette-de-shika",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1483,
+      "name": "Kabale",
+      "level": 29,
+      "slug": "kabale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15549,
+      "name": "Amulette Verréhor",
+      "level": 30,
+      "slug": "amulette-verrehor",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2397,
+      "name": "La Bibelaw",
+      "level": 30,
+      "slug": "la-bibelaw",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10965,
+      "name": "Amulette de Rapine",
+      "level": 31,
+      "slug": "amulette-de-rapine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18640,
+      "name": "Amulette du Molosse",
+      "level": 31,
+      "slug": "amulette-du-molosse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1486,
+      "name": "Médaille Holy",
+      "level": 31,
+      "slug": "medaille-holy",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6999,
+      "name": "Médaille Lahilama",
+      "level": 31,
+      "slug": "medaille-lahilama",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10980,
+      "name": "Amulette d'Hectaupe",
+      "level": 32,
+      "slug": "amulette-d-hectaupe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2389,
+      "name": "Amulette du Badoul",
+      "level": 32,
+      "slug": "amulette-du-badoul",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11051,
+      "name": "Clémentamulette",
+      "level": 32,
+      "slug": "clementamulette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 867,
+      "name": "Dragolyre",
+      "level": 32,
+      "slug": "dragolyre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2394,
+      "name": "La Bourgeonette",
+      "level": 32,
+      "slug": "la-bourgeonette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 326,
+      "name": "Amulette Deulegarnoulle",
+      "level": 33,
+      "slug": "amulette-deulegarnoulle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1662,
+      "name": "Ambramulette Arakne",
+      "level": 34,
+      "slug": "ambramulette-arakne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 638,
+      "name": "Amulette du Pêcheur de Somoon",
+      "level": 35,
+      "slug": "amulette-du-pecheur-de-somoon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15995,
+      "name": "Amulette Perle",
+      "level": 37,
+      "slug": "amulette-perle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 916,
+      "name": "Amulette de Silicate",
+      "level": 37,
+      "slug": "amulette-de-silicate",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1480,
+      "name": "Accord",
+      "level": 38,
+      "slug": "accord",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6459,
+      "name": "Amulette du Mineur Sombre",
+      "level": 39,
+      "slug": "amulette-du-mineur-sombre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1661,
+      "name": "Ambramulette Moskito",
+      "level": 40,
+      "slug": "ambramulette-moskito",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2426,
+      "name": "Araknamu",
+      "level": 40,
+      "slug": "araknamu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7000,
+      "name": "Bambamulette",
+      "level": 40,
+      "slug": "bambamulette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 159,
+      "name": "La Broche Céleste",
+      "level": 40,
+      "slug": "la-broche-celeste",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17488,
+      "name": "Torque du Monarque",
+      "level": 40,
+      "slug": "torque-du-monarque",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2498,
+      "name": "Vegamu",
+      "level": 40,
+      "slug": "vegamu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7250,
+      "name": "Amulette Akwadala",
+      "level": 41,
+      "slug": "amulette-akwadala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11360,
+      "name": "Amulette de Kubitus",
+      "level": 41,
+      "slug": "amulette-de-kubitus",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10635,
+      "name": "Amulette de Laikteur",
+      "level": 41,
+      "slug": "amulette-de-laikteur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10639,
+      "name": "Amulette de Rekto Topi",
+      "level": 41,
+      "slug": "amulette-de-rekto-topi",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 617,
+      "name": "Amulette du Pirate",
+      "level": 41,
+      "slug": "amulette-du-pirate",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10186,
+      "name": "Collier de Noké",
+      "level": 41,
+      "slug": "collier-de-noke",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1482,
+      "name": "Emblème Livide",
+      "level": 41,
+      "slug": "embleme-livide",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12657,
+      "name": "Snarmulette",
+      "level": 41,
+      "slug": "snarmulette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2424,
+      "name": "Amukwak de Flammes",
+      "level": 42,
+      "slug": "amukwak-de-flammes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6731,
+      "name": "Amukwak de Glace",
+      "level": 42,
+      "slug": "amukwak-de-glace",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6746,
+      "name": "Amukwak de Terre",
+      "level": 42,
+      "slug": "amukwak-de-terre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6747,
+      "name": "Amukwak de Vent",
+      "level": 42,
+      "slug": "amukwak-de-vent",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10631,
+      "name": "Amulette de Gobeuf",
+      "level": 42,
+      "slug": "amulette-de-gobeuf",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10623,
+      "name": "Amulette de Grüt",
+      "level": 42,
+      "slug": "amulette-de-grut",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11345,
+      "name": "Amulette de Rapiat",
+      "level": 42,
+      "slug": "amulette-de-rapiat",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10172,
+      "name": "Collertue",
+      "level": 42,
+      "slug": "collertue",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2392,
+      "name": "Dragolyre Remaniée",
+      "level": 42,
+      "slug": "dragolyre-remaniee",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10180,
+      "name": "L'Esteban",
+      "level": 42,
+      "slug": "l-esteban",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2395,
+      "name": "Le foulard du Lard Fou",
+      "level": 42,
+      "slug": "le-foulard-du-lard-fou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12883,
+      "name": "Peignentif",
+      "level": 42,
+      "slug": "peignentif",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12037,
+      "name": "Amulette de Kalkanéus",
+      "level": 43,
+      "slug": "amulette-de-kalkaneus",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 323,
+      "name": "Amulette du Kam Assutra",
+      "level": 43,
+      "slug": "amulette-du-kam-assutra",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9659,
+      "name": "Collier Sleump",
+      "level": 43,
+      "slug": "collier-sleump",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9944,
+      "name": "La Chaplivate",
+      "level": 43,
+      "slug": "la-chaplivate",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9193,
+      "name": "Tartamulette",
+      "level": 43,
+      "slug": "tartamulette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10155,
+      "name": "Yugolette",
+      "level": 43,
+      "slug": "yugolette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1477,
+      "name": "Chance à Mulette",
+      "level": 44,
+      "slug": "chance-a-mulette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2388,
+      "name": "L'Amulette du Puzzle de la Griffe",
+      "level": 44,
+      "slug": "l-amulette-du-puzzle-de-la-griffe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11092,
+      "name": "Amulette de Grilliane",
+      "level": 45,
+      "slug": "amulette-de-grilliane",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12025,
+      "name": "Amulette de Traçon",
+      "level": 45,
+      "slug": "amulette-de-tracon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8120,
+      "name": "Amulette du Scarabosse Doré",
+      "level": 45,
+      "slug": "amulette-du-scarabosse-dore",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10055,
+      "name": "Amulette du Vampyre",
+      "level": 45,
+      "slug": "amulette-du-vampyre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1491,
+      "name": "Chaîne de la Liche",
+      "level": 45,
+      "slug": "chaine-de-la-liche",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6462,
+      "name": "La Feuille d'Eté",
+      "level": 45,
+      "slug": "la-feuille-d-ete",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1619,
+      "name": "Abramu",
+      "level": 46,
+      "slug": "abramu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12044,
+      "name": "Amulette d'Haku",
+      "level": 46,
+      "slug": "amulette-d-haku",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7031,
+      "name": "Pendule du Gudule",
+      "level": 46,
+      "slug": "pendule-du-gudule",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9658,
+      "name": "Amulette Papayou",
+      "level": 47,
+      "slug": "amulette-papayou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 639,
+      "name": "Amulette des Abîmes",
+      "level": 47,
+      "slug": "amulette-des-abimes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1476,
+      "name": "Amulette du Craqueleur",
+      "level": 47,
+      "slug": "amulette-du-craqueleur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1478,
+      "name": "Harmonie",
+      "level": 47,
+      "slug": "harmonie",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11976,
+      "name": "Amulette du Boostache",
+      "level": 48,
+      "slug": "amulette-du-boostache",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11351,
+      "name": "Amulette de Karotz",
+      "level": 49,
+      "slug": "amulette-de-karotz",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12032,
+      "name": "Amulette de Logram",
+      "level": 49,
+      "slug": "amulette-de-logram",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2390,
+      "name": "Amulette de la Boule",
+      "level": 49,
+      "slug": "amulette-de-la-boule",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9151,
+      "name": "Amublop Coco",
+      "level": 50,
+      "slug": "amublop-coco",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9149,
+      "name": "Amublop Griotte",
+      "level": 50,
+      "slug": "amublop-griotte",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9152,
+      "name": "Amublop Indigo",
+      "level": 50,
+      "slug": "amublop-indigo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9150,
+      "name": "Amublop Reinette",
+      "level": 50,
+      "slug": "amublop-reinette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18230,
+      "name": "Amuronce",
+      "level": 50,
+      "slug": "amuronce",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14271,
+      "name": "Dés de la Chance",
+      "level": 50,
+      "slug": "des-de-la-chance",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1331,
+      "name": "Médaille Oly",
+      "level": 51,
+      "slug": "medaille-oly",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1474,
+      "name": "Amulette de Xélor",
+      "level": 52,
+      "slug": "amulette-de-xelor",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 4684,
+      "name": "Amulette du Craqueleur des Plaines",
+      "level": 52,
+      "slug": "amulette-du-craqueleur-des-plaines",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2398,
+      "name": "L'Œil de Kanigrou",
+      "level": 52,
+      "slug": "l-il-de-kanigrou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10852,
+      "name": "Amulette d'Hulkrap",
+      "level": 53,
+      "slug": "amulette-d-hulkrap",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10853,
+      "name": "Amulette de Kloug",
+      "level": 53,
+      "slug": "amulette-de-kloug",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12029,
+      "name": "Amulette de Mirh",
+      "level": 53,
+      "slug": "amulette-de-mirh",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13170,
+      "name": "Amulette de Pwâk",
+      "level": 53,
+      "slug": "amulette-de-pwak",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13022,
+      "name": "Collier de Féline",
+      "level": 53,
+      "slug": "collier-de-feline",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11348,
+      "name": "Amulette d'Ougicle",
+      "level": 54,
+      "slug": "amulette-d-ougicle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27531,
+      "name": "Amulette de guerrier albueran",
+      "level": 54,
+      "slug": "amulette-de-guerrier-albueran",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11395,
+      "name": "Amusonnier",
+      "level": 54,
+      "slug": "amusonnier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13459,
+      "name": "Diplamu",
+      "level": 55,
+      "slug": "diplamu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7001,
+      "name": "Talisman du Faucheur d'Avoine",
+      "level": 55,
+      "slug": "talisman-du-faucheur-d-avoine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13138,
+      "name": "Pendentiffre",
+      "level": 56,
+      "slug": "pendentiffre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12041,
+      "name": "Amulette d'Hichète",
+      "level": 57,
+      "slug": "amulette-d-hichete",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8129,
+      "name": "Amuloumulette",
+      "level": 57,
+      "slug": "amuloumulette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13893,
+      "name": "Glaglamu",
+      "level": 57,
+      "slug": "glaglamu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14304,
+      "name": "Amulette Stroplante",
+      "level": 58,
+      "slug": "amulette-stroplante",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11364,
+      "name": "Amulette de Piggy Paupe",
+      "level": 58,
+      "slug": "amulette-de-piggy-paupe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7342,
+      "name": "Amulette du Kitsou",
+      "level": 58,
+      "slug": "amulette-du-kitsou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6934,
+      "name": "Craquamulette",
+      "level": 58,
+      "slug": "craquamulette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11379,
+      "name": "Plumamulette",
+      "level": 59,
+      "slug": "plumamulette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6499,
+      "name": "Amulette \"Dents de Wabbits\"",
+      "level": 60,
+      "slug": "amulette-dents-de-wabbits",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8003,
+      "name": "Amulette du Koalak",
+      "level": 60,
+      "slug": "amulette-du-koalak",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2472,
+      "name": "Gelamu",
+      "level": 60,
+      "slug": "gelamu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15996,
+      "name": "Pendentif Curatif",
+      "level": 60,
+      "slug": "pendentif-curatif",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17504,
+      "name": "Torque des 1001 Griffes",
+      "level": 60,
+      "slug": "torque-des-1001-griffes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 160,
+      "name": "Le Flan des Étoiles",
+      "level": 61,
+      "slug": "le-flan-des-etoiles",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7253,
+      "name": "Amulette Aerdala",
+      "level": 62,
+      "slug": "amulette-aerdala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11374,
+      "name": "Amupapier",
+      "level": 62,
+      "slug": "amupapier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6444,
+      "name": "Amulette Turquoise",
+      "level": 63,
+      "slug": "amulette-turquoise",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10836,
+      "name": "Boufbamu",
+      "level": 64,
+      "slug": "boufbamu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 5122,
+      "name": "La Maîtrise des Poupées",
+      "level": 69,
+      "slug": "la-maitrise-des-poupees",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6817,
+      "name": "Amulette du Chef Crocodaille",
+      "level": 70,
+      "slug": "amulette-du-chef-crocodaille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19083,
+      "name": "Amulette du Scorbute",
+      "level": 72,
+      "slug": "amulette-du-scorbute",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12069,
+      "name": "Amulette de Nelween",
+      "level": 74,
+      "slug": "amulette-de-nelween",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6766,
+      "name": "Epis de Farle",
+      "level": 75,
+      "slug": "epis-de-farle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8298,
+      "name": "Epis de Shika",
+      "level": 76,
+      "slug": "epis-de-shika",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7012,
+      "name": "La Doubitch O'Boul",
+      "level": 77,
+      "slug": "la-doubitch-o-boul",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7251,
+      "name": "Amulette Terrdala",
+      "level": 78,
+      "slug": "amulette-terrdala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9155,
+      "name": "Amublop Coco Royale",
+      "level": 80,
+      "slug": "amublop-coco-royale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9153,
+      "name": "Amublop Griotte Royale",
+      "level": 80,
+      "slug": "amublop-griotte-royale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9156,
+      "name": "Amublop Indigo Royale",
+      "level": 80,
+      "slug": "amublop-indigo-royale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9154,
+      "name": "Amublop Reinette Royale",
+      "level": 80,
+      "slug": "amublop-reinette-royale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 4381,
+      "name": "Amulette Argie",
+      "level": 82,
+      "slug": "amulette-argie",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8880,
+      "name": "Amufafah",
+      "level": 83,
+      "slug": "amufafah",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2391,
+      "name": "Amulette de la Bouboule",
+      "level": 83,
+      "slug": "amulette-de-la-bouboule",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7880,
+      "name": "Amulette du Boufcoul",
+      "level": 84,
+      "slug": "amulette-du-boufcoul",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8150,
+      "name": "Amulette du Craqueleur Légendaire",
+      "level": 84,
+      "slug": "amulette-du-craqueleur-legendaire",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12858,
+      "name": "Licol de Redolphe",
+      "level": 85,
+      "slug": "licol-de-redolphe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12675,
+      "name": "Collier Rouge de Daïgoro",
+      "level": 86,
+      "slug": "collier-rouge-de-daigoro",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 917,
+      "name": "La Feuille d'Automne",
+      "level": 89,
+      "slug": "la-feuille-d-automne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9157,
+      "name": "Amublop Multicolore Royale",
+      "level": 90,
+      "slug": "amublop-multicolore-royale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7252,
+      "name": "Amulette Feudala",
+      "level": 91,
+      "slug": "amulette-feudala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16176,
+      "name": "Amulette des Huit Yeux",
+      "level": 92,
+      "slug": "amulette-des-huit-yeux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33577,
+      "name": "Cage de Simbadas",
+      "level": 92,
+      "slug": "cage-de-simbadas",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7002,
+      "name": "La Résinette",
+      "level": 94,
+      "slug": "la-resinette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33580,
+      "name": "Porte-bonheur de Rok Gnorok",
+      "level": 94,
+      "slug": "porte-bonheur-de-rok-gnorok",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6460,
+      "name": "La Feuille d'Hiver",
+      "level": 95,
+      "slug": "la-feuille-d-hiver",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12370,
+      "name": "Amulette du Gorgouille",
+      "level": 96,
+      "slug": "amulette-du-gorgouille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6804,
+      "name": "Amulette du Chef Bwork",
+      "level": 100,
+      "slug": "amulette-du-chef-bwork",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8273,
+      "name": "Collier du Dragon Cochon",
+      "level": 100,
+      "slug": "collier-du-dragon-cochon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17094,
+      "name": "Amulette de Moon",
+      "level": 102,
+      "slug": "amulette-de-moon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8453,
+      "name": "Collier du Rat Blanc",
+      "level": 102,
+      "slug": "collier-du-rat-blanc",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8445,
+      "name": "Collier du Rat Noir",
+      "level": 103,
+      "slug": "collier-du-rat-noir",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6742,
+      "name": "Fourbamulette",
+      "level": 103,
+      "slug": "fourbamulette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8874,
+      "name": "Ouassulette",
+      "level": 105,
+      "slug": "ouassulette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14810,
+      "name": "Insigne de Keukeuf",
+      "level": 106,
+      "slug": "insigne-de-keukeuf",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12407,
+      "name": "Amulette du Krokilleur",
+      "level": 107,
+      "slug": "amulette-du-krokilleur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33587,
+      "name": "Collier de Naganita",
+      "level": 107,
+      "slug": "collier-de-naganita",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23256,
+      "name": "Plantamulette",
+      "level": 108,
+      "slug": "plantamulette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8465,
+      "name": "Torque Ancestral",
+      "level": 110,
+      "slug": "torque-ancestral",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8268,
+      "name": "Collier du Minotoror",
+      "level": 111,
+      "slug": "collier-du-minotoror",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8411,
+      "name": "Pendentif du Mominotor",
+      "level": 111,
+      "slug": "pendentif-du-mominotor",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17597,
+      "name": "Collier des Ecaflipuces",
+      "level": 114,
+      "slug": "collier-des-ecaflipuces",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14498,
+      "name": "Amulette du Wabbit Céphale",
+      "level": 116,
+      "slug": "amulette-du-wabbit-cephale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6443,
+      "name": "Amulette du Renouveau",
+      "level": 118,
+      "slug": "amulette-du-renouveau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6461,
+      "name": "La Feuille de Printemps",
+      "level": 123,
+      "slug": "la-feuille-de-printemps",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8290,
+      "name": "Amulette du Dragoeuf",
+      "level": 124,
+      "slug": "amulette-du-dragoeuf",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7136,
+      "name": "Médaille Kido",
+      "level": 125,
+      "slug": "medaille-kido",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11563,
+      "name": "Amulette Ementaire",
+      "level": 127,
+      "slug": "amulette-ementaire",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32202,
+      "name": "Amulette de Bouflouth",
+      "level": 128,
+      "slug": "amulette-de-bouflouth",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11575,
+      "name": "Amulette du Royalmouth",
+      "level": 128,
+      "slug": "amulette-du-royalmouth",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23266,
+      "name": "Collier de perlouzes",
+      "level": 130,
+      "slug": "collier-de-perlouzes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1488,
+      "name": "Plimclik",
+      "level": 130,
+      "slug": "plimclik",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15361,
+      "name": "Gruchette",
+      "level": 131,
+      "slug": "gruchette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18436,
+      "name": "Amulette d'El Piko",
+      "level": 132,
+      "slug": "amulette-d-el-piko",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23259,
+      "name": "Larme de Nagate",
+      "level": 132,
+      "slug": "larme-de-nagate",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15518,
+      "name": "Amulette d'Ali Grothor",
+      "level": 133,
+      "slug": "amulette-d-ali-grothor",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8459,
+      "name": "Collier Cérémonial du Seigneur des Rats",
+      "level": 134,
+      "slug": "collier-ceremonial-du-seigneur-des-rats",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7003,
+      "name": "Talisman d'Elya Wood",
+      "level": 135,
+      "slug": "talisman-d-elya-wood",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11609,
+      "name": "Talisman Doline",
+      "level": 137,
+      "slug": "talisman-doline",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8469,
+      "name": "Talisman du Chêne Mou",
+      "level": 138,
+      "slug": "talisman-du-chene-mou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32204,
+      "name": "Chaîne de Monsieur Pingouin",
+      "level": 142,
+      "slug": "chaine-de-monsieur-pingouin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8262,
+      "name": "La Meulette",
+      "level": 143,
+      "slug": "la-meulette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12089,
+      "name": "Amulette de Frigostine",
+      "level": 147,
+      "slug": "amulette-de-frigostine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12854,
+      "name": "Porte-Malheur du Nowel Cauchemardesque",
+      "level": 150,
+      "slug": "porte-malheur-du-nowel-cauchemardesque",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12408,
+      "name": "Amulette de Grozilla",
+      "level": 151,
+      "slug": "amulette-de-grozilla",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15203,
+      "name": "Amulette du Père Phorreur",
+      "level": 152,
+      "slug": "amulette-du-pere-phorreur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7221,
+      "name": "Collier du Tanukouï San",
+      "level": 152,
+      "slug": "collier-du-tanukoui-san",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11608,
+      "name": "Talisman Choh",
+      "level": 154,
+      "slug": "talisman-choh",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12095,
+      "name": "Amulette de Cantile",
+      "level": 156,
+      "slug": "amulette-de-cantile",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15064,
+      "name": "Amulette de l'Orfélin",
+      "level": 157,
+      "slug": "amulette-de-l-orfelin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32211,
+      "name": "Collier de Fantômayte",
+      "level": 157,
+      "slug": "collier-de-fantomayte",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8272,
+      "name": "Collier du Minotot",
+      "level": 158,
+      "slug": "collier-du-minotot",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8863,
+      "name": "Zothulette",
+      "level": 159,
+      "slug": "zothulette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11607,
+      "name": "Collier Yé",
+      "level": 160,
+      "slug": "collier-ye",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11792,
+      "name": "Amulette Ementaire Deluxe",
+      "level": 163,
+      "slug": "amulette-ementaire-deluxe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11576,
+      "name": "Amulette de l'Obsidiantre",
+      "level": 164,
+      "slug": "amulette-de-l-obsidiantre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17587,
+      "name": "Col de Ush",
+      "level": 164,
+      "slug": "col-de-ush",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18586,
+      "name": "Crolier",
+      "level": 169,
+      "slug": "crolier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11729,
+      "name": "Amulette Cætera",
+      "level": 173,
+      "slug": "amulette-ctera",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32216,
+      "name": "Collier du YeCh'Ti",
+      "level": 176,
+      "slug": "collier-du-yech-ti",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12102,
+      "name": "Amulette de Guten Tak",
+      "level": 177,
+      "slug": "amulette-de-guten-tak",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15499,
+      "name": "Amulette Nécrotique",
+      "level": 178,
+      "slug": "amulette-necrotique",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17120,
+      "name": "Amulette du K.O.",
+      "level": 181,
+      "slug": "amulette-du-k-o",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9130,
+      "name": "Ougamulette",
+      "level": 181,
+      "slug": "ougamulette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11713,
+      "name": "Amulette du Korriandre",
+      "level": 182,
+      "slug": "amulette-du-korriandre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9179,
+      "name": "Amulette Ripage",
+      "level": 184,
+      "slug": "amulette-ripage",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11730,
+      "name": "Amulette Héroclite",
+      "level": 185,
+      "slug": "amulette-heroclite",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33602,
+      "name": "Collier Debruk'Sayl",
+      "level": 185,
+      "slug": "collier-debruk-sayl",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11794,
+      "name": "Racine Hueuse",
+      "level": 186,
+      "slug": "racine-hueuse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9463,
+      "name": "Amunite",
+      "level": 189,
+      "slug": "amunite",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27538,
+      "name": "Collier Gris",
+      "level": 192,
+      "slug": "collier-gris",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11468,
+      "name": "Frimamulette",
+      "level": 192,
+      "slug": "frimamulette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18779,
+      "name": "Amulette Hale",
+      "level": 193,
+      "slug": "amulette-hale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13639,
+      "name": "Amulette de Théodoran Ax",
+      "level": 193,
+      "slug": "amulette-de-theodoran-ax",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13121,
+      "name": "Amulette de Danathor",
+      "level": 194,
+      "slug": "amulette-de-danathor",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13636,
+      "name": "Amulette de Nevark",
+      "level": 194,
+      "slug": "amulette-de-nevark",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9464,
+      "name": "Kralamansion",
+      "level": 194,
+      "slug": "kralamansion",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14287,
+      "name": "Pendentif Oton",
+      "level": 194,
+      "slug": "pendentif-oton",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13646,
+      "name": "Amulette d'Hel Munster",
+      "level": 195,
+      "slug": "amulette-d-hel-munster",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12111,
+      "name": "Amulette du Professeur Xa",
+      "level": 195,
+      "slug": "amulette-du-professeur-xa",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14884,
+      "name": "Amulette Ikête",
+      "level": 196,
+      "slug": "amulette-ikete",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14160,
+      "name": "Amulette Rangleur",
+      "level": 196,
+      "slug": "amulette-rangleur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13633,
+      "name": "Amulette d'Oshimo",
+      "level": 196,
+      "slug": "amulette-d-oshimo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14065,
+      "name": "Amulette de Nileza",
+      "level": 196,
+      "slug": "amulette-de-nileza",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14075,
+      "name": "Amulette du Kanimate",
+      "level": 196,
+      "slug": "amulette-du-kanimate",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11731,
+      "name": "Amulette Hendart",
+      "level": 197,
+      "slug": "amulette-hendart",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13117,
+      "name": "Amulette d'Otomaï",
+      "level": 197,
+      "slug": "amulette-d-otomai",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32229,
+      "name": "Amulette de Viti Glourson",
+      "level": 197,
+      "slug": "amulette-de-viti-glourson",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14929,
+      "name": "Amulule",
+      "level": 197,
+      "slug": "amulule",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14281,
+      "name": "Phylactère Mic",
+      "level": 197,
+      "slug": "phylactere-mic",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11720,
+      "name": "Amulette du Glourséleste",
+      "level": 198,
+      "slug": "amulette-du-glourseleste",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15737,
+      "name": "Amibou",
+      "level": 200,
+      "slug": "amibou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32118,
+      "name": "Amour d'Helséphine",
+      "level": 200,
+      "slug": "amour-d-helsephine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": true
+    },
+    {
+      "id": 14090,
+      "name": "Amulette Cryochrone",
+      "level": 200,
+      "slug": "amulette-cryochrone",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18032,
+      "name": "Amulette Luminescente",
+      "level": 200,
+      "slug": "amulette-luminescente",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19981,
+      "name": "Amulette Martegel",
+      "level": 200,
+      "slug": "amulette-martegel",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 25214,
+      "name": "Amulette Possédée",
+      "level": 200,
+      "slug": "amulette-possedee",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 24022,
+      "name": "Amulette Rinne",
+      "level": 200,
+      "slug": "amulette-rinne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14080,
+      "name": "Amulette Séculaire",
+      "level": 200,
+      "slug": "amulette-seculaire",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19590,
+      "name": "Amulette Volcanique",
+      "level": 200,
+      "slug": "amulette-volcanique",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17103,
+      "name": "Amulette Voldelor",
+      "level": 200,
+      "slug": "amulette-voldelor",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19984,
+      "name": "Amulette Volkorne",
+      "level": 200,
+      "slug": "amulette-volkorne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19261,
+      "name": "Amulette d'Ilyzaelle",
+      "level": 200,
+      "slug": "amulette-d-ilyzaelle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15433,
+      "name": "Amulette de Gein",
+      "level": 200,
+      "slug": "amulette-de-gein",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15701,
+      "name": "Amulette de Pol Ouatnos",
+      "level": 200,
+      "slug": "amulette-de-pol-ouatnos",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18004,
+      "name": "Amulette de Shokkoth",
+      "level": 200,
+      "slug": "amulette-de-shokkoth",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 24029,
+      "name": "Amulette de Wulan",
+      "level": 200,
+      "slug": "amulette-de-wulan",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18025,
+      "name": "Amulette de l'Indicible",
+      "level": 200,
+      "slug": "amulette-de-l-indicible",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19255,
+      "name": "Amulette de l'Œil Attentif",
+      "level": 200,
+      "slug": "amulette-de-l-il-attentif",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19258,
+      "name": "Amulette de l'Œil Putride",
+      "level": 200,
+      "slug": "amulette-de-l-il-putride",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 20924,
+      "name": "Amulette des Chocomanciens",
+      "level": 200,
+      "slug": "amulette-des-chocomanciens",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14091,
+      "name": "Amulette du Cycloïde",
+      "level": 200,
+      "slug": "amulette-du-cycloide",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19244,
+      "name": "Amulette du Cœur Saignant",
+      "level": 200,
+      "slug": "amulette-du-cur-saignant",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19241,
+      "name": "Amulette du Cœur Vaillant",
+      "level": 200,
+      "slug": "amulette-du-cur-vaillant",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14083,
+      "name": "Amulette du Granduk",
+      "level": 200,
+      "slug": "amulette-du-granduk",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15195,
+      "name": "Amulette du Kamasterisk",
+      "level": 200,
+      "slug": "amulette-du-kamasterisk",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14097,
+      "name": "Amulette du Nocturlabe",
+      "level": 200,
+      "slug": "amulette-du-nocturlabe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 25217,
+      "name": "Amulette du Pandamonium",
+      "level": 200,
+      "slug": "amulette-du-pandamonium",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15189,
+      "name": "Amulette du Piloztère",
+      "level": 200,
+      "slug": "amulette-du-piloztere",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14086,
+      "name": "Amulette du Sinistrofu",
+      "level": 200,
+      "slug": "amulette-du-sinistrofu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14094,
+      "name": "Amulette du Strigide",
+      "level": 200,
+      "slug": "amulette-du-strigide",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 26019,
+      "name": "Chant du Nécromant",
+      "level": 200,
+      "slug": "chant-du-necromant",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 30863,
+      "name": "Col du Dark Vlad",
+      "level": 200,
+      "slug": "col-du-dark-vlad",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33608,
+      "name": "Col du Ventrublion",
+      "level": 200,
+      "slug": "col-du-ventrublion",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 21227,
+      "name": "Collier Lunaire",
+      "level": 200,
+      "slug": "collier-lunaire",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31761,
+      "name": "Collier Rhoarim",
+      "level": 200,
+      "slug": "collier-rhoarim",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19609,
+      "name": "Collier Rophante",
+      "level": 200,
+      "slug": "collier-rophante",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 22214,
+      "name": "Collier de Bavdur",
+      "level": 200,
+      "slug": "collier-de-bavdur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31789,
+      "name": "Collier de Gargandyas",
+      "level": 200,
+      "slug": "collier-de-gargandyas",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17997,
+      "name": "Collier de Tourthon",
+      "level": 200,
+      "slug": "collier-de-tourthon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17576,
+      "name": "Collier de la Dame du Hasard",
+      "level": 200,
+      "slug": "collier-de-la-dame-du-hasard",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17581,
+      "name": "Collier du Valet Veinard",
+      "level": 200,
+      "slug": "collier-du-valet-veinard",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15746,
+      "name": "Harpendentif",
+      "level": 200,
+      "slug": "harpendentif",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27513,
+      "name": "Lourd Fardeau",
+      "level": 200,
+      "slug": "lourd-fardeau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18001,
+      "name": "Pendentif affamé",
+      "level": 200,
+      "slug": "pendentif-affame",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18035,
+      "name": "Pendentif mignon de Koutoulou",
+      "level": 200,
+      "slug": "pendentif-mignon-de-koutoulou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14878,
+      "name": "Talisman Glouti",
+      "level": 200,
+      "slug": "talisman-glouti",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15749,
+      "name": "Talisman Igans",
+      "level": 200,
+      "slug": "talisman-igans",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14169,
+      "name": "Talisman Songe",
+      "level": 200,
+      "slug": "talisman-songe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 26006,
+      "name": "Torque de Ravageur",
+      "level": 200,
+      "slug": "torque-de-ravageur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18595,
+      "name": "Torquistik",
+      "level": 200,
+      "slug": "torquistik",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 22200,
+      "name": "Écharpe de Servitude",
+      "level": 200,
+      "slug": "echarpe-de-servitude",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    }
+  ]
+}

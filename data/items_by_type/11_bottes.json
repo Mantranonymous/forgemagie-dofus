@@ -1,0 +1,3341 @@
+{
+  "_meta": {
+    "typeId": 11,
+    "typeLabel": "bottes",
+    "total": 372,
+    "totalSaleable": 370,
+    "fetchedAt": "2026-05-18T21:08:22.806907"
+  },
+  "items": [
+    {
+      "id": 8341,
+      "name": "Bottananas",
+      "level": 1,
+      "slug": "bottananas",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 911,
+      "name": "Bottes Usées d'Hogmeiser",
+      "level": 1,
+      "slug": "bottes-usees-d-hogmeiser",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 861,
+      "name": "Bottes de Force",
+      "level": 1,
+      "slug": "bottes-de-force",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15240,
+      "name": "Kamatongues",
+      "level": 1,
+      "slug": "kamatongues",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8535,
+      "name": "Les Incrustes",
+      "level": 1,
+      "slug": "les-incrustes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17524,
+      "name": "Fecaflip",
+      "level": 2,
+      "slug": "fecaflip",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 298,
+      "name": "Sandales Tofuesques",
+      "level": 3,
+      "slug": "sandales-tofuesques",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 892,
+      "name": "Bottes du Bouftou",
+      "level": 4,
+      "slug": "bottes-du-bouftou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 784,
+      "name": "Bottes du Chat Buté",
+      "level": 4,
+      "slug": "bottes-du-chat-bute",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 769,
+      "name": "Einekeineux",
+      "level": 5,
+      "slug": "einekeineux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 863,
+      "name": "Bottes Agilesques",
+      "level": 6,
+      "slug": "bottes-agilesques",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 862,
+      "name": "Sandales d'Intelligence",
+      "level": 6,
+      "slug": "sandales-d-intelligence",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 864,
+      "name": "Bottes de Chance",
+      "level": 7,
+      "slug": "bottes-de-chance",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 837,
+      "name": "Bottes de Kluh",
+      "level": 7,
+      "slug": "bottes-de-kluh",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2476,
+      "name": "Bottes de l'Aventurier",
+      "level": 7,
+      "slug": "bottes-de-l-aventurier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8227,
+      "name": "Sandales du Piou Violet",
+      "level": 7,
+      "slug": "sandales-du-piou-violet",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1624,
+      "name": "Bottes de Nexus",
+      "level": 8,
+      "slug": "bottes-de-nexus",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8226,
+      "name": "Sandales du Piou Bleu",
+      "level": 8,
+      "slug": "sandales-du-piou-bleu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8225,
+      "name": "Sandales du Piou Rouge",
+      "level": 9,
+      "slug": "sandales-du-piou-rouge",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14625,
+      "name": "Ailobottes",
+      "level": 10,
+      "slug": "ailobottes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14803,
+      "name": "Bottes Nō",
+      "level": 10,
+      "slug": "bottes-no",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15795,
+      "name": "Bottes de Fouduglen",
+      "level": 10,
+      "slug": "bottes-de-fouduglen",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14633,
+      "name": "Dragoubottes Roses",
+      "level": 10,
+      "slug": "dragoubottes-roses",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12757,
+      "name": "Pacmabottes",
+      "level": 10,
+      "slug": "pacmabottes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8229,
+      "name": "Sandales du Piou Vert",
+      "level": 10,
+      "slug": "sandales-du-piou-vert",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8228,
+      "name": "Sandales du Piou Jaune",
+      "level": 11,
+      "slug": "sandales-du-piou-jaune",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 3207,
+      "name": "Bottes de Satisfaction",
+      "level": 12,
+      "slug": "bottes-de-satisfaction",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 924,
+      "name": "Puissantes Bottes de Klime",
+      "level": 12,
+      "slug": "puissantes-bottes-de-klime",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8230,
+      "name": "Sandales du Piou Rose",
+      "level": 12,
+      "slug": "sandales-du-piou-rose",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6794,
+      "name": "Bottes Champêtres",
+      "level": 14,
+      "slug": "bottes-champetres",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8527,
+      "name": "Gobtroteur",
+      "level": 14,
+      "slug": "gobtroteur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1622,
+      "name": "Bottes de Puissance",
+      "level": 16,
+      "slug": "bottes-de-puissance",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8128,
+      "name": "Bottes Paysannes",
+      "level": 19,
+      "slug": "bottes-paysannes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15100,
+      "name": "Bottes Karnaval",
+      "level": 20,
+      "slug": "bottes-karnaval",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6721,
+      "name": "Bottes de l'Homme Ours",
+      "level": 20,
+      "slug": "bottes-de-l-homme-ours",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8256,
+      "name": "Bottes en Mousse",
+      "level": 20,
+      "slug": "bottes-en-mousse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2422,
+      "name": "Boufbottes",
+      "level": 20,
+      "slug": "boufbottes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1623,
+      "name": "Bottes d'Anticipation",
+      "level": 22,
+      "slug": "bottes-d-anticipation",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1621,
+      "name": "Bottes de Maîtrise",
+      "level": 22,
+      "slug": "bottes-de-maitrise",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6909,
+      "name": "Pieds du Sanglier",
+      "level": 22,
+      "slug": "pieds-du-sanglier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8111,
+      "name": "Pantoufles du Tofu",
+      "level": 23,
+      "slug": "pantoufles-du-tofu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 299,
+      "name": "Bottes de Faillete",
+      "level": 24,
+      "slug": "bottes-de-faillete",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 889,
+      "name": "Bottes de Concentration",
+      "level": 27,
+      "slug": "bottes-de-concentration",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 130,
+      "name": "L'Ecrabouilleur de Iop",
+      "level": 27,
+      "slug": "l-ecrabouilleur-de-iop",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11082,
+      "name": "Bottes de Boufbowl",
+      "level": 28,
+      "slug": "bottes-de-boufbowl",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15525,
+      "name": "Bottes de Frakacia",
+      "level": 30,
+      "slug": "bottes-de-frakacia",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17495,
+      "name": "Bottes de Marline",
+      "level": 30,
+      "slug": "bottes-de-marline",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17292,
+      "name": "Bottes des Grocoricos",
+      "level": 30,
+      "slug": "bottes-des-grocoricos",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17294,
+      "name": "Bottes des Pamous",
+      "level": 30,
+      "slug": "bottes-des-pamous",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17293,
+      "name": "Bottes des Redroz",
+      "level": 30,
+      "slug": "bottes-des-redroz",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17295,
+      "name": "Bottes des Zoblaks",
+      "level": 30,
+      "slug": "bottes-des-zoblaks",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9413,
+      "name": "Bottes du bois de l'est",
+      "level": 30,
+      "slug": "bottes-du-bois-de-l-est",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11811,
+      "name": "Bottes en peau de Prespic",
+      "level": 30,
+      "slug": "bottes-en-peau-de-prespic",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2442,
+      "name": "Boufbottes Royales",
+      "level": 30,
+      "slug": "boufbottes-royales",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7214,
+      "name": "Sandales Macien",
+      "level": 30,
+      "slug": "sandales-macien",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6471,
+      "name": "Souliers Vernis de Porkass",
+      "level": 30,
+      "slug": "souliers-vernis-de-porkass",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10978,
+      "name": "Bottes de Phong Huss",
+      "level": 32,
+      "slug": "bottes-de-phong-huss",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10963,
+      "name": "Bottes de Rapine",
+      "level": 32,
+      "slug": "bottes-de-rapine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10956,
+      "name": "Bottes du Corbeau Noir",
+      "level": 32,
+      "slug": "bottes-du-corbeau-noir",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10990,
+      "name": "Givrabottes",
+      "level": 33,
+      "slug": "givrabottes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7107,
+      "name": "Larvabottes",
+      "level": 33,
+      "slug": "larvabottes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11052,
+      "name": "Clémentobottes",
+      "level": 34,
+      "slug": "clementobottes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9402,
+      "name": "Pantoufrelons",
+      "level": 34,
+      "slug": "pantoufrelons",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7242,
+      "name": "Geta Akwadala",
+      "level": 35,
+      "slug": "geta-akwadala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2374,
+      "name": "Bottes Tarsy",
+      "level": 38,
+      "slug": "bottes-tarsy",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17507,
+      "name": "Bottes du Garde Royal",
+      "level": 38,
+      "slug": "bottes-du-garde-royal",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10190,
+      "name": "Bottines de la Denrée",
+      "level": 38,
+      "slug": "bottines-de-la-denree",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12036,
+      "name": "Botte de Kalkanéus",
+      "level": 39,
+      "slug": "botte-de-kalkaneus",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2372,
+      "name": "Bottes de Lymphe a Tik",
+      "level": 39,
+      "slug": "bottes-de-lymphe-a-tik",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 909,
+      "name": "Bottes de Poursuite",
+      "level": 39,
+      "slug": "bottes-de-poursuite",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10173,
+      "name": "Libottes",
+      "level": 39,
+      "slug": "libottes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17733,
+      "name": "Bottes Dragocourse",
+      "level": 40,
+      "slug": "bottes-dragocourse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17496,
+      "name": "Bottes du Monarque",
+      "level": 40,
+      "slug": "bottes-du-monarque",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9923,
+      "name": "Chaussures du Tétounik",
+      "level": 40,
+      "slug": "chaussures-du-tetounik",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17013,
+      "name": "Cocobottes",
+      "level": 40,
+      "slug": "cocobottes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2421,
+      "name": "Kwakobottes de Flammes",
+      "level": 40,
+      "slug": "kwakobottes-de-flammes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6753,
+      "name": "Kwakobottes de Glace",
+      "level": 40,
+      "slug": "kwakobottes-de-glace",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6754,
+      "name": "Kwakobottes de Terre",
+      "level": 40,
+      "slug": "kwakobottes-de-terre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6755,
+      "name": "Kwakobottes de Vent",
+      "level": 40,
+      "slug": "kwakobottes-de-vent",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17849,
+      "name": "Sandalnéaires",
+      "level": 40,
+      "slug": "sandalneaires",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9542,
+      "name": "Souliers laqués du Parrain",
+      "level": 40,
+      "slug": "souliers-laques-du-parrain",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15017,
+      "name": "Bottes Donion",
+      "level": 41,
+      "slug": "bottes-donion",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2063,
+      "name": "Bottes Volatiles",
+      "level": 41,
+      "slug": "bottes-volatiles",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10644,
+      "name": "Bottes de Grizou",
+      "level": 41,
+      "slug": "bottes-de-grizou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 905,
+      "name": "Bottes de Klime",
+      "level": 41,
+      "slug": "bottes-de-klime",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11343,
+      "name": "Bottes de Rapiat",
+      "level": 41,
+      "slug": "bottes-de-rapiat",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10641,
+      "name": "Bottes de Rekto Topi",
+      "level": 41,
+      "slug": "bottes-de-rekto-topi",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13094,
+      "name": "Bottes du Chafer Primitif",
+      "level": 41,
+      "slug": "bottes-du-chafer-primitif",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10061,
+      "name": "Bottes du Vampyre",
+      "level": 41,
+      "slug": "bottes-du-vampyre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12882,
+      "name": "Mes Petits Sabots",
+      "level": 41,
+      "slug": "mes-petits-sabots",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10156,
+      "name": "Yugoufle",
+      "level": 41,
+      "slug": "yugoufle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9928,
+      "name": "Bottes Siks Won Naïne",
+      "level": 42,
+      "slug": "bottes-siks-won-naine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10628,
+      "name": "Bottes de Kocksis",
+      "level": 42,
+      "slug": "bottes-de-kocksis",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10562,
+      "name": "Bottes des Bouftons Rouges",
+      "level": 42,
+      "slug": "bottes-des-bouftons-rouges",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 26337,
+      "name": "Bottes du Directeur Grunob",
+      "level": 42,
+      "slug": "bottes-du-directeur-grunob",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11979,
+      "name": "Bottes du Kanniboul Ebil",
+      "level": 42,
+      "slug": "bottes-du-kanniboul-ebil",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10561,
+      "name": "Bottes du Real Boitar",
+      "level": 42,
+      "slug": "bottes-du-real-boitar",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10168,
+      "name": "Chispottes",
+      "level": 42,
+      "slug": "chispottes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1719,
+      "name": "Esprit de Crocoburio",
+      "level": 42,
+      "slug": "esprit-de-crocoburio",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9927,
+      "name": "Golbottes",
+      "level": 42,
+      "slug": "golbottes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13301,
+      "name": "Bottes O'Feu",
+      "level": 43,
+      "slug": "bottes-o-feu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9199,
+      "name": "Bottes Paupayahn",
+      "level": 43,
+      "slug": "bottes-paupayahn",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2522,
+      "name": "Bottes Vioutifoule",
+      "level": 43,
+      "slug": "bottes-vioutifoule",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10637,
+      "name": "Bottes de Laikteur",
+      "level": 43,
+      "slug": "bottes-de-laikteur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9667,
+      "name": "Bottes de Slait",
+      "level": 43,
+      "slug": "bottes-de-slait",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9943,
+      "name": "Les Chaplures",
+      "level": 43,
+      "slug": "les-chaplures",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9656,
+      "name": "Les Sleumpettes",
+      "level": 43,
+      "slug": "les-sleumpettes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2521,
+      "name": "Mégabottes",
+      "level": 43,
+      "slug": "megabottes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11355,
+      "name": "Bottes de Grouillot",
+      "level": 44,
+      "slug": "bottes-de-grouillot",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10625,
+      "name": "Bottes de Grüt",
+      "level": 44,
+      "slug": "bottes-de-grut",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2435,
+      "name": "L'Eni Kère",
+      "level": 44,
+      "slug": "l-eni-kere",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2423,
+      "name": "Abrabottes",
+      "level": 45,
+      "slug": "abrabottes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11358,
+      "name": "Bottes de Kubitus",
+      "level": 45,
+      "slug": "bottes-de-kubitus",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11855,
+      "name": "Bottes de Stroud",
+      "level": 45,
+      "slug": "bottes-de-stroud",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12888,
+      "name": "Gladiabottes",
+      "level": 45,
+      "slug": "gladiabottes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11091,
+      "name": "Bottes de Grilliane",
+      "level": 46,
+      "slug": "bottes-de-grilliane",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12024,
+      "name": "Bottes de Traçon",
+      "level": 46,
+      "slug": "bottes-de-tracon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13302,
+      "name": "Bottes Hédivines",
+      "level": 47,
+      "slug": "bottes-hedivines",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9576,
+      "name": "Bottines du Black Wab",
+      "level": 47,
+      "slug": "bottines-du-black-wab",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16239,
+      "name": "Printatanes",
+      "level": 47,
+      "slug": "printatanes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12043,
+      "name": "Bottes d'Haku",
+      "level": 48,
+      "slug": "bottes-d-haku",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 733,
+      "name": "Bottes de Ragalde",
+      "level": 49,
+      "slug": "bottes-de-ragalde",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9655,
+      "name": "Sandales Papayou",
+      "level": 49,
+      "slug": "sandales-papayou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9160,
+      "name": "Bloptes Coco",
+      "level": 50,
+      "slug": "bloptes-coco",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9158,
+      "name": "Bloptes Griottes",
+      "level": 50,
+      "slug": "bloptes-griottes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9161,
+      "name": "Bloptes Indigo",
+      "level": 50,
+      "slug": "bloptes-indigo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9159,
+      "name": "Bloptes Reinette",
+      "level": 50,
+      "slug": "bloptes-reinette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7554,
+      "name": "Botodindo",
+      "level": 50,
+      "slug": "botodindo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1665,
+      "name": "Bottes d'Apprentissage",
+      "level": 50,
+      "slug": "bottes-d-apprentissage",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 127,
+      "name": "Bottes de Bowisse",
+      "level": 50,
+      "slug": "bottes-de-bowisse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18530,
+      "name": "Chaussettenlaine",
+      "level": 50,
+      "slug": "chaussettenlaine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13020,
+      "name": "Sabots Aiguilles de Féline",
+      "level": 50,
+      "slug": "sabots-aiguilles-de-feline",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13582,
+      "name": "Ballerines Roses",
+      "level": 51,
+      "slug": "ballerines-roses",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11352,
+      "name": "Bottes de Karotz",
+      "level": 51,
+      "slug": "bottes-de-karotz",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1666,
+      "name": "Bottes de l'Apprenti Invocateur",
+      "level": 51,
+      "slug": "bottes-de-l-apprenti-invocateur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10848,
+      "name": "Bottes de Klüme",
+      "level": 52,
+      "slug": "bottes-de-klume",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27522,
+      "name": "Bottes des Rebelles",
+      "level": 52,
+      "slug": "bottes-des-rebelles",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13139,
+      "name": "Boffes Cottre",
+      "level": 53,
+      "slug": "boffes-cottre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10847,
+      "name": "Bottes d'Hulkrap",
+      "level": 53,
+      "slug": "bottes-d-hulkrap",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 348,
+      "name": "Bottes de Céleri-Thé",
+      "level": 53,
+      "slug": "bottes-de-celeri-the",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33560,
+      "name": "Chaussettes des Scalarcin",
+      "level": 53,
+      "slug": "chaussettes-des-scalarcin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12031,
+      "name": "Geta de Logram",
+      "level": 53,
+      "slug": "geta-de-logram",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27536,
+      "name": "Bottes de trappeur albueran",
+      "level": 54,
+      "slug": "bottes-de-trappeur-albueran",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8122,
+      "name": "Scarabottes Dorées",
+      "level": 54,
+      "slug": "scarabottes-dorees",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 34253,
+      "name": "Botomuldo",
+      "level": 55,
+      "slug": "botomuldo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11080,
+      "name": "Bottes de Lonne",
+      "level": 55,
+      "slug": "bottes-de-lonne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12411,
+      "name": "Bottes du Vulkain",
+      "level": 56,
+      "slug": "bottes-du-vulkain",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12380,
+      "name": "Bottilozité",
+      "level": 56,
+      "slug": "bottilozite",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13321,
+      "name": "Bottokami",
+      "level": 56,
+      "slug": "bottokami",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11378,
+      "name": "Plumodales",
+      "level": 56,
+      "slug": "plumodales",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12672,
+      "name": "Sabottes de Danioule",
+      "level": 56,
+      "slug": "sabottes-de-danioule",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7219,
+      "name": "Sandales Ailuya",
+      "level": 56,
+      "slug": "sandales-ailuya",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11400,
+      "name": "Bottauffe-souris",
+      "level": 57,
+      "slug": "bottauffe-souris",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7245,
+      "name": "Geta Aerdala",
+      "level": 57,
+      "slug": "geta-aerdala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 20850,
+      "name": "Mawabottes",
+      "level": 57,
+      "slug": "mawabottes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11419,
+      "name": "Bottes de Kabroule",
+      "level": 58,
+      "slug": "bottes-de-kabroule",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11416,
+      "name": "Bottinokio",
+      "level": 58,
+      "slug": "bottinokio",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7216,
+      "name": "Sandales Koliques",
+      "level": 58,
+      "slug": "sandales-koliques",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12465,
+      "name": "Souliers Vernis Bruns",
+      "level": 58,
+      "slug": "souliers-vernis-bruns",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6933,
+      "name": "Bottes du Craqueleur",
+      "level": 59,
+      "slug": "bottes-du-craqueleur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11386,
+      "name": "Bottoppinz",
+      "level": 59,
+      "slug": "bottoppinz",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14310,
+      "name": "Justobottes",
+      "level": 59,
+      "slug": "justobottes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17456,
+      "name": "Souliers Pineux",
+      "level": 59,
+      "slug": "souliers-pineux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 34255,
+      "name": "Botovolko",
+      "level": 60,
+      "slug": "botovolko",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17213,
+      "name": "Bottes des 1001 Griffes",
+      "level": 60,
+      "slug": "bottes-des-1001-griffes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8006,
+      "name": "Bottes du Koalak",
+      "level": 60,
+      "slug": "bottes-du-koalak",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13018,
+      "name": "Bottoduvet",
+      "level": 60,
+      "slug": "bottoduvet",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2530,
+      "name": "Carabottes",
+      "level": 60,
+      "slug": "carabottes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2470,
+      "name": "Gelobottes",
+      "level": 60,
+      "slug": "gelobottes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6493,
+      "name": "Tongues Wabbits",
+      "level": 60,
+      "slug": "tongues-wabbits",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6953,
+      "name": "Bottines du Mulou",
+      "level": 61,
+      "slug": "bottines-du-mulou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2373,
+      "name": "Moon Boutse",
+      "level": 62,
+      "slug": "moon-boutse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7104,
+      "name": "Tongues Baques",
+      "level": 63,
+      "slug": "tongues-baques",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6470,
+      "name": "Bottes de l'Eleveur de Bouftous",
+      "level": 64,
+      "slug": "bottes-de-l-eleveur-de-bouftous",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7244,
+      "name": "Geta Feudala",
+      "level": 68,
+      "slug": "geta-feudala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6825,
+      "name": "Pantoufles Crochues du Chef Crocodaille",
+      "level": 69,
+      "slug": "pantoufles-crochues-du-chef-crocodaille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2375,
+      "name": "Bottes Orino",
+      "level": 72,
+      "slug": "bottes-orino",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7889,
+      "name": "Bottes du Koulosse",
+      "level": 73,
+      "slug": "bottes-du-koulosse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12071,
+      "name": "Bottes de Nelween",
+      "level": 74,
+      "slug": "bottes-de-nelween",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 910,
+      "name": "Bottes d'Hogmeiser",
+      "level": 75,
+      "slug": "bottes-d-hogmeiser",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7243,
+      "name": "Geta Terrdala",
+      "level": 76,
+      "slug": "geta-terrdala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7218,
+      "name": "Sandales Adin",
+      "level": 76,
+      "slug": "sandales-adin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9164,
+      "name": "Bloptes Coco Royales",
+      "level": 80,
+      "slug": "bloptes-coco-royales",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9162,
+      "name": "Bloptes Griotte Royales",
+      "level": 80,
+      "slug": "bloptes-griotte-royales",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9165,
+      "name": "Bloptes Indigo Royales",
+      "level": 80,
+      "slug": "bloptes-indigo-royales",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9163,
+      "name": "Bloptes Reinette Royales",
+      "level": 80,
+      "slug": "bloptes-reinette-royales",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6774,
+      "name": "Sabots de Farle",
+      "level": 80,
+      "slug": "sabots-de-farle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8301,
+      "name": "Sabots de Shika",
+      "level": 80,
+      "slug": "sabots-de-shika",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18425,
+      "name": "Bottes Ouroboulos",
+      "level": 83,
+      "slug": "bottes-ouroboulos",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6654,
+      "name": "Bottes du Gardien des Égouts",
+      "level": 83,
+      "slug": "bottes-du-gardien-des-egouts",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12859,
+      "name": "Sabots de Redolphe",
+      "level": 85,
+      "slug": "sabots-de-redolphe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8146,
+      "name": "Bottes du Craqueleur Légendaire",
+      "level": 86,
+      "slug": "bottes-du-craqueleur-legendaire",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33573,
+      "name": "Bottines des Scalptaras",
+      "level": 86,
+      "slug": "bottines-des-scalptaras",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7883,
+      "name": "Bottes du Boufcoul",
+      "level": 87,
+      "slug": "bottes-du-boufcoul",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9166,
+      "name": "Bloptes Multicolores Royales",
+      "level": 90,
+      "slug": "bloptes-multicolores-royales",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19085,
+      "name": "Bottes de Choudini",
+      "level": 92,
+      "slug": "bottes-de-choudini",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16174,
+      "name": "Bottes Soyeuses",
+      "level": 93,
+      "slug": "bottes-soyeuses",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2384,
+      "name": "Bottes Animales",
+      "level": 94,
+      "slug": "bottes-animales",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8278,
+      "name": "Mules du Dragon Cochon",
+      "level": 94,
+      "slug": "mules-du-dragon-cochon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 912,
+      "name": "Bottes Dorées d'Hogmeiser",
+      "level": 95,
+      "slug": "bottes-dorees-d-hogmeiser",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15210,
+      "name": "Bottes Précieuses",
+      "level": 98,
+      "slug": "bottes-precieuses",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8456,
+      "name": "Bottes du Rat Blanc",
+      "level": 99,
+      "slug": "bottes-du-rat-blanc",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8727,
+      "name": "Bottes Antouche",
+      "level": 100,
+      "slug": "bottes-antouche",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8663,
+      "name": "Bottes Antrin",
+      "level": 100,
+      "slug": "bottes-antrin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8728,
+      "name": "Bottes Deuradi",
+      "level": 100,
+      "slug": "bottes-deuradi",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8666,
+      "name": "Bottes Hairo",
+      "level": 100,
+      "slug": "bottes-hairo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8668,
+      "name": "Bottes Hanik",
+      "level": 100,
+      "slug": "bottes-hanik",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18616,
+      "name": "Bottes Harcie",
+      "level": 100,
+      "slug": "bottes-harcie",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8665,
+      "name": "Bottes Hox",
+      "level": 100,
+      "slug": "bottes-hox",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17450,
+      "name": "Bottes Initiales",
+      "level": 100,
+      "slug": "bottes-initiales",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13263,
+      "name": "Bottes Omates",
+      "level": 100,
+      "slug": "bottes-omates",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12389,
+      "name": "Bottes Opsy",
+      "level": 100,
+      "slug": "bottes-opsy",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16142,
+      "name": "Bottes Ransitoires",
+      "level": 100,
+      "slug": "bottes-ransitoires",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8670,
+      "name": "Bottes Swana",
+      "level": 100,
+      "slug": "bottes-swana",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8667,
+      "name": "Bottes Ulisme",
+      "level": 100,
+      "slug": "bottes-ulisme",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6807,
+      "name": "Bottes du Chef Bwork",
+      "level": 100,
+      "slug": "bottes-du-chef-bwork",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8664,
+      "name": "Charentaises à poils",
+      "level": 100,
+      "slug": "charentaises-a-poils",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8726,
+      "name": "Chaussures Lepon-Davignon",
+      "level": 100,
+      "slug": "chaussures-lepon-davignon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8713,
+      "name": "Geta Bernacle",
+      "level": 100,
+      "slug": "geta-bernacle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27554,
+      "name": "Jambières Hitaj",
+      "level": 100,
+      "slug": "jambieres-hitaj",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13486,
+      "name": "Krosmaussures",
+      "level": 100,
+      "slug": "krosmaussures",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12390,
+      "name": "Sabots Taj",
+      "level": 100,
+      "slug": "sabots-taj",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8669,
+      "name": "Tong Aclou",
+      "level": 100,
+      "slug": "tong-aclou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8446,
+      "name": "Bottes du Rat Noir",
+      "level": 101,
+      "slug": "bottes-du-rat-noir",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8858,
+      "name": "Bottes Horchons",
+      "level": 102,
+      "slug": "bottes-horchons",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15215,
+      "name": "Bottes du Berserkoffre",
+      "level": 102,
+      "slug": "bottes-du-berserkoffre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12373,
+      "name": "Bottes du Gorgouille",
+      "level": 103,
+      "slug": "bottes-du-gorgouille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2545,
+      "name": "Corbottes",
+      "level": 104,
+      "slug": "corbottes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6744,
+      "name": "Fourbabottes",
+      "level": 104,
+      "slug": "fourbabottes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23254,
+      "name": "Boutures",
+      "level": 106,
+      "slug": "boutures",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12774,
+      "name": "Raquettes Dugraal",
+      "level": 107,
+      "slug": "raquettes-dugraal",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8415,
+      "name": "Bottes du Mominotor",
+      "level": 110,
+      "slug": "bottes-du-mominotor",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8467,
+      "name": "Protège-Tibias Ancestraux",
+      "level": 110,
+      "slug": "protege-tibias-ancestraux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8276,
+      "name": "Bottes du Minotoror",
+      "level": 113,
+      "slug": "bottes-du-minotoror",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7215,
+      "name": "Sandales Humeuses",
+      "level": 116,
+      "slug": "sandales-humeuses",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17593,
+      "name": "Bottes du Pounicheur",
+      "level": 118,
+      "slug": "bottes-du-pounicheur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11582,
+      "name": "Bottes du Royalmouth",
+      "level": 118,
+      "slug": "bottes-du-royalmouth",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14499,
+      "name": "Bottes du Wabbit Céphale",
+      "level": 119,
+      "slug": "bottes-du-wabbit-cephale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14002,
+      "name": "Bottes d'Inferno",
+      "level": 120,
+      "slug": "bottes-d-inferno",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14004,
+      "name": "Bottes de Mandrin",
+      "level": 120,
+      "slug": "bottes-de-mandrin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14003,
+      "name": "Bottes de Styx",
+      "level": 120,
+      "slug": "bottes-de-styx",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14005,
+      "name": "Bottes de Will Killson",
+      "level": 120,
+      "slug": "bottes-de-will-killson",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14500,
+      "name": "Bottes du Wabbit Garou",
+      "level": 121,
+      "slug": "bottes-du-wabbit-garou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2400,
+      "name": "Bottes Animales Sombres",
+      "level": 122,
+      "slug": "bottes-animales-sombres",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7513,
+      "name": "Sandales Titude",
+      "level": 122,
+      "slug": "sandales-titude",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7514,
+      "name": "Bottes Harry",
+      "level": 123,
+      "slug": "bottes-harry",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15789,
+      "name": "Bottes Xélomorphes",
+      "level": 123,
+      "slug": "bottes-xelomorphes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 20982,
+      "name": "Bottes Croquantes",
+      "level": 126,
+      "slug": "bottes-croquantes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15360,
+      "name": "Gruchaussures",
+      "level": 127,
+      "slug": "gruchaussures",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8291,
+      "name": "Bottes du Dragoeuf",
+      "level": 128,
+      "slug": "bottes-du-dragoeuf",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15507,
+      "name": "Bottes du Capitaine Ekarlatte",
+      "level": 130,
+      "slug": "bottes-du-capitaine-ekarlatte",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8264,
+      "name": "Bottes du Meulou",
+      "level": 131,
+      "slug": "bottes-du-meulou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8462,
+      "name": "Bottes Cérémoniales du Seigneur des Rats",
+      "level": 134,
+      "slug": "bottes-ceremoniales-du-seigneur-des-rats",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8869,
+      "name": "Bottines en bois d'abrakleur",
+      "level": 135,
+      "slug": "bottines-en-bois-d-abrakleur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8471,
+      "name": "Tongues du dimanche du Chêne Mou",
+      "level": 136,
+      "slug": "tongues-du-dimanche-du-chene-mou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11667,
+      "name": "Bottes Hoktone",
+      "level": 138,
+      "slug": "bottes-hoktone",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11617,
+      "name": "Bottes Hoktone usées",
+      "level": 138,
+      "slug": "bottes-hoktone-usees",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32206,
+      "name": "Palmes de Monsieur Pingouin",
+      "level": 138,
+      "slug": "palmes-de-monsieur-pingouin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12092,
+      "name": "Bottes de Frigostine",
+      "level": 142,
+      "slug": "bottes-de-frigostine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33599,
+      "name": "Geta de Fojumo",
+      "level": 144,
+      "slug": "geta-de-fojumo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32208,
+      "name": "Pattes de Katigrou",
+      "level": 146,
+      "slug": "pattes-de-katigrou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11618,
+      "name": "Sandales Gorithme",
+      "level": 146,
+      "slug": "sandales-gorithme",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 26309,
+      "name": "Bottes Crépitantes de Malter",
+      "level": 148,
+      "slug": "bottes-crepitantes-de-malter",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12855,
+      "name": "Bottes du Nowel Cauchemardesque",
+      "level": 150,
+      "slug": "bottes-du-nowel-cauchemardesque",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15198,
+      "name": "Bottes Phossiles",
+      "level": 151,
+      "slug": "bottes-phossiles",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12412,
+      "name": "Bottes de Grozilla",
+      "level": 155,
+      "slug": "bottes-de-grozilla",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23619,
+      "name": "Bottes de Brume",
+      "level": 156,
+      "slug": "bottes-de-brume",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12096,
+      "name": "Bottes de Cantile",
+      "level": 156,
+      "slug": "bottes-de-cantile",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7217,
+      "name": "Sandales Hambic",
+      "level": 159,
+      "slug": "sandales-hambic",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8277,
+      "name": "Sandales du Minotot",
+      "level": 160,
+      "slug": "sandales-du-minotot",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10438,
+      "name": "Les Maidartes",
+      "level": 161,
+      "slug": "les-maidartes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17588,
+      "name": "Bottes de Ush",
+      "level": 163,
+      "slug": "bottes-de-ush",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23623,
+      "name": "Geta des Tombeaux",
+      "level": 166,
+      "slug": "geta-des-tombeaux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11619,
+      "name": "Sandales Binosse",
+      "level": 166,
+      "slug": "sandales-binosse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11583,
+      "name": "Bottes de l'Obsidiantre",
+      "level": 167,
+      "slug": "bottes-de-l-obsidiantre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11739,
+      "name": "Bottines Hertie",
+      "level": 169,
+      "slug": "bottines-hertie",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9139,
+      "name": "Bottines des sous-bois",
+      "level": 172,
+      "slug": "bottines-des-sous-bois",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11710,
+      "name": "Bottes du Tengu Givrefoux",
+      "level": 173,
+      "slug": "bottes-du-tengu-givrefoux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18587,
+      "name": "Chaussquales",
+      "level": 173,
+      "slug": "chaussquales",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15776,
+      "name": "Pantoufles de Soissanth",
+      "level": 174,
+      "slug": "pantoufles-de-soissanth",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15762,
+      "name": "Bottes de XLII",
+      "level": 176,
+      "slug": "bottes-de-xlii",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15500,
+      "name": "Bottes Nécrotiques",
+      "level": 177,
+      "slug": "bottes-necrotiques",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15502,
+      "name": "Bottes de Dremoan",
+      "level": 180,
+      "slug": "bottes-de-dremoan",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17121,
+      "name": "Bottes du K.O.",
+      "level": 180,
+      "slug": "bottes-du-k-o",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11740,
+      "name": "Bottines Hodore",
+      "level": 181,
+      "slug": "bottines-hodore",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9140,
+      "name": "Chaussons Pignons",
+      "level": 181,
+      "slug": "chaussons-pignons",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9182,
+      "name": "Bottes Répané",
+      "level": 184,
+      "slug": "bottes-repane",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12107,
+      "name": "Bottes de Boréale",
+      "level": 189,
+      "slug": "bottes-de-boreale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11471,
+      "name": "Grésilobottes",
+      "level": 190,
+      "slug": "gresilobottes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13125,
+      "name": "Bottes d'Allister",
+      "level": 191,
+      "slug": "bottes-d-allister",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13118,
+      "name": "Bottes d'Otomaï",
+      "level": 192,
+      "slug": "bottes-d-otomai",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12110,
+      "name": "Bottes du Professeur Xa",
+      "level": 193,
+      "slug": "bottes-du-professeur-xa",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18775,
+      "name": "Chaussons du Comte Razof",
+      "level": 193,
+      "slug": "chaussons-du-comte-razof",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13129,
+      "name": "Bottes de Léthaline",
+      "level": 194,
+      "slug": "bottes-de-lethaline",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12119,
+      "name": "Bottes de la Fuji Givrefoux",
+      "level": 194,
+      "slug": "bottes-de-la-fuji-givrefoux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11741,
+      "name": "Sandales Pinistes",
+      "level": 194,
+      "slug": "sandales-pinistes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13640,
+      "name": "Bottes de Théodoran Ax",
+      "level": 195,
+      "slug": "bottes-de-theodoran-ax",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18778,
+      "name": "Chaussures Face",
+      "level": 195,
+      "slug": "chaussures-face",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8861,
+      "name": "Sandales Circulaires du Kimbo",
+      "level": 195,
+      "slug": "sandales-circulaires-du-kimbo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14163,
+      "name": "Sandales Ouzi",
+      "level": 195,
+      "slug": "sandales-ouzi",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14062,
+      "name": "Bottes de Missiz Frizz",
+      "level": 196,
+      "slug": "bottes-de-missiz-frizz",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11722,
+      "name": "Bottes du Glourséleste",
+      "level": 196,
+      "slug": "bottes-du-glourseleste",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14931,
+      "name": "Chaussures Hau",
+      "level": 196,
+      "slug": "chaussures-hau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13643,
+      "name": "Geta de Padgref",
+      "level": 196,
+      "slug": "geta-de-padgref",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13658,
+      "name": "Pantoufles Émar",
+      "level": 196,
+      "slug": "pantoufles-emar",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13659,
+      "name": "Sabots Minables",
+      "level": 196,
+      "slug": "sabots-minables",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13116,
+      "name": "Bottes de Brouce",
+      "level": 197,
+      "slug": "bottes-de-brouce",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31771,
+      "name": "Bottes des Voyageurs",
+      "level": 197,
+      "slug": "bottes-des-voyageurs",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15010,
+      "name": "Bottes du Père Fwetar",
+      "level": 197,
+      "slug": "bottes-du-pere-fwetar",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31765,
+      "name": "Zarbottes",
+      "level": 197,
+      "slug": "zarbottes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14933,
+      "name": "Bottes Refois",
+      "level": 198,
+      "slug": "bottes-refois",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14056,
+      "name": "Bottes Vicieuses",
+      "level": 198,
+      "slug": "bottes-vicieuses",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14881,
+      "name": "Pikottes",
+      "level": 198,
+      "slug": "pikottes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13634,
+      "name": "Bottes d'Oshimo",
+      "level": 199,
+      "slug": "bottes-d-oshimo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14066,
+      "name": "Bottes de Nileza",
+      "level": 199,
+      "slug": "bottes-de-nileza",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15692,
+      "name": "Baleinabottes",
+      "level": 200,
+      "slug": "baleinabottes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15748,
+      "name": "Bottarpille",
+      "level": 200,
+      "slug": "bottarpille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14171,
+      "name": "Bottes Dogues",
+      "level": 200,
+      "slug": "bottes-dogues",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19610,
+      "name": "Bottes Honyme",
+      "level": 200,
+      "slug": "bottes-honyme",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18003,
+      "name": "Bottes Innommables",
+      "level": 200,
+      "slug": "bottes-innommables",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 21226,
+      "name": "Bottes Lunaires",
+      "level": 200,
+      "slug": "bottes-lunaires",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15751,
+      "name": "Bottes Owesli",
+      "level": 200,
+      "slug": "bottes-owesli",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18030,
+      "name": "Bottes Trithon",
+      "level": 200,
+      "slug": "bottes-trithon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17105,
+      "name": "Bottes Voldelor",
+      "level": 200,
+      "slug": "bottes-voldelor",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18022,
+      "name": "Bottes de Meno",
+      "level": 200,
+      "slug": "bottes-de-meno",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 20363,
+      "name": "Bottes de Mille Lieues",
+      "level": 200,
+      "slug": "bottes-de-mille-lieues",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": true
+    },
+    {
+      "id": 19251,
+      "name": "Bottes de l'Esprit Malsain",
+      "level": 200,
+      "slug": "bottes-de-l-esprit-malsain",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19248,
+      "name": "Bottes de l'Esprit Salvateur",
+      "level": 200,
+      "slug": "bottes-de-l-esprit-salvateur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18028,
+      "name": "Bottes de l'Indicible",
+      "level": 200,
+      "slug": "bottes-de-l-indicible",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15428,
+      "name": "Bottes de la Cour Sombre",
+      "level": 200,
+      "slug": "bottes-de-la-cour-sombre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17575,
+      "name": "Bottes de la Dame du Hasard",
+      "level": 200,
+      "slug": "bottes-de-la-dame-du-hasard",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15435,
+      "name": "Bottes de la Reine des Voleurs",
+      "level": 200,
+      "slug": "bottes-de-la-reine-des-voleurs",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15437,
+      "name": "Bottes des Malveilleurs",
+      "level": 200,
+      "slug": "bottes-des-malveilleurs",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15741,
+      "name": "Bottes des égarés",
+      "level": 200,
+      "slug": "bottes-des-egares",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 30857,
+      "name": "Bottes du Captain Chafer",
+      "level": 200,
+      "slug": "bottes-du-captain-chafer",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17578,
+      "name": "Bottes du Chalœil",
+      "level": 200,
+      "slug": "bottes-du-chalil",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14078,
+      "name": "Bottes du Comte Harebourg",
+      "level": 200,
+      "slug": "bottes-du-comte-harebourg",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 20364,
+      "name": "Bottes du Cul Botté",
+      "level": 200,
+      "slug": "bottes-du-cul-botte",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": true
+    },
+    {
+      "id": 14093,
+      "name": "Bottes du Cycloïde",
+      "level": 200,
+      "slug": "bottes-du-cycloide",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19245,
+      "name": "Bottes du Cœur Saignant",
+      "level": 200,
+      "slug": "bottes-du-cur-saignant",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19242,
+      "name": "Bottes du Cœur Vaillant",
+      "level": 200,
+      "slug": "bottes-du-cur-vaillant",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15196,
+      "name": "Bottes du Kamasterisk",
+      "level": 200,
+      "slug": "bottes-du-kamasterisk",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15441,
+      "name": "Bottes du Katcheur",
+      "level": 200,
+      "slug": "bottes-du-katcheur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15194,
+      "name": "Bottes du Lévitrof",
+      "level": 200,
+      "slug": "bottes-du-levitrof",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14099,
+      "name": "Bottes du Nocturlabe",
+      "level": 200,
+      "slug": "bottes-du-nocturlabe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17572,
+      "name": "Bottes du Roi Joueur",
+      "level": 200,
+      "slug": "bottes-du-roi-joueur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14087,
+      "name": "Bottes du Sinistrofu",
+      "level": 200,
+      "slug": "bottes-du-sinistrofu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14096,
+      "name": "Bottes du Strigide",
+      "level": 200,
+      "slug": "bottes-du-strigide",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18593,
+      "name": "Bottistik",
+      "level": 200,
+      "slug": "bottistik",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19603,
+      "name": "Chaussons de Macrab",
+      "level": 200,
+      "slug": "chaussons-de-macrab",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19585,
+      "name": "Chaussures Ardentes",
+      "level": 200,
+      "slug": "chaussures-ardentes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 26022,
+      "name": "Ciel de Foudre Noire",
+      "level": 200,
+      "slug": "ciel-de-foudre-noire",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32121,
+      "name": "Clairvoyance de Mériana",
+      "level": 200,
+      "slug": "clairvoyance-de-meriana",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": true
+    },
+    {
+      "id": 19079,
+      "name": "Goulbottes",
+      "level": 200,
+      "slug": "goulbottes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18007,
+      "name": "Palmes Trithons",
+      "level": 200,
+      "slug": "palmes-trithons",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15191,
+      "name": "Pantoufles du Piloztère",
+      "level": 200,
+      "slug": "pantoufles-du-piloztere",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15693,
+      "name": "Pataugastrique",
+      "level": 200,
+      "slug": "pataugastrique",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19265,
+      "name": "Pompes Funèbres",
+      "level": 200,
+      "slug": "pompes-funebres",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19592,
+      "name": "Sabots Volcaniques",
+      "level": 200,
+      "slug": "sabots-volcaniques",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15744,
+      "name": "Sabots de Vortex",
+      "level": 200,
+      "slug": "sabots-de-vortex",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 20463,
+      "name": "Sandales Paztek",
+      "level": 200,
+      "slug": "sandales-paztek",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17585,
+      "name": "Sandales d'Atcham",
+      "level": 200,
+      "slug": "sandales-d-atcham",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18592,
+      "name": "Sandales de Tal Kasha",
+      "level": 200,
+      "slug": "sandales-de-tal-kasha",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16006,
+      "name": "Sandales des Fonds marins",
+      "level": 200,
+      "slug": "sandales-des-fonds-marins",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 24024,
+      "name": "Solerets Kritur",
+      "level": 200,
+      "slug": "solerets-kritur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 22189,
+      "name": "Solerets de Guerre",
+      "level": 200,
+      "slug": "solerets-de-guerre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 22187,
+      "name": "Solerets de Misère",
+      "level": 200,
+      "slug": "solerets-de-misere",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18020,
+      "name": "Tentassons",
+      "level": 200,
+      "slug": "tentassons",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15188,
+      "name": "Tongues de Nidas",
+      "level": 200,
+      "slug": "tongues-de-nidas",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27514,
+      "name": "Éternelle Poursuite",
+      "level": 200,
+      "slug": "eternelle-poursuite",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    }
+  ]
+}

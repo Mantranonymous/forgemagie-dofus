@@ -1,0 +1,722 @@
+{
+  "_meta": {
+    "typeId": 3,
+    "typeLabel": "baguette",
+    "total": 79,
+    "totalSaleable": 79,
+    "fetchedAt": "2026-05-18T23:13:31.135865"
+  },
+  "items": [
+    {
+      "id": 1356,
+      "name": "Demi-Baguette",
+      "level": 1,
+      "slug": "demi-baguette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8627,
+      "name": "Flûte de Sarr Ys",
+      "level": 1,
+      "slug": "flute-de-sarr-ys",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 134,
+      "name": "Baguette de Boisaille",
+      "level": 3,
+      "slug": "baguette-de-boisaille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1503,
+      "name": "Baguette de Feu Follesque",
+      "level": 10,
+      "slug": "baguette-de-feu-follesque",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 165,
+      "name": "Baguette de Glace",
+      "level": 11,
+      "slug": "baguette-de-glace",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6781,
+      "name": "Baguette de l'initié",
+      "level": 12,
+      "slug": "baguette-de-l-initie",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 334,
+      "name": "Baguette de Liriel",
+      "level": 20,
+      "slug": "baguette-de-liriel",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8110,
+      "name": "Baguette du Tofu",
+      "level": 25,
+      "slug": "baguette-du-tofu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7173,
+      "name": "Baguette Rangleuse",
+      "level": 27,
+      "slug": "baguette-rangleuse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 835,
+      "name": "Baguette de Sagesse",
+      "level": 27,
+      "slug": "baguette-de-sagesse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 832,
+      "name": "Baguette d'Intelligence",
+      "level": 29,
+      "slug": "baguette-d-intelligence",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1104,
+      "name": "Baguette Heure",
+      "level": 30,
+      "slug": "baguette-heure",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 469,
+      "name": "Baguette en Racine d'Abraknyde",
+      "level": 33,
+      "slug": "baguette-en-racine-d-abraknyde",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1357,
+      "name": "Daguette",
+      "level": 35,
+      "slug": "daguette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7110,
+      "name": "Baguette Larvesque",
+      "level": 40,
+      "slug": "baguette-larvesque",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15990,
+      "name": "Baguette Rikiki",
+      "level": 40,
+      "slug": "baguette-rikiki",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7167,
+      "name": "Baguette Cetera",
+      "level": 43,
+      "slug": "baguette-cetera",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1361,
+      "name": "Baguette Sylvien",
+      "level": 43,
+      "slug": "baguette-sylvien",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1136,
+      "name": "Baguette à Pans",
+      "level": 45,
+      "slug": "baguette-a-pans",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1360,
+      "name": "L'Hyldegarde",
+      "level": 48,
+      "slug": "l-hyldegarde",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 333,
+      "name": "Baguette Deuh-Pain",
+      "level": 50,
+      "slug": "baguette-deuh-pain",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1132,
+      "name": "Baguette Ni'Ninnin",
+      "level": 50,
+      "slug": "baguette-ni-ninnin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 181,
+      "name": "Baguette des Cieux",
+      "level": 51,
+      "slug": "baguette-des-cieux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1131,
+      "name": "Baguette d'Eglise",
+      "level": 52,
+      "slug": "baguette-d-eglise",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1140,
+      "name": "Baguette d'Houvette",
+      "level": 55,
+      "slug": "baguette-d-houvette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8118,
+      "name": "Baguette du Scarabosse Doré",
+      "level": 59,
+      "slug": "baguette-du-scarabosse-dore",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1359,
+      "name": "Le Tison Fûté",
+      "level": 59,
+      "slug": "le-tison-fute",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7168,
+      "name": "Baguette Hylique",
+      "level": 63,
+      "slug": "baguette-hylique",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6497,
+      "name": "Balgourde des Clairettes",
+      "level": 63,
+      "slug": "balgourde-des-clairettes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1362,
+      "name": "Pieu Vampirique",
+      "level": 65,
+      "slug": "pieu-vampirique",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6496,
+      "name": "Baguette en Racine d'Abraknyde Sombre",
+      "level": 67,
+      "slug": "baguette-en-racine-d-abraknyde-sombre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8611,
+      "name": "Bagdette Café",
+      "level": 69,
+      "slug": "bagdette-cafe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1146,
+      "name": "Baguette Meneuse",
+      "level": 71,
+      "slug": "baguette-meneuse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8612,
+      "name": "La Bidjiz",
+      "level": 74,
+      "slug": "la-bidjiz",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 5999,
+      "name": "Baguette Helles",
+      "level": 75,
+      "slug": "baguette-helles",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6519,
+      "name": "Baguette de Kouartz",
+      "level": 78,
+      "slug": "baguette-de-kouartz",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1739,
+      "name": "Baguette Affeulante",
+      "level": 80,
+      "slug": "baguette-affeulante",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7169,
+      "name": "Baguette Hincelle",
+      "level": 81,
+      "slug": "baguette-hincelle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6438,
+      "name": "Baguette Molle",
+      "level": 83,
+      "slug": "baguette-molle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6520,
+      "name": "La Migraine",
+      "level": 84,
+      "slug": "la-migraine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6439,
+      "name": "Baguette Irréelle",
+      "level": 90,
+      "slug": "baguette-irreelle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6440,
+      "name": "Baguette Velue",
+      "level": 95,
+      "slug": "baguette-velue",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7165,
+      "name": "Baguette Nah",
+      "level": 102,
+      "slug": "baguette-nah",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7172,
+      "name": "Baguette Rhon",
+      "level": 105,
+      "slug": "baguette-rhon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 180,
+      "name": "La Baguette des Limbes",
+      "level": 105,
+      "slug": "la-baguette-des-limbes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7170,
+      "name": "Baguette Houffe-Craitien",
+      "level": 112,
+      "slug": "baguette-houffe-craitien",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6518,
+      "name": "Amrothiline",
+      "level": 113,
+      "slug": "amrothiline",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6494,
+      "name": "Baguette d'Elya Wood",
+      "level": 117,
+      "slug": "baguette-d-elya-wood",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8296,
+      "name": "Baguette du Dragoeuf",
+      "level": 124,
+      "slug": "baguette-du-dragoeuf",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7368,
+      "name": "Baguette Houalle",
+      "level": 125,
+      "slug": "baguette-houalle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7171,
+      "name": "Baguette Ourderie",
+      "level": 127,
+      "slug": "baguette-ourderie",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8088,
+      "name": "Baguette Gyver",
+      "level": 128,
+      "slug": "baguette-gyver",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8834,
+      "name": "Branche de l'Abrakleur sombre",
+      "level": 130,
+      "slug": "branche-de-l-abrakleur-sombre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23267,
+      "name": "Baguette Bainkuite",
+      "level": 132,
+      "slug": "baguette-bainkuite",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8835,
+      "name": "Branche de l'Abrakleur clair",
+      "level": 132,
+      "slug": "branche-de-l-abrakleur-clair",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13583,
+      "name": "Baguette du Grand Glucid",
+      "level": 134,
+      "slug": "baguette-du-grand-glucid",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8089,
+      "name": "Baguette Iots",
+      "level": 138,
+      "slug": "baguette-iots",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7103,
+      "name": "La Xyothine",
+      "level": 145,
+      "slug": "la-xyothine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12088,
+      "name": "Baguette de Frigostine",
+      "level": 149,
+      "slug": "baguette-de-frigostine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11632,
+      "name": "Baguette Hernuement",
+      "level": 163,
+      "slug": "baguette-hernuement",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6495,
+      "name": "Baguette du Chêne Mou",
+      "level": 171,
+      "slug": "baguette-du-chene-mou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17460,
+      "name": "Baguette Osseuse",
+      "level": 173,
+      "slug": "baguette-osseuse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11757,
+      "name": "Baguette Nolog",
+      "level": 177,
+      "slug": "baguette-nolog",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9135,
+      "name": "Baguetterelle",
+      "level": 180,
+      "slug": "baguetterelle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11758,
+      "name": "Baguette Hernelle",
+      "level": 187,
+      "slug": "baguette-hernelle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11759,
+      "name": "Baguette Hique",
+      "level": 193,
+      "slug": "baguette-hique",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32227,
+      "name": "Fléau du Docteur Eggob",
+      "level": 195,
+      "slug": "fleau-du-docteur-eggob",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31764,
+      "name": "Zarbappeau",
+      "level": 197,
+      "slug": "zarbappeau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14288,
+      "name": "Bâtonnet Ronien",
+      "level": 198,
+      "slug": "batonnet-ronien",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19605,
+      "name": "Baguette Héroclite",
+      "level": 200,
+      "slug": "baguette-heroclite",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 24036,
+      "name": "Baguette Imologie",
+      "level": 200,
+      "slug": "baguette-imologie",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18011,
+      "name": "Baguette Range",
+      "level": 200,
+      "slug": "baguette-range",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15216,
+      "name": "Baguette de Malléfisk",
+      "level": 200,
+      "slug": "baguette-de-mallefisk",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 21229,
+      "name": "Baguette de Torkélonia",
+      "level": 200,
+      "slug": "baguette-de-torkelonia",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15779,
+      "name": "Baguette des égarés",
+      "level": 200,
+      "slug": "baguette-des-egares",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 25219,
+      "name": "Baguette du Pandamonium",
+      "level": 200,
+      "slug": "baguette-du-pandamonium",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 22444,
+      "name": "Balance-Fléau de Misère",
+      "level": 200,
+      "slug": "balance-fleau-de-misere",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": true
+    },
+    {
+      "id": 20355,
+      "name": "Frisson de Brumaire",
+      "level": 200,
+      "slug": "frisson-de-brumaire",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": true
+    },
+    {
+      "id": 18601,
+      "name": "Pyraguette",
+      "level": 200,
+      "slug": "pyraguette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    }
+  ]
+}

@@ -1,0 +1,3440 @@
+{
+  "_meta": {
+    "typeId": 9,
+    "typeLabel": "anneau",
+    "total": 391,
+    "totalSaleable": 381,
+    "fetchedAt": "2026-05-18T21:07:21.199098"
+  },
+  "items": [
+    {
+      "id": 1501,
+      "name": "Alliance",
+      "level": 1,
+      "slug": "alliance",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 787,
+      "name": "Anneau Rexik",
+      "level": 1,
+      "slug": "anneau-rexik",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19622,
+      "name": "Anneau de l'Audacieux",
+      "level": 1,
+      "slug": "anneau-de-l-audacieux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1630,
+      "name": "Artefact Air",
+      "level": 1,
+      "slug": "artefact-air",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1631,
+      "name": "Artefact Eau",
+      "level": 1,
+      "slug": "artefact-eau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1628,
+      "name": "Artefact Feu",
+      "level": 1,
+      "slug": "artefact-feu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1632,
+      "name": "Artefact Lumière",
+      "level": 1,
+      "slug": "artefact-lumiere",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1629,
+      "name": "Artefact Terre",
+      "level": 1,
+      "slug": "artefact-terre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1633,
+      "name": "Artefact Vie",
+      "level": 1,
+      "slug": "artefact-vie",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8537,
+      "name": "Le Plussain",
+      "level": 1,
+      "slug": "le-plussain",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 852,
+      "name": "Petit Anneau Magique",
+      "level": 1,
+      "slug": "petit-anneau-magique",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 853,
+      "name": "Petit Anneau du Chanceux",
+      "level": 1,
+      "slug": "petit-anneau-du-chanceux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 850,
+      "name": "Anneau Agilesque",
+      "level": 2,
+      "slug": "anneau-agilesque",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 849,
+      "name": "Anneau Forcesque",
+      "level": 2,
+      "slug": "anneau-forcesque",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 851,
+      "name": "Anneau Vitalesque",
+      "level": 2,
+      "slug": "anneau-vitalesque",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2475,
+      "name": "Anneau de l'Aventurier",
+      "level": 4,
+      "slug": "anneau-de-l-aventurier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 768,
+      "name": "Camaïneux",
+      "level": 4,
+      "slug": "camaineux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 767,
+      "name": "Gantie Royal",
+      "level": 6,
+      "slug": "gantie-royal",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8224,
+      "name": "Anneau du Piou Rose",
+      "level": 7,
+      "slug": "anneau-du-piou-rose",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 841,
+      "name": "Anneau de Satisfaction",
+      "level": 8,
+      "slug": "anneau-de-satisfaction",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8221,
+      "name": "Anneau du Piou Violet",
+      "level": 8,
+      "slug": "anneau-du-piou-violet",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16843,
+      "name": "Sac à Main Renforcé",
+      "level": 8,
+      "slug": "sac-a-main-renforce",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 121,
+      "name": "Anneau d'Agilité",
+      "level": 9,
+      "slug": "anneau-d-agilite",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 112,
+      "name": "Anneau de Chance",
+      "level": 9,
+      "slug": "anneau-de-chance",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 103,
+      "name": "Anneau de Sagesse",
+      "level": 9,
+      "slug": "anneau-de-sagesse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8220,
+      "name": "Anneau du Piou Bleu",
+      "level": 9,
+      "slug": "anneau-du-piou-bleu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6911,
+      "name": "Araknoton",
+      "level": 9,
+      "slug": "araknoton",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 785,
+      "name": "Anneau Fortifiant",
+      "level": 10,
+      "slug": "anneau-fortifiant",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12423,
+      "name": "Anneau Tétriste",
+      "level": 10,
+      "slug": "anneau-tetriste",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12598,
+      "name": "Anneau de l'Envahisseur",
+      "level": 10,
+      "slug": "anneau-de-l-envahisseur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8219,
+      "name": "Anneau du Piou Rouge",
+      "level": 10,
+      "slug": "anneau-du-piou-rouge",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14806,
+      "name": "Annolita",
+      "level": 10,
+      "slug": "annolita",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14593,
+      "name": "Anomen Tengu",
+      "level": 10,
+      "slug": "anomen-tengu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14605,
+      "name": "Geishanneau",
+      "level": 10,
+      "slug": "geishanneau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14613,
+      "name": "Kouinkano Jaune",
+      "level": 10,
+      "slug": "kouinkano-jaune",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14609,
+      "name": "Kouinkano Noir",
+      "level": 10,
+      "slug": "kouinkano-noir",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6920,
+      "name": "Alliance Du Champ Champ",
+      "level": 11,
+      "slug": "alliance-du-champ-champ",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 278,
+      "name": "Anneau des Rocheuses",
+      "level": 11,
+      "slug": "anneau-des-rocheuses",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8223,
+      "name": "Anneau du Piou Vert",
+      "level": 11,
+      "slug": "anneau-du-piou-vert",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8222,
+      "name": "Anneau du Piou Jaune",
+      "level": 12,
+      "slug": "anneau-du-piou-jaune",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16502,
+      "name": "Bracelet de Kardorim",
+      "level": 12,
+      "slug": "bracelet-de-kardorim",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 355,
+      "name": "L'Anneau de Valeur",
+      "level": 12,
+      "slug": "l-anneau-de-valeur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8126,
+      "name": "Mitaines Mitées du Paysan",
+      "level": 12,
+      "slug": "mitaines-mitees-du-paysan",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6919,
+      "name": "Anneau du Champ Champ",
+      "level": 13,
+      "slug": "anneau-du-champ-champ",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1087,
+      "name": "Anneau du Mental",
+      "level": 14,
+      "slug": "anneau-du-mental",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6791,
+      "name": "Anneau Champêtre",
+      "level": 15,
+      "slug": "anneau-champetre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1493,
+      "name": "Blessure du Sacrieur",
+      "level": 15,
+      "slug": "blessure-du-sacrieur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1494,
+      "name": "Le Bagueur",
+      "level": 15,
+      "slug": "le-bagueur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 346,
+      "name": "Anneau Rak",
+      "level": 17,
+      "slug": "anneau-rak",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6961,
+      "name": "Anneau du Bandit",
+      "level": 17,
+      "slug": "anneau-du-bandit",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7122,
+      "name": "Anneau Vice",
+      "level": 18,
+      "slug": "anneau-vice",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6910,
+      "name": "Anneau du Sanglier",
+      "level": 19,
+      "slug": "anneau-du-sanglier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6722,
+      "name": "Alliance de l'Homme Ours",
+      "level": 20,
+      "slug": "alliance-de-l-homme-ours",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9416,
+      "name": "Anneau Zest",
+      "level": 20,
+      "slug": "anneau-zest",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2419,
+      "name": "Anneau de Bouze le Clerc",
+      "level": 20,
+      "slug": "anneau-de-bouze-le-clerc",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8254,
+      "name": "Anneau en Mousse",
+      "level": 20,
+      "slug": "anneau-en-mousse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1496,
+      "name": "Chance d'Ecaflip",
+      "level": 20,
+      "slug": "chance-d-ecaflip",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8109,
+      "name": "Anneau du Tofu",
+      "level": 21,
+      "slug": "anneau-du-tofu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6915,
+      "name": "Mos Kitano",
+      "level": 21,
+      "slug": "mos-kitano",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1729,
+      "name": "Anneau Mèr",
+      "level": 25,
+      "slug": "anneau-mer",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6793,
+      "name": "Anneau Thé",
+      "level": 25,
+      "slug": "anneau-the",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12851,
+      "name": "Bracelet du Glutin",
+      "level": 25,
+      "slug": "bracelet-du-glutin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 732,
+      "name": "Alliance de Silimelle",
+      "level": 26,
+      "slug": "alliance-de-silimelle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1657,
+      "name": "Fécaliseur du Guerrier",
+      "level": 26,
+      "slug": "fecaliseur-du-guerrier",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1656,
+      "name": "Fécaliseur du Magicien",
+      "level": 26,
+      "slug": "fecaliseur-du-magicien",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 359,
+      "name": "L'Ecaliseur",
+      "level": 29,
+      "slug": "l-ecaliseur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1497,
+      "name": "Passé de Xélor",
+      "level": 30,
+      "slug": "passe-de-xelor",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9455,
+      "name": "Pompanneau",
+      "level": 30,
+      "slug": "pompanneau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1498,
+      "name": "Souvenir d'Enutrof",
+      "level": 30,
+      "slug": "souvenir-d-enutrof",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2441,
+      "name": "Anneau Royal du Bouftou",
+      "level": 31,
+      "slug": "anneau-royal-du-bouftou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8881,
+      "name": "Anneau Solo",
+      "level": 31,
+      "slug": "anneau-solo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11083,
+      "name": "Bague de Boufbowl",
+      "level": 31,
+      "slug": "bague-de-boufbowl",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10981,
+      "name": "Anneau d'Hectaupe",
+      "level": 32,
+      "slug": "anneau-d-hectaupe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15526,
+      "name": "Gant de Frakacia",
+      "level": 32,
+      "slug": "gant-de-frakacia",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10976,
+      "name": "Anneau de Phong Huss",
+      "level": 33,
+      "slug": "anneau-de-phong-huss",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10955,
+      "name": "Anneau du Corbeau Noir",
+      "level": 33,
+      "slug": "anneau-du-corbeau-noir",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15992,
+      "name": "Anneau Bille",
+      "level": 36,
+      "slug": "anneau-bille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9942,
+      "name": "Anneau de la mort",
+      "level": 36,
+      "slug": "anneau-de-la-mort",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1495,
+      "name": "L'Anneau Dhyn",
+      "level": 36,
+      "slug": "l-anneau-dhyn",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7246,
+      "name": "Alliance Akwadala",
+      "level": 37,
+      "slug": "alliance-akwadala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9452,
+      "name": "Bague Cristalline",
+      "level": 37,
+      "slug": "bague-cristalline",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10189,
+      "name": "Oxano",
+      "level": 37,
+      "slug": "oxano",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6928,
+      "name": "Anneau du Prespic",
+      "level": 38,
+      "slug": "anneau-du-prespic",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12658,
+      "name": "Cosmobracelet",
+      "level": 39,
+      "slug": "cosmobracelet",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 836,
+      "name": "Abranneau",
+      "level": 40,
+      "slug": "abranneau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6464,
+      "name": "Anneau de l'Invocateur Satisfait",
+      "level": 40,
+      "slug": "anneau-de-l-invocateur-satisfait",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2420,
+      "name": "Anobra",
+      "level": 40,
+      "slug": "anobra",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1718,
+      "name": "Force de Crocoburio",
+      "level": 40,
+      "slug": "force-de-crocoburio",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9543,
+      "name": "Grosse Bagouze du Parrain",
+      "level": 40,
+      "slug": "grosse-bagouze-du-parrain",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9408,
+      "name": "Jambanneau",
+      "level": 40,
+      "slug": "jambanneau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10627,
+      "name": "Anneau de Kocksis",
+      "level": 41,
+      "slug": "anneau-de-kocksis",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10181,
+      "name": "Anneau solaire",
+      "level": 41,
+      "slug": "anneau-solaire",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10636,
+      "name": "Anneau de Laikteur",
+      "level": 42,
+      "slug": "anneau-de-laikteur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10054,
+      "name": "Anneau du Vampyre",
+      "level": 42,
+      "slug": "anneau-du-vampyre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2418,
+      "name": "Kwakanneau de Flammes",
+      "level": 42,
+      "slug": "kwakanneau-de-flammes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6732,
+      "name": "Kwakanneau de Glace",
+      "level": 42,
+      "slug": "kwakanneau-de-glace",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6748,
+      "name": "Kwakanneau de Terre",
+      "level": 42,
+      "slug": "kwakanneau-de-terre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6749,
+      "name": "Kwakanneau de Vent",
+      "level": 42,
+      "slug": "kwakanneau-de-vent",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11977,
+      "name": "Alliance du Kanniboul Ebil",
+      "level": 43,
+      "slug": "alliance-du-kanniboul-ebil",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11058,
+      "name": "Anneau Pomdeupin",
+      "level": 43,
+      "slug": "anneau-pomdeupin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10643,
+      "name": "Anneau de Grizou",
+      "level": 43,
+      "slug": "anneau-de-grizou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9662,
+      "name": "Anneau de Slait",
+      "level": 43,
+      "slug": "anneau-de-slait",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8121,
+      "name": "Anneau du Scarabosse Doré",
+      "level": 43,
+      "slug": "anneau-du-scarabosse-dore",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13297,
+      "name": "Bague Rafe",
+      "level": 43,
+      "slug": "bague-rafe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10558,
+      "name": "Gantelet des Bouftons Rouges",
+      "level": 43,
+      "slug": "gantelet-des-bouftons-rouges",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10557,
+      "name": "Gantelet du Real Boitar",
+      "level": 43,
+      "slug": "gantelet-du-real-boitar",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6946,
+      "name": "Scaranneau Blanc",
+      "level": 43,
+      "slug": "scaranneau-blanc",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6947,
+      "name": "Scaranneau Bleu",
+      "level": 43,
+      "slug": "scaranneau-bleu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6945,
+      "name": "Scaranneau Rouge",
+      "level": 43,
+      "slug": "scaranneau-rouge",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6944,
+      "name": "Scaranneau Vert",
+      "level": 43,
+      "slug": "scaranneau-vert",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6463,
+      "name": "Anneau Forain",
+      "level": 44,
+      "slug": "anneau-forain",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7120,
+      "name": "Anneau Hé",
+      "level": 44,
+      "slug": "anneau-he",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10633,
+      "name": "Anneau de Gobeuf",
+      "level": 44,
+      "slug": "anneau-de-gobeuf",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11978,
+      "name": "Anneau du Boostache",
+      "level": 44,
+      "slug": "anneau-du-boostache",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9925,
+      "name": "Fulgu au poing",
+      "level": 44,
+      "slug": "fulgu-au-poing",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10171,
+      "name": "Mitaines de Chisp",
+      "level": 44,
+      "slug": "mitaines-de-chisp",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9198,
+      "name": "Anneau Paupayahn",
+      "level": 45,
+      "slug": "anneau-paupayahn",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9921,
+      "name": "Bracelet du Tétounik",
+      "level": 45,
+      "slug": "bracelet-du-tetounik",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16240,
+      "name": "Printanneau",
+      "level": 45,
+      "slug": "printanneau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1559,
+      "name": "Abranneau Mou",
+      "level": 46,
+      "slug": "abranneau-mou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12045,
+      "name": "Anneau d'Haku",
+      "level": 46,
+      "slug": "anneau-d-haku",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11354,
+      "name": "Anneau de Grouillot",
+      "level": 46,
+      "slug": "anneau-de-grouillot",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8872,
+      "name": "Palmano",
+      "level": 46,
+      "slug": "palmano",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1602,
+      "name": "Abranneau Sombre",
+      "level": 48,
+      "slug": "abranneau-sombre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27524,
+      "name": "Alliance des Rebelles",
+      "level": 48,
+      "slug": "alliance-des-rebelles",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6996,
+      "name": "Anneau Stradamus",
+      "level": 48,
+      "slug": "anneau-stradamus",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11350,
+      "name": "Anneau de Karotz",
+      "level": 48,
+      "slug": "anneau-de-karotz",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13298,
+      "name": "Bracelet Gume",
+      "level": 48,
+      "slug": "bracelet-gume",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8136,
+      "name": "Scaranneau Noir",
+      "level": 48,
+      "slug": "scaranneau-noir",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7132,
+      "name": "Anneau Rigami",
+      "level": 49,
+      "slug": "anneau-rigami",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11087,
+      "name": "Anneau de Gadjète",
+      "level": 49,
+      "slug": "anneau-de-gadjete",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7121,
+      "name": "Anneau Zocomial",
+      "level": 50,
+      "slug": "anneau-zocomial",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12033,
+      "name": "Anneau de Logram",
+      "level": 50,
+      "slug": "anneau-de-logram",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7555,
+      "name": "Anodindo",
+      "level": 50,
+      "slug": "anodindo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9124,
+      "name": "Blopanneau Coco",
+      "level": 50,
+      "slug": "blopanneau-coco",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9122,
+      "name": "Blopanneau Griotte",
+      "level": 50,
+      "slug": "blopanneau-griotte",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9125,
+      "name": "Blopanneau Indigo",
+      "level": 50,
+      "slug": "blopanneau-indigo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9123,
+      "name": "Blopanneau Reinette",
+      "level": 50,
+      "slug": "blopanneau-reinette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 3203,
+      "name": "Anneau Tribal",
+      "level": 51,
+      "slug": "anneau-tribal",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10855,
+      "name": "Anneau de Kloug",
+      "level": 51,
+      "slug": "anneau-de-kloug",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6956,
+      "name": "Anneau du Mulou",
+      "level": 51,
+      "slug": "anneau-du-mulou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10687,
+      "name": "Anneau du Roks Or",
+      "level": 51,
+      "slug": "anneau-du-roks-or",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33559,
+      "name": "Mitaine des Scalarcin",
+      "level": 51,
+      "slug": "mitaine-des-scalarcin",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27532,
+      "name": "Anneau de guerrier albueran",
+      "level": 52,
+      "slug": "anneau-de-guerrier-albueran",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12020,
+      "name": "Kwakwalliance",
+      "level": 52,
+      "slug": "kwakwalliance",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12019,
+      "name": "Kwakwanneau",
+      "level": 52,
+      "slug": "kwakwanneau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7117,
+      "name": "Alliance Ethnique",
+      "level": 53,
+      "slug": "alliance-ethnique",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12039,
+      "name": "Alliance d'Hichète",
+      "level": 53,
+      "slug": "alliance-d-hichete",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8004,
+      "name": "Anneau du Koalak",
+      "level": 53,
+      "slug": "anneau-du-koalak",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7128,
+      "name": "Anneau Karina",
+      "level": 54,
+      "slug": "anneau-karina",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 10854,
+      "name": "Anneau de Klüme",
+      "level": 54,
+      "slug": "anneau-de-klume",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12409,
+      "name": "Anneau du Vulkain",
+      "level": 54,
+      "slug": "anneau-du-vulkain",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13320,
+      "name": "Annokami",
+      "level": 54,
+      "slug": "annokami",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12379,
+      "name": "Bracilozité",
+      "level": 54,
+      "slug": "bracilozite",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7341,
+      "name": "Anneau du Kitsou",
+      "level": 55,
+      "slug": "anneau-du-kitsou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13891,
+      "name": "Glaglano",
+      "level": 55,
+      "slug": "glaglano",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7131,
+      "name": "Anneau Piaume",
+      "level": 56,
+      "slug": "anneau-piaume",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11346,
+      "name": "Anneau d'Ougicle",
+      "level": 56,
+      "slug": "anneau-d-ougicle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12027,
+      "name": "Anneau de Mirh",
+      "level": 56,
+      "slug": "anneau-de-mirh",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 20852,
+      "name": "Rondelle de Waddict",
+      "level": 56,
+      "slug": "rondelle-de-waddict",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7249,
+      "name": "Alliance Aerdala",
+      "level": 57,
+      "slug": "alliance-aerdala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13460,
+      "name": "Diplanneau",
+      "level": 57,
+      "slug": "diplanneau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7119,
+      "name": "Anneau Ha",
+      "level": 58,
+      "slug": "anneau-ha",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11384,
+      "name": "Anoppinz",
+      "level": 58,
+      "slug": "anoppinz",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12410,
+      "name": "Bracelet du Vulkain",
+      "level": 58,
+      "slug": "bracelet-du-vulkain",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15998,
+      "name": "Alliance Apaisante",
+      "level": 59,
+      "slug": "alliance-apaisante",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11399,
+      "name": "Anauffe-souris",
+      "level": 59,
+      "slug": "anauffe-souris",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7116,
+      "name": "Anneau Merta",
+      "level": 59,
+      "slug": "anneau-merta",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14302,
+      "name": "Anneau Stroplante",
+      "level": 59,
+      "slug": "anneau-stroplante",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17457,
+      "name": "Anneau Welle",
+      "level": 59,
+      "slug": "anneau-welle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11362,
+      "name": "Anneau de Piggy Paupe",
+      "level": 59,
+      "slug": "anneau-de-piggy-paupe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6468,
+      "name": "Anneau du Jeune Vald",
+      "level": 59,
+      "slug": "anneau-du-jeune-vald",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12466,
+      "name": "Boracelet",
+      "level": 59,
+      "slug": "boracelet",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 1499,
+      "name": "L'Enutrofion",
+      "level": 59,
+      "slug": "l-enutrofion",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8860,
+      "name": "Alliance de Corail",
+      "level": 60,
+      "slug": "alliance-de-corail",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 2469,
+      "name": "Gelano",
+      "level": 60,
+      "slug": "gelano",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14311,
+      "name": "Justanneau",
+      "level": 60,
+      "slug": "justanneau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11417,
+      "name": "Anokio",
+      "level": 61,
+      "slug": "anokio",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33563,
+      "name": "Bracelet de Marzwel",
+      "level": 64,
+      "slug": "bracelet-de-marzwel",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6997,
+      "name": "Anneau Fioutioure",
+      "level": 65,
+      "slug": "anneau-fioutioure",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8879,
+      "name": "Anneau Poli",
+      "level": 66,
+      "slug": "anneau-poli",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6467,
+      "name": "Anneau Nime",
+      "level": 67,
+      "slug": "anneau-nime",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7123,
+      "name": "Anneau Bsène",
+      "level": 68,
+      "slug": "anneau-bsene",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6819,
+      "name": "Bracelet du Chef Crocodaille",
+      "level": 70,
+      "slug": "bracelet-du-chef-crocodaille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6465,
+      "name": "Anneau de Loopine",
+      "level": 71,
+      "slug": "anneau-de-loopine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8149,
+      "name": "Craquanneau Légendaire",
+      "level": 72,
+      "slug": "craquanneau-legendaire",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8299,
+      "name": "Bracelet Magique de Shika",
+      "level": 73,
+      "slug": "bracelet-magique-de-shika",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33566,
+      "name": "Anneau de Qil Bil",
+      "level": 75,
+      "slug": "anneau-de-qil-bil",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7247,
+      "name": "Alliance Terrdala",
+      "level": 77,
+      "slug": "alliance-terrdala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6767,
+      "name": "Bracelet Magique de Farle",
+      "level": 79,
+      "slug": "bracelet-magique-de-farle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18424,
+      "name": "Anneau Ouroboulos",
+      "level": 80,
+      "slug": "anneau-ouroboulos",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9128,
+      "name": "Blopanneau Coco Royal",
+      "level": 80,
+      "slug": "blopanneau-coco-royal",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9126,
+      "name": "Blopanneau Griotte Royal",
+      "level": 80,
+      "slug": "blopanneau-griotte-royal",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9129,
+      "name": "Blopanneau Indigo Royal",
+      "level": 80,
+      "slug": "blopanneau-indigo-royal",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9127,
+      "name": "Blopanneau Reinette Royal",
+      "level": 80,
+      "slug": "blopanneau-reinette-royal",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7248,
+      "name": "Alliance Feudala",
+      "level": 81,
+      "slug": "alliance-feudala",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33571,
+      "name": "Bague des Scalptaras",
+      "level": 82,
+      "slug": "bague-des-scalptaras",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6506,
+      "name": "Anneau du Mineur Gogorifiant",
+      "level": 84,
+      "slug": "anneau-du-mineur-gogorifiant",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14496,
+      "name": "Bracelet du Blanc Pa Wabbit",
+      "level": 84,
+      "slug": "bracelet-du-blanc-pa-wabbit",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33570,
+      "name": "Gant de Tyranne",
+      "level": 85,
+      "slug": "gant-de-tyranne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7881,
+      "name": "Anneau du Boufcoul",
+      "level": 86,
+      "slug": "anneau-du-boufcoul",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6469,
+      "name": "Alliance de Farle",
+      "level": 87,
+      "slug": "alliance-de-farle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 7118,
+      "name": "Anneau K'Tuelle",
+      "level": 88,
+      "slug": "anneau-k-tuelle",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19089,
+      "name": "Anneau Riktus",
+      "level": 88,
+      "slug": "anneau-riktus",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16209,
+      "name": "Alliance des Forestiers",
+      "level": 90,
+      "slug": "alliance-des-forestiers",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9148,
+      "name": "Blopanneau Multicolore Royal",
+      "level": 90,
+      "slug": "blopanneau-multicolore-royal",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16173,
+      "name": "Anneau Tissé",
+      "level": 93,
+      "slug": "anneau-tisse",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17111,
+      "name": "Alliance du Capitaine Pirate",
+      "level": 94,
+      "slug": "alliance-du-capitaine-pirate",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33579,
+      "name": "Patte de Simbadas",
+      "level": 96,
+      "slug": "patte-de-simbadas",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12372,
+      "name": "Gantelet du Gorgouille",
+      "level": 97,
+      "slug": "gantelet-du-gorgouille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8448,
+      "name": "Gant du Rat Noir",
+      "level": 98,
+      "slug": "gant-du-rat-noir",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6805,
+      "name": "Bracelet du Chef Bwork",
+      "level": 100,
+      "slug": "bracelet-du-chef-bwork",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8454,
+      "name": "Gant du Rat Blanc",
+      "level": 101,
+      "slug": "gant-du-rat-blanc",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14581,
+      "name": "Bracelet Tmotiv",
+      "level": 104,
+      "slug": "bracelet-tmotiv",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6743,
+      "name": "Fourballiance",
+      "level": 104,
+      "slug": "fourballiance",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8271,
+      "name": "Anneau du Dragon Cochon",
+      "level": 108,
+      "slug": "anneau-du-dragon-cochon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 25753,
+      "name": "Anneau du rat bontarien",
+      "level": 110,
+      "slug": "anneau-du-rat-bontarien",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 25752,
+      "name": "Anneau du rat brâkmarien",
+      "level": 110,
+      "slug": "anneau-du-rat-brakmarien",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8412,
+      "name": "Alliance du Mominotor",
+      "level": 111,
+      "slug": "alliance-du-mominotor",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8269,
+      "name": "Anneau du Minotoror",
+      "level": 112,
+      "slug": "anneau-du-minotoror",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8466,
+      "name": "Anneau Ancestral",
+      "level": 113,
+      "slug": "anneau-ancestral",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17596,
+      "name": "Bague des Ecaflipuces",
+      "level": 114,
+      "slug": "bague-des-ecaflipuces",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8865,
+      "name": "Anneau Skargo",
+      "level": 115,
+      "slug": "anneau-skargo",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15784,
+      "name": "Anneau Xélomorphe",
+      "level": 117,
+      "slug": "anneau-xelomorphe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 6998,
+      "name": "Alliance d'Elya Wood",
+      "level": 119,
+      "slug": "alliance-d-elya-wood",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15783,
+      "name": "Anneau de Fraktale",
+      "level": 120,
+      "slug": "anneau-de-fraktale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12086,
+      "name": "Bague Moutheuze",
+      "level": 121,
+      "slug": "bague-moutheuze",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14497,
+      "name": "Anneau du Wabbit Céphale",
+      "level": 122,
+      "slug": "anneau-du-wabbit-cephale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8263,
+      "name": "Anneau du Meulou",
+      "level": 126,
+      "slug": "anneau-du-meulou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23261,
+      "name": "Les Casse-noisettes",
+      "level": 126,
+      "slug": "les-casse-noisettes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12085,
+      "name": "Anneau Moutheur",
+      "level": 127,
+      "slug": "anneau-moutheur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8289,
+      "name": "Anneau du Dragoeuf",
+      "level": 127,
+      "slug": "anneau-du-dragoeuf",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16004,
+      "name": "Anneau Tranchant",
+      "level": 129,
+      "slug": "anneau-tranchant",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15358,
+      "name": "Anneau Truche",
+      "level": 130,
+      "slug": "anneau-truche",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18435,
+      "name": "Anneau d'El Piko",
+      "level": 130,
+      "slug": "anneau-d-el-piko",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8460,
+      "name": "Anneau Cérémonial du Seigneur des Rats",
+      "level": 131,
+      "slug": "anneau-ceremonial-du-seigneur-des-rats",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15508,
+      "name": "Gant du Capitaine Ekarlatte",
+      "level": 132,
+      "slug": "gant-du-capitaine-ekarlatte",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23269,
+      "name": "Alliance des Firefoux",
+      "level": 136,
+      "slug": "alliance-des-firefoux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14639,
+      "name": "Nageanneau",
+      "level": 136,
+      "slug": "nageanneau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8470,
+      "name": "Anneau du Chêne Mou",
+      "level": 139,
+      "slug": "anneau-du-chene-mou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11577,
+      "name": "Anneau du Mansot Royal",
+      "level": 140,
+      "slug": "anneau-du-mansot-royal",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11621,
+      "name": "Anneau Made",
+      "level": 141,
+      "slug": "anneau-made",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32209,
+      "name": "Mitaine de Katigrou",
+      "level": 142,
+      "slug": "mitaine-de-katigrou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12090,
+      "name": "Anneau de Frigostine",
+      "level": 144,
+      "slug": "anneau-de-frigostine",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 26311,
+      "name": "Alliance d'Hell Mina",
+      "level": 146,
+      "slug": "alliance-d-hell-mina",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11622,
+      "name": "Anneau Nobstant",
+      "level": 146,
+      "slug": "anneau-nobstant",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 26308,
+      "name": "Anneau poli de Malter",
+      "level": 146,
+      "slug": "anneau-poli-de-malter",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11620,
+      "name": "Anneau Frage",
+      "level": 148,
+      "slug": "anneau-frage",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8270,
+      "name": "Bracelet du Minotot",
+      "level": 149,
+      "slug": "bracelet-du-minotot",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8714,
+      "name": "Anneau Bhli",
+      "level": 150,
+      "slug": "anneau-bhli",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8722,
+      "name": "Anneau Hell",
+      "level": 150,
+      "slug": "anneau-hell",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18615,
+      "name": "Anneau Nos",
+      "level": 150,
+      "slug": "anneau-nos",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8725,
+      "name": "Anneau Pitale",
+      "level": 150,
+      "slug": "anneau-pitale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8724,
+      "name": "Anneau Pwal",
+      "level": 150,
+      "slug": "anneau-pwal",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8721,
+      "name": "Anneau Raille",
+      "level": 150,
+      "slug": "anneau-raille",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17452,
+      "name": "Anneau Riginel",
+      "level": 150,
+      "slug": "anneau-riginel",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8719,
+      "name": "Anneau Stalgik",
+      "level": 150,
+      "slug": "anneau-stalgik",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8718,
+      "name": "Anneau Tassion",
+      "level": 150,
+      "slug": "anneau-tassion",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8723,
+      "name": "Anneau Tilus",
+      "level": 150,
+      "slug": "anneau-tilus",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16144,
+      "name": "Anneau Vae",
+      "level": 150,
+      "slug": "anneau-vae",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8720,
+      "name": "Anneau Zamour",
+      "level": 150,
+      "slug": "anneau-zamour",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8717,
+      "name": "Bague Harre",
+      "level": 150,
+      "slug": "bague-harre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8715,
+      "name": "Bague Houx",
+      "level": 150,
+      "slug": "bague-houx",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8716,
+      "name": "Bague Héra",
+      "level": 150,
+      "slug": "bague-hera",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12394,
+      "name": "Bracelet Jande",
+      "level": 150,
+      "slug": "bracelet-jande",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27555,
+      "name": "Gants Tologie",
+      "level": 150,
+      "slug": "gants-tologie",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14006,
+      "name": "Infernano",
+      "level": 150,
+      "slug": "infernano",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14008,
+      "name": "Mandrano",
+      "level": 150,
+      "slug": "mandrano",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12393,
+      "name": "Mitaine Aibre",
+      "level": 150,
+      "slug": "mitaine-aibre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13265,
+      "name": "Steamanneau Maître",
+      "level": 150,
+      "slug": "steamanneau-maitre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14007,
+      "name": "Styxano",
+      "level": 150,
+      "slug": "styxano",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14009,
+      "name": "Willkillsano",
+      "level": 150,
+      "slug": "willkillsano",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12094,
+      "name": "Anneau de Cantile",
+      "level": 153,
+      "slug": "anneau-de-cantile",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32212,
+      "name": "Bracelet de Fantômayte",
+      "level": 153,
+      "slug": "bracelet-de-fantomayte",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11578,
+      "name": "Crochet de Ben le Ripate",
+      "level": 155,
+      "slug": "crochet-de-ben-le-ripate",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8859,
+      "name": "Sceau Souverain du Roissingue",
+      "level": 158,
+      "slug": "sceau-souverain-du-roissingue",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17592,
+      "name": "Anneau des Matougarous",
+      "level": 161,
+      "slug": "anneau-des-matougarous",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11579,
+      "name": "Bague de l'Obsidiantre",
+      "level": 161,
+      "slug": "bague-de-l-obsidiantre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15059,
+      "name": "Anneau du Kaniblou",
+      "level": 162,
+      "slug": "anneau-du-kaniblou",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 23622,
+      "name": "Anneau de Koumiho",
+      "level": 164,
+      "slug": "anneau-de-koumiho",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11623,
+      "name": "Anneau Tabéné",
+      "level": 166,
+      "slug": "anneau-tabene",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11735,
+      "name": "Alliance Hestrale",
+      "level": 167,
+      "slug": "alliance-hestrale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12097,
+      "name": "Anneau des Prophètes",
+      "level": 168,
+      "slug": "anneau-des-prophetes",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32214,
+      "name": "Brassard de Vengeuse Masquée",
+      "level": 168,
+      "slug": "brassard-de-vengeuse-masquee",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18589,
+      "name": "Veranneau",
+      "level": 169,
+      "slug": "veranneau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15768,
+      "name": "Anneau de XLII",
+      "level": 171,
+      "slug": "anneau-de-xlii",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12101,
+      "name": "Alliance de Guten Tak",
+      "level": 173,
+      "slug": "alliance-de-guten-tak",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9178,
+      "name": "Anneau Bliteré",
+      "level": 174,
+      "slug": "anneau-blitere",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12100,
+      "name": "Anneau de Guten Tak",
+      "level": 175,
+      "slug": "anneau-de-guten-tak",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11714,
+      "name": "Anneau du Korriandre",
+      "level": 176,
+      "slug": "anneau-du-korriandre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32217,
+      "name": "Mitaine du YeCh'Ti",
+      "level": 178,
+      "slug": "mitaine-du-yech-ti",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9177,
+      "name": "Bracelet Ventré",
+      "level": 179,
+      "slug": "bracelet-ventre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31753,
+      "name": "Poing du Supervizœuf",
+      "level": 179,
+      "slug": "poing-du-supervizuf",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9132,
+      "name": "Anneau Chevelu",
+      "level": 180,
+      "slug": "anneau-chevelu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12104,
+      "name": "Bague de Boréale",
+      "level": 183,
+      "slug": "bague-de-boreale",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9133,
+      "name": "Alliance Boletée",
+      "level": 186,
+      "slug": "alliance-boletee",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11736,
+      "name": "Alliance Sorcelée",
+      "level": 187,
+      "slug": "alliance-sorcelee",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33603,
+      "name": "Anneau Debruk'Sayl",
+      "level": 187,
+      "slug": "anneau-debruk-sayl",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 9131,
+      "name": "Anneau Colerette",
+      "level": 188,
+      "slug": "anneau-colerette",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8991,
+      "name": "Annolamour",
+      "level": 189,
+      "slug": "annolamour",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11717,
+      "name": "Anneau de Kolosso",
+      "level": 190,
+      "slug": "anneau-de-kolosso",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12109,
+      "name": "Anneau du Professeur Xa",
+      "level": 191,
+      "slug": "anneau-du-professeur-xa",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12120,
+      "name": "Anneau de la Fuji Givrefoux",
+      "level": 192,
+      "slug": "anneau-de-la-fuji-givrefoux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32220,
+      "name": "Bague de San Jifu",
+      "level": 192,
+      "slug": "bague-de-san-jifu",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 33605,
+      "name": "Bracelet de Predagob",
+      "level": 192,
+      "slug": "bracelet-de-predagob",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32226,
+      "name": "Anneau doré du Docteur Eggob",
+      "level": 193,
+      "slug": "anneau-dore-du-docteur-eggob",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11738,
+      "name": "Anneau Aimgéroks",
+      "level": 194,
+      "slug": "anneau-aimgeroks",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27526,
+      "name": "Anneau Clochecuivre",
+      "level": 194,
+      "slug": "anneau-clochecuivre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32222,
+      "name": "Anneau de Flasho",
+      "level": 194,
+      "slug": "anneau-de-flasho",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11469,
+      "name": "Frimanneau",
+      "level": 195,
+      "slug": "frimanneau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14882,
+      "name": "Pikano",
+      "level": 195,
+      "slug": "pikano",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14932,
+      "name": "Anneau Kturne",
+      "level": 196,
+      "slug": "anneau-kturne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13629,
+      "name": "Anneau d'Henual",
+      "level": 196,
+      "slug": "anneau-d-henual",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14049,
+      "name": "Bague Nostik",
+      "level": 196,
+      "slug": "bague-nostik",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11470,
+      "name": "Grésilanneau",
+      "level": 196,
+      "slug": "gresilanneau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14058,
+      "name": "Anneau Glacial",
+      "level": 197,
+      "slug": "anneau-glacial",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13124,
+      "name": "Anneau d'Allister",
+      "level": 197,
+      "slug": "anneau-d-allister",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13642,
+      "name": "Anneau de Padgref",
+      "level": 197,
+      "slug": "anneau-de-padgref",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12114,
+      "name": "Bague Gloursonne",
+      "level": 197,
+      "slug": "bague-gloursonne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 11737,
+      "name": "Bracelet Ming",
+      "level": 197,
+      "slug": "bracelet-ming",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12969,
+      "name": "Bracelet du Minotoboule",
+      "level": 197,
+      "slug": "bracelet-du-minotoboule",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31770,
+      "name": "Gant des Voyageurs",
+      "level": 197,
+      "slug": "gant-des-voyageurs",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 12113,
+      "name": "Alliance Gloursonne",
+      "level": 198,
+      "slug": "alliance-gloursonne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14061,
+      "name": "Alliance de Missiz Frizz",
+      "level": 198,
+      "slug": "alliance-de-missiz-frizz",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13897,
+      "name": "Anneau Tamie",
+      "level": 198,
+      "slug": "anneau-tamie",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 13115,
+      "name": "Anneau de Brouce",
+      "level": 198,
+      "slug": "anneau-de-brouce",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14068,
+      "name": "Anneau Instable",
+      "level": 199,
+      "slug": "anneau-instable",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14054,
+      "name": "Anneau Vicieux",
+      "level": 199,
+      "slug": "anneau-vicieux",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15011,
+      "name": "Anneau du Père Fwetar",
+      "level": 199,
+      "slug": "anneau-du-pere-fwetar",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14067,
+      "name": "Bague Instable",
+      "level": 199,
+      "slug": "bague-instable",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 8877,
+      "name": "Kralano",
+      "level": 199,
+      "slug": "kralano",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19264,
+      "name": "Alliance Brûlâme",
+      "level": 200,
+      "slug": "alliance-brulame",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 22206,
+      "name": "Alliance de Corruption",
+      "level": 200,
+      "slug": "alliance-de-corruption",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 30943,
+      "name": "Alliance du Dark Vlad",
+      "level": 200,
+      "slug": "alliance-du-dark-vlad",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15193,
+      "name": "Alliance du Lévitrof",
+      "level": 200,
+      "slug": "alliance-du-levitrof",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 25218,
+      "name": "Alliance du Pandamonium",
+      "level": 200,
+      "slug": "alliance-du-pandamonium",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27548,
+      "name": "Amertume de Belladone",
+      "level": 200,
+      "slug": "amertume-de-belladone",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17998,
+      "name": "Anneau Crustique",
+      "level": 200,
+      "slug": "anneau-crustique",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14089,
+      "name": "Anneau Cryochrone",
+      "level": 200,
+      "slug": "anneau-cryochrone",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 21228,
+      "name": "Anneau Lunaire",
+      "level": 200,
+      "slug": "anneau-lunaire",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 24032,
+      "name": "Anneau Menclatur",
+      "level": 200,
+      "slug": "anneau-menclatur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 25215,
+      "name": "Anneau Possédé",
+      "level": 200,
+      "slug": "anneau-possede",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18037,
+      "name": "Anneau Rifique",
+      "level": 200,
+      "slug": "anneau-rifique",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 24035,
+      "name": "Anneau Rtograf",
+      "level": 200,
+      "slug": "anneau-rtograf",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14879,
+      "name": "Anneau Tique",
+      "level": 200,
+      "slug": "anneau-tique",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19608,
+      "name": "Anneau Toriété",
+      "level": 200,
+      "slug": "anneau-toriete",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19985,
+      "name": "Anneau Volkorne",
+      "level": 200,
+      "slug": "anneau-volkorne",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32234,
+      "name": "Anneau de Culbutœuf",
+      "level": 200,
+      "slug": "anneau-de-culbutuf",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15187,
+      "name": "Anneau de Nidas",
+      "level": 200,
+      "slug": "anneau-de-nidas",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15698,
+      "name": "Anneau de Pol Ouatnos",
+      "level": 200,
+      "slug": "anneau-de-pol-ouatnos",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15740,
+      "name": "Anneau des égarés",
+      "level": 200,
+      "slug": "anneau-des-egares",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14077,
+      "name": "Anneau du Comte Harebourg",
+      "level": 200,
+      "slug": "anneau-du-comte-harebourg",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 14092,
+      "name": "Anneau du Cycloïde",
+      "level": 200,
+      "slug": "anneau-du-cycloide",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15440,
+      "name": "Anneau du Katcheur",
+      "level": 200,
+      "slug": "anneau-du-katcheur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19977,
+      "name": "Anneau en Grithril",
+      "level": 200,
+      "slug": "anneau-en-grithril",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18599,
+      "name": "Anneauræus",
+      "level": 200,
+      "slug": "anneaurus",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18029,
+      "name": "Bague Trithon",
+      "level": 200,
+      "slug": "bague-trithon",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 22205,
+      "name": "Bague de Corruption",
+      "level": 200,
+      "slug": "bague-de-corruption",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 18594,
+      "name": "Baguistik",
+      "level": 200,
+      "slug": "baguistik",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32240,
+      "name": "Boulon de Mekamouth",
+      "level": 200,
+      "slug": "boulon-de-mekamouth",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 16005,
+      "name": "Bracelet des Fonds marins",
+      "level": 200,
+      "slug": "bracelet-des-fonds-marins",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 15190,
+      "name": "Bracelet du Piloztère",
+      "level": 200,
+      "slug": "bracelet-du-piloztere",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 22192,
+      "name": "Ceste de Guerre",
+      "level": 200,
+      "slug": "ceste-de-guerre",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 26007,
+      "name": "Ceste de Ravageur",
+      "level": 200,
+      "slug": "ceste-de-ravageur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32231,
+      "name": "Ceste gelé du Chevalier de Glace",
+      "level": 200,
+      "slug": "ceste-gele-du-chevalier-de-glace",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17574,
+      "name": "Chevalière du Roi Joueur",
+      "level": 200,
+      "slug": "chevaliere-du-roi-joueur",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 22186,
+      "name": "Convoitise de Misère",
+      "level": 200,
+      "slug": "convoitise-de-misere",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 21223,
+      "name": "Crocanneau",
+      "level": 200,
+      "slug": "crocanneau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27547,
+      "name": "Cruauté de Belladone",
+      "level": 200,
+      "slug": "cruaute-de-belladone",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 26018,
+      "name": "Dernière Aube",
+      "level": 200,
+      "slug": "derniere-aube",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32243,
+      "name": "Gant de Psikopompe",
+      "level": 200,
+      "slug": "gant-de-psikopompe",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 17582,
+      "name": "Gant du Valet Veinard",
+      "level": 200,
+      "slug": "gant-du-valet-veinard",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19078,
+      "name": "Goulano",
+      "level": 200,
+      "slug": "goulano",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 19597,
+      "name": "Lavanneau",
+      "level": 200,
+      "slug": "lavanneau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 31799,
+      "name": "Malédiction du Vénérable Endormi",
+      "level": 200,
+      "slug": "malediction-du-venerable-endormi",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 26021,
+      "name": "Mort du Centoror",
+      "level": 200,
+      "slug": "mort-du-centoror",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32439,
+      "name": "Osanneau",
+      "level": 200,
+      "slug": "osanneau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32119,
+      "name": "Ponctualité d'Henual",
+      "level": 200,
+      "slug": "ponctualite-d-henual",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": true
+    },
+    {
+      "id": 27549,
+      "name": "Tendresse de Belladone",
+      "level": 200,
+      "slug": "tendresse-de-belladone",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 27515,
+      "name": "Triste Sceau",
+      "level": 200,
+      "slug": "triste-sceau",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    },
+    {
+      "id": 32241,
+      "name": "Écrou de Mekamouth",
+      "level": 200,
+      "slug": "ecrou-de-mekamouth",
+      "exchangeable": true,
+      "isSaleable": true,
+      "isLegendary": false
+    }
+  ]
+}
